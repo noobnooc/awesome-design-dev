@@ -2,6 +2,8 @@
 
 ![Banner](banner.svg)
 
+Also available in: [中文](README.zh.md)
+
 ## Contents
 
 - [UI Libraries](#ui-libraries)
@@ -9,7 +11,8 @@
 - [Illustrations](#illustrations)
 - [Templates](#templates)
 - [Photography](#photography)
-- [Fonts](#fonts)
+- [Fonts](#fonts)'
+- [Colors](#colors)
 - [Tools](#tools)
 - [Books](#books)
 - [Communities](#communities)
@@ -80,6 +83,7 @@
 
 ## Colors
 
+- [HyperColor](https://hypercolor.dev) - A curated collection of beautiful Tailwind CSS gradients using the full range of Tailwind CSS colors.
 - [Color Hunt](https://colorhunt.co) - Color palettes for designers and artists.
 - [Color Lisa](https://colorlisa.com) - Color palette masterpieces from the world's greatest artists.
 - [Brand Colors](https://brandcolors.net) - The biggest collection of official brand color codes around.
