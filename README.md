@@ -11,7 +11,7 @@ Also available in: [中文](README.zh.md)
 - [Illustrations](#illustrations)
 - [Templates](#templates)
 - [Photography](#photography)
-- [Fonts](#fonts)'
+- [Fonts](#fonts)
 - [Colors](#colors)
 - [Tools](#tools)
 - [Books](#books)
