@@ -35,6 +35,7 @@ Also available in: [中文](README.zh.md)
 
 - [Lucide](https://lucide.dev/) - Beautiful & consistent icons made by the community.
 - [Phosphor Icons](https://phosphoricons.com) - A flexible icon family for interfaces, diagrams, presentations — whatever, really.
+- [Tabler Icons](https://tabler.io/icons) - Free and open source icons designed to make your website or app attractive, visually consistent and simply beautiful.
 - [Remix Icon](https://remixicon.com) - Open-source neutral-style system symbols elaborately crafted for designers and developers. All of the icons are free for both personal and commercial use.
 - [Isocons](https://www.isocons.app) - Isometric icons for your products, projects, posters and presentations.
 - [pqoqubbw/icons](https://icons.pqoqubbw.dev) - beautifully crafted animated icons.

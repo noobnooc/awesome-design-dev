@@ -35,6 +35,7 @@
 
 - [Lucide](https://lucide.dev/) - 由社区制作的美丽且一致的图标。
 - [Phosphor Icons](https://phosphoricons.com) - 一个灵活的图标家族，适用于界面、图表、演示文稿等。
+- [Tabler Icons](https://tabler.io/icons) - 旨在让您的网站或应用程序具有吸引力、视觉一致且简洁美观的免费和开源图标。
 - [Remix Icon](https://remixicon.com) - 开源的中性风格系统符号，精心为设计师和开发人员制作。所有图标均可免费用于个人和商业用途。
 - [Isocons](https://www.isocons.app) - 适用于您的产品、项目、海报和演示文稿的等距图标。
 - [pqoqubbw/icons](https://icons.pqoqubbw.dev) - 精美制作的动画图标。
