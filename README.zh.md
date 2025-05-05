@@ -26,6 +26,7 @@
 - [Cult UI](https://www.cult-ui.com) - 适用于 React 应用的即用型组件。兼容 Shadcn，使用 Tailwindcss 构建。开源，类型安全。
 - [Animata](https://animata.design) - 精心制作的交互动画和效果集合，可直接复制粘贴到您的项目中。
 - [Headless UI](https://headlessui.com) - 完全无样式、完全可访问的 UI 组件，专为与 Tailwind CSS 完美集成而设计。
+- [Uiverse](https://uiverse.io) - 社区构建的 UI 组件库。可以复制为 HTML/CSS、Tailwind、React 和 Figma。
 - [Neobrutalism](https://www.neobrutalism.dev) - 基于 shadcn/ui 的新野兽主义风格组件集合。
 - [Origin UI](https://originui.com) - 使用 Tailwind CSS 和 React 构建的精美 UI 组件。
 - [daisyUI](https://daisyui.com) - 您会喜欢的 Tailwind CSS 插件！它提供了实用的组件类名，帮助您编写更少的代码，构建更快。

@@ -26,6 +26,7 @@ Also available in: [中文](README.zh.md)
 - [Cult UI](https://www.cult-ui.com) - Ready-to-use components for your react apps. Shadcn compatible. Styled with tailwindcss. Copy and paste, open source, typed.
 - [Animata](https://animata.design) - Hand-crafted interaction animations and effects from around the internet to copy and paste into your project.
 - [Headless UI](https://headlessui.com) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+- [Uiverse](https://uiverse.io) - Community-built library of UI elements. Copy as HTML/CSS, Tailwind, React and Figma.
 - [Neobrutalism](https://www.neobrutalism.dev) - A collection of neobrutalism-styled components based on shadcn/ui.
 - [Origin UI](https://originui.com) - Beautiful UI components built with Tailwind CSS and React.
 - [daisyUI](https://daisyui.com) - daisyUI is the Tailwind CSS plugin you will love! It provides useful component class names to help you write less code and build faster.
