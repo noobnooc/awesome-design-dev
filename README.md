@@ -31,6 +31,10 @@ Also available in: [中文](README.zh.md)
 - [Origin UI](https://originui.com) - Beautiful UI components built with Tailwind CSS and React.
 - [daisyUI](https://daisyui.com) - daisyUI is the Tailwind CSS plugin you will love! It provides useful component class names to help you write less code and build faster.
 - [Preline](https://preline.co) - An open-source Tailwind CSS components library for any needs. Comes with UI examples & blocks, templates, plugins, Figma design system and more.
+- [Mantine](https://mantine.dev) - A full-featured React components library with TypeScript support, theming system, and powerful hooks.
+- [Ant Design](https://ant.design) - An enterprise-class UI design language and React UI library with dozens of high-quality components.
+- [Chakra UI](https://chakra-ui.com) - A simple, modular and accessible component library for React applications.
+- [NextUI](https://nextui.org) - Beautiful, fast and modern React UI library with TypeScript support and built-in dark mode.
 
 ## Icons
 
@@ -45,6 +49,9 @@ Also available in: [中文](README.zh.md)
 - [Nucleoapp](https://nucleoapp.com) - 💵 44k+ premium-quality SVG icons, regularly updated for UIs, presentations, and print projects.
 - [Icônes](https://icones.js.org) - Icon Explorer with Instant searching.
 - [macOS Icon Gallery](https://www.macosicongallery.com) - A collection of macOS icons.
+- [Heroicons](https://heroicons.com) - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
+- [Feather Icons](https://feathericons.com) - Simply beautiful open source icons with clean 24x24 grid and crisp stroke design.
+- [React Icons](https://react-icons.github.io/react-icons/) - Include popular icons in your React projects easily with react-icons.
 
 ## Illustrations
 
@@ -56,6 +63,9 @@ Also available in: [中文](README.zh.md)
 - [DrawKit](https://www.drawkit.com) - 💵 Hand-drawn 2D & 3D illustrations, icons and animations. Perfect for your next project. All in one place.
 - [Storyset](https://storyset.com) - Awesome free customizable illustrations for your next project.
 - [Shapefest](https://shapefest.com) - 💵 100K+ transparent PNG images of beautiful 3D objects .
+- [Blush](https://blush.design) - Free customizable illustrations with Figma Plugin. Create, edit, and use illustrations in your designs.
+- [Open Peeps](https://www.openpeeps.com) - A hand-drawn illustration library to create scenes of people. You can use them in product illustration, marketing, comics, and more.
+- [Humaaans](https://www.humaaans.com) - Mix-&-match illustrations of people with a design library for InVision Studio and Sketch.
 
 ## Templates
 
@@ -74,6 +84,9 @@ Also available in: [中文](README.zh.md)
 - [Pixabay](https://pixabay.com) - Stunning royalty-free images & royalty-free stock.
 - [Deposit Photos](https://depositphotos.com) - 💵 Royalty-free Stock Photos, Vector Images, Videos and Music.
 - [UI Faces](https://uifaces.co) - Free AI-generated avatars for your creative projects.
+- [Freepik](https://www.freepik.com) - 💵 Millions of free vectors, PSD files, photos and AI-generated images. Premium resources for your creative projects.
+- [Burst by Shopify](https://burst.shopify.com) - Free stock photos for websites and commercial use. Download high-resolution images for your next project.
+- [StockVault](https://www.stockvault.net) - Free stock photos, graphics, and videos. High-quality images for your creative projects.
 
 ## Fonts
 
@@ -92,6 +105,9 @@ Also available in: [中文](README.zh.md)
 - [Brand Colors](https://brandcolors.net) - The biggest collection of official brand color codes around.
 - [The day's color](https://www.thedayscolor.com) - The daily color digest.
 - [Color Drop](https://colordrop.io) - Color palette tool built for creatives to help get inspiration for designs or projects they're working on.
+- [Coolors.co](https://coolors.co) - The super fast color palettes generator! Generate, save, and share perfect palettes in seconds.
+- [Adobe Color](https://color.adobe.com) - Create color themes and palettes or browse thousands of color combinations from the Color community.
+- [Tailwind Colors](https://tailwindcss.com/docs/customizing-colors) - A comprehensive color system with carefully crafted palettes from the Tailwind CSS team.
 
 ## Tools
 
@@ -106,6 +122,9 @@ Also available in: [中文](README.zh.md)
 - [Framer](https://www.framer.com) - 💵 The website builder loved by designers.
 - [Figma](https://www.figma.com) - 💵 A collaborative interface design tool.
 - [Sketch](https://www.sketch.com) - 💵 A toolkit made by designers, for designers, that puts the focus on you and your work.
+- [Canva](https://www.canva.com) - 💵 Create stunning designs easily with Canva's drag-and-drop feature and professional layouts.
+- [Adobe XD](https://www.adobe.com/products/xd.html) - 💵 Vector-based user experience design tool for web and mobile apps.
+- [InVision](https://www.invisionapp.com) - 💵 Digital product design platform powering the world's best user experiences.
 
 ## Books
 
