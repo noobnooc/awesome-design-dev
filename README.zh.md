@@ -31,6 +31,10 @@
 - [Origin UI](https://originui.com) - 使用 Tailwind CSS 和 React 构建的精美 UI 组件。
 - [daisyUI](https://daisyui.com) - 您会喜欢的 Tailwind CSS 插件！它提供了实用的组件类名，帮助您编写更少的代码，构建更快。
 - [Preline](https://preline.co) - 一个开源的 Tailwind CSS 组件库，适用于各种需求。提供 UI 示例和区块、模板、插件、Figma 设计系统等。
+- [Mantine](https://mantine.dev) - 功能齐全的 React 组件库，支持 TypeScript、主题系统和强大的钩子函数。
+- [Ant Design](https://ant.design) - 企业级 UI 设计语言和 React UI 库，拥有数十个高质量组件。
+- [Chakra UI](https://chakra-ui.com) - 适用于 React 应用程序的简单、模块化且可访问的组件库。
+- [NextUI](https://nextui.org) - 美观、快速、现代的 React UI 库，支持 TypeScript 和内置暗色模式。
 
 ## 图标
 
@@ -45,6 +49,9 @@
 - [Nucleoapp](https://nucleoapp.com) - 💵 44000+ 高质量的 SVG 图标，定期更新，适用于 UI、演示文稿和印刷项目。
 - [Icônes](https://icones.js.org) - 图标浏览器，支持即时搜索。
 - [macOS Icon Gallery](https://www.macosicongallery.com) - macOS 图标集合。
+- [Heroicons](https://heroicons.com) - 由 Tailwind CSS 制作者精心制作的美丽手绘 SVG 图标。
+- [Feather Icons](https://feathericons.com) - 简洁美丽的开源图标，采用清晰的 24x24 网格和锐利的笔画设计。
+- [React Icons](https://react-icons.github.io/react-icons/) - 使用 react-icons 轻松在 React 项目中包含流行图标。
 
 ## 插图
 
@@ -56,6 +63,9 @@
 - [DrawKit](https://www.drawkit.com) - 💵 手绘 2D 和 3D 插图、图标和动画。完美适用于您的下一个项目。所有资源都在一个地方。
 - [Storyset](https://storyset.com) - 为您的下一个项目提供的免费可定制插图。
 - [Shapefest](https://shapefest.com) - 💵 100K+ 透明 PNG 图像的美丽 3D 对象。
+- [Blush](https://blush.design) - 免费可定制插图，带 Figma 插件。在您的设计中创建、编辑和使用插图。
+- [Open Peeps](https://www.openpeeps.com) - 手绘人物插图库，用于创建人物场景。可用于产品插图、营销、漫画等。
+- [Humaaans](https://www.humaaans.com) - 可混合搭配的人物插图，为 InVision Studio 和 Sketch 提供设计库。
 
 ## 模板
 
@@ -74,6 +84,9 @@
 - [Pixabay](https://pixabay.com) - 精美的免版税图片和免版税图库。
 - [Deposit Photos](https://depositphotos.com) - 💵 免版税图库照片、矢量图像、视频和音乐。
 - [UI Faces](https://uifaces.co) - 免费的 AI 生成头像，适用于您的创意项目。
+- [Freepik](https://www.freepik.com) - 💵 数百万免费矢量图、PSD 文件、照片和 AI 生成图像。为您的创意项目提供高级资源。
+- [Burst by Shopify](https://burst.shopify.com) - 免费的网站和商业使用库存照片。为您的下一个项目下载高分辨率图像。
+- [StockVault](https://www.stockvault.net) - 免费的库存照片、图形和视频。为您的创意项目提供高质量图像。
 
 ## 字体
 
@@ -92,6 +105,9 @@
 - [Brand Colors](https://brandcolors.net) - 最大的官方品牌颜色代码集合。
 - [The day's color](https://www.thedayscolor.com) - 每日颜色摘要。
 - [Color Drop](https://colordrop.io) - 为创意人士打造的配色工具，帮助他们为设计或项目获取灵感。
+- [Coolors.co](https://coolors.co) - 超快的调色板生成器！几秒钟内生成、保存和分享完美的调色板。
+- [Adobe Color](https://color.adobe.com) - 创建颜色主题和调色板，或浏览来自 Color 社区的数千种颜色组合。
+- [Tailwind Colors](https://tailwindcss.com/docs/customizing-colors) - 来自 Tailwind CSS 团队精心制作的综合颜色系统。
 
 ## 工具
 
@@ -106,6 +122,9 @@
 - [Framer](https://www.framer.com) - 💵 设计师喜爱的建站工具。
 - [Figma](https://www.figma.com) - 💵 一个协作界面设计工具。
 - [Sketch](https://www.sketch.com) - 💵 由设计师为设计师制作的工具包，专注于您和您的工作。
+- [Canva](https://www.canva.com) - 💵 使用 Canva 的拖放功能和专业布局轻松创建令人惊叹的设计。
+- [Adobe XD](https://www.adobe.com/products/xd.html) - 💵 基于矢量的 Web 和移动应用程序用户体验设计工具。
+- [InVision](https://www.invisionapp.com) - 💵 为世界最佳用户体验提供支持的数字产品设计平台。
 
 ## 书籍
 
