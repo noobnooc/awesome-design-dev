@@ -34,7 +34,7 @@
 - [Mantine](https://mantine.dev) - 功能齐全的 React 组件库，支持 TypeScript、主题系统和强大的钩子函数。
 - [Ant Design](https://ant.design) - 企业级 UI 设计语言和 React UI 库，拥有数十个高质量组件。
 - [Chakra UI](https://chakra-ui.com) - 适用于 React 应用程序的简单、模块化且可访问的组件库。
-- [NextUI](https://nextui.org) - 美观、快速、现代的 React UI 库，支持 TypeScript 和内置暗色模式。
+- [HeroUI](https://www.heroui.com) - 美观、快速、现代的 React UI 库，支持 TypeScript 和内置暗色模式。
 
 ## 图标
 
@@ -50,7 +50,7 @@
 - [Icônes](https://icones.js.org) - 图标浏览器，支持即时搜索。
 - [macOS Icon Gallery](https://www.macosicongallery.com) - macOS 图标集合。
 - [Heroicons](https://heroicons.com) - 由 Tailwind CSS 制作者精心制作的美丽手绘 SVG 图标。
-- [Feather Icons](https://feathericons.com) - 简洁美丽的开源图标，采用清晰的 24x24 网格和锐利的笔画设计。
+
 - [React Icons](https://react-icons.github.io/react-icons/) - 使用 react-icons 轻松在 React 项目中包含流行图标。
 
 ## 插图
@@ -65,7 +65,7 @@
 - [Shapefest](https://shapefest.com) - 💵 100K+ 透明 PNG 图像的美丽 3D 对象。
 - [Blush](https://blush.design) - 免费可定制插图，带 Figma 插件。在您的设计中创建、编辑和使用插图。
 - [Open Peeps](https://www.openpeeps.com) - 手绘人物插图库，用于创建人物场景。可用于产品插图、营销、漫画等。
-- [Humaaans](https://www.humaaans.com) - 可混合搭配的人物插图，为 InVision Studio 和 Sketch 提供设计库。
+
 
 ## 模板
 
@@ -76,17 +76,17 @@
 
 ## 摄影
 
-- [Unsplash](https://unsplash.com) - 互联网的视觉来源。由全球创作者提供支持。
-- [Pexels](https://www.pexels.com) - 最佳的免费图库照片、免版税图片和视频，由创作者分享。
-- [Life of pix](https://www.lifeofpix.com) - 免费的高分辨率摄影作品。
-- [BARNIMAGES](https://barnimages.com) - 免费的高分辨率图像，适用于所有人。
-- [Little Visuals](https://littlevisuals.co) - 免费的高分辨率图像。您可以随意使用 - 免费用于商业用途。
-- [Pixabay](https://pixabay.com) - 精美的免版税图片和免版税图库。
-- [Deposit Photos](https://depositphotos.com) - 💵 免版税图库照片、矢量图像、视频和音乐。
-- [UI Faces](https://uifaces.co) - 免费的 AI 生成头像，适用于您的创意项目。
-- [Freepik](https://www.freepik.com) - 💵 数百万免费矢量图、PSD 文件、照片和 AI 生成图像。为您的创意项目提供高级资源。
-- [Burst by Shopify](https://burst.shopify.com) - 免费的网站和商业使用库存照片。为您的下一个项目下载高分辨率图像。
-- [StockVault](https://www.stockvault.net) - 免费的库存照片、图形和视频。为您的创意项目提供高质量图像。
+- [Unsplash](https://unsplash.com) - 互联网视觉资源平台。由全球创作者提供支持。
+- [Pexels](https://www.pexels.com) - 最佳免费库存照片、免费图片和视频，由创作者分享。
+- [Pixabay](https://pixabay.com) - 惊艳的免费图片和库存照片。
+- [Burst by Shopify](https://burst.shopify.com) - 免费库存照片，适用于网站和商业用途。为您的下一个项目下载高分辨率图像。
+- [StockVault](https://www.stockvault.net) - 免费库存照片、图形和视频。为您的创意项目提供高质量图像。
+- [Life of pix](https://www.lifeofpix.com) - 免费高分辨率摄影。
+- [BARNIMAGES](https://barnimages.com) - 适合所有人的免费高分辨率图像。
+- [Little Visuals](https://littlevisuals.co) - 免费高分辨率图像。可以随意使用 - 免费商用。
+- [UI Faces](https://uifaces.co) - 为您的创意项目提供免费 AI 生成头像。
+- [Deposit Photos](https://depositphotos.com) - 💵 免费版权库存照片、矢量图像、视频和音乐。
+- [Freepik](https://www.freepik.com) - 💵 数百万免费矢量、PSD 文件、照片和 AI 生成图像。创意项目的优质资源。
 
 ## 字体
 
@@ -99,31 +99,30 @@
 
 ## 颜色
 
-- [HyperColor](https://hypercolor.dev) - 使用 Tailwind CSS 全套颜色精心策划的一系列漂亮的 Tailwind CSS 渐变。
-- [Color Hunt](https://colorhunt.co) - 设计师和艺术家的配色方案。
-- [Color Lisa](https://colorlisa.com) - 世界上最伟大的艺术家的配色方案。
-- [Brand Colors](https://brandcolors.net) - 最大的官方品牌颜色代码集合。
-- [The day's color](https://www.thedayscolor.com) - 每日颜色摘要。
-- [Color Drop](https://colordrop.io) - 为创意人士打造的配色工具，帮助他们为设计或项目获取灵感。
-- [Coolors.co](https://coolors.co) - 超快的调色板生成器！几秒钟内生成、保存和分享完美的调色板。
-- [Adobe Color](https://color.adobe.com) - 创建颜色主题和调色板，或浏览来自 Color 社区的数千种颜色组合。
-- [Tailwind Colors](https://tailwindcss.com/docs/customizing-colors) - 来自 Tailwind CSS 团队精心制作的综合颜色系统。
+- [Coolors.co](https://coolors.co) - 超快调色板生成器！在几秒钟内生成、保存和分享完美的调色板。
+- [Adobe Color](https://color.adobe.com) - 创建色彩主题和调色板，或浏览来自 Color 社区的数千种颜色组合。
+- [Tailwind Colors](https://tailwindcss.com/docs/customizing-colors) - Tailwind CSS 团队精心制作的综合色彩系统。
+- [HyperColor](https://hypercolor.dev) - 使用 Tailwind CSS 全系列颜色的精美 Tailwind CSS 渐变合集。
+- [Color Hunt](https://colorhunt.co) - 设计师和艺术家的调色板。
+- [Color Lisa](https://colorlisa.com) - 来自世界伟大艺术家的调色板杰作。
+- [Brand Colors](https://brandcolors.net) - 最大的官方品牌色彩代码合集。
+- [The day's color](https://www.thedayscolor.com) - 每日色彩文摘。
+- [Color Drop](https://colordrop.io) - 为创意人士打造的调色板工具，帮助获取设计或项目工作的灵感。
 
 ## 工具
 
-- [Shots](https://shots.so) - 几秒钟内创建惊人的模型图。
-- [Rive](https://rive.app) - 一种设计、构建和发布用户界面的新方式。
-- [Rotato](https://rotato.app) - 💵 几分钟内制作 3D 模型图像和电影。
-- [Spline](https://spline.design) - 💵 一个设计和协作 3D 的地方。
-- [Lottielab](https://www.lottielab.com) - 为产品团队设计的动画设计工具。
-- [Penpot](https://penpot.app) - 基于 Web 的开源设计工具，弥合设计师和开发人员之间的差距。
+- [Penpot](https://penpot.app) - Penpot 是基于 Web 的开源设计工具，连接设计师和开发人员之间的差距。
+- [Shots](https://shots.so) - 在几秒钟内创建惊人的模型。
+- [Rive](https://rive.app) - 设计、构建和发布用户界面的新方法
+- [Lottielab](https://www.lottielab.com) - 产品团队的动态设计工具。
+- [Notion Avatar Maker](https://notion-avatar.app) - 制作 notion 风格头像。
+- [Rotato](https://rotato.app) - 💵 几分钟内制作 3D 模型图像和视频。
+- [Spline](https://spline.design) - 💵 3D 设计和协作的地方。
 - [Shuffle](https://shuffle.dev/) - 💵 轻松创建登陆页面、仪表板和电子商务模板。
-- [Notion Avatar Maker](https://notion-avatar.app) - 制作 Notion 风格的头像。
-- [Framer](https://www.framer.com) - 💵 设计师喜爱的建站工具。
-- [Figma](https://www.figma.com) - 💵 一个协作界面设计工具。
+- [Framer](https://www.framer.com) - 💵 设计师喜爱的网站构建器。
+- [Figma](https://www.figma.com) - 💵 协作界面设计工具。
 - [Sketch](https://www.sketch.com) - 💵 由设计师为设计师制作的工具包，专注于您和您的工作。
 - [Canva](https://www.canva.com) - 💵 使用 Canva 的拖放功能和专业布局轻松创建令人惊叹的设计。
-- [Adobe XD](https://www.adobe.com/products/xd.html) - 💵 基于矢量的 Web 和移动应用程序用户体验设计工具。
 - [InVision](https://www.invisionapp.com) - 💵 为世界最佳用户体验提供支持的数字产品设计平台。
 
 ## 书籍
