@@ -35,6 +35,7 @@ Also available in: [中文](README.zh.md)
 - [Ant Design](https://ant.design) - An enterprise-class UI design language and React UI library with dozens of high-quality components.
 - [Chakra UI](https://chakra-ui.com) - A simple, modular and accessible component library for React applications.
 - [HeroUI](https://www.heroui.com) - Beautiful, fast and modern React UI library with TypeScript support and built-in dark mode.
+- [blocks.so](https://blocks.so) - A set of clean, modern building blocks to copy and paste into your apps. Works with all React frameworks
 
 ## Icons
 
