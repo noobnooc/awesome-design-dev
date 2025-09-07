@@ -2,7 +2,7 @@
 
 ![Banner](banner.svg)
 
-其他语言版本: [English](README.md)
+其他语言版本: [English](README.md) | [Español](README.es.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [日本語](README.ja.md)
 
 ## 目录
 

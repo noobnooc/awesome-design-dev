@@ -2,7 +2,7 @@
 
 ![Banner](banner.svg)
 
-Also available in: [中文](README.zh.md)
+Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [日本語](README.ja.md)
 
 ## Contents
 
