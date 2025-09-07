@@ -29,6 +29,7 @@
 - [Uiverse](https://uiverse.io) - 社区构建的 UI 组件库。可以复制为 HTML/CSS、Tailwind、React 和 Figma。
 - [Neobrutalism](https://www.neobrutalism.dev) - 基于 shadcn/ui 的新野兽主义风格组件集合。
 - [Origin UI](https://originui.com) - 使用 Tailwind CSS 和 React 构建的精美 UI 组件。
+- [blocks.so](https://blocks.so) - 一组干净、现代的构建块，可复制并粘贴到您的应用中。适用于所有 React 框架。
 - [daisyUI](https://daisyui.com) - 您会喜欢的 Tailwind CSS 插件！它提供了实用的组件类名，帮助您编写更少的代码，构建更快。
 - [Preline](https://preline.co) - 一个开源的 Tailwind CSS 组件库，适用于各种需求。提供 UI 示例和区块、模板、插件、Figma 设计系统等。
 - [Mantine](https://mantine.dev) - 功能齐全的 React 组件库，支持 TypeScript、主题系统和强大的钩子函数。
@@ -65,7 +66,6 @@
 - [Shapefest](https://shapefest.com) - 💵 100K+ 透明 PNG 图像的美丽 3D 对象。
 - [Blush](https://blush.design) - 免费可定制插图，带 Figma 插件。在您的设计中创建、编辑和使用插图。
 - [Open Peeps](https://www.openpeeps.com) - 手绘人物插图库，用于创建人物场景。可用于产品插图、营销、漫画等。
-
 
 ## 模板
 

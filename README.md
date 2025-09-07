@@ -29,13 +29,13 @@ Also available in: [中文](README.zh.md)
 - [Uiverse](https://uiverse.io) - Community-built library of UI elements. Copy as HTML/CSS, Tailwind, React and Figma.
 - [Neobrutalism](https://www.neobrutalism.dev) - A collection of neobrutalism-styled components based on shadcn/ui.
 - [Origin UI](https://originui.com) - Beautiful UI components built with Tailwind CSS and React.
+- [blocks.so](https://blocks.so) - A set of clean, modern building blocks to copy and paste into your apps. Works with all React frameworks.
 - [daisyUI](https://daisyui.com) - daisyUI is the Tailwind CSS plugin you will love! It provides useful component class names to help you write less code and build faster.
 - [Preline](https://preline.co) - An open-source Tailwind CSS components library for any needs. Comes with UI examples & blocks, templates, plugins, Figma design system and more.
 - [Mantine](https://mantine.dev) - A full-featured React components library with TypeScript support, theming system, and powerful hooks.
 - [Ant Design](https://ant.design) - An enterprise-class UI design language and React UI library with dozens of high-quality components.
 - [Chakra UI](https://chakra-ui.com) - A simple, modular and accessible component library for React applications.
 - [HeroUI](https://www.heroui.com) - Beautiful, fast and modern React UI library with TypeScript support and built-in dark mode.
-- [blocks.so](https://blocks.so) - A set of clean, modern building blocks to copy and paste into your apps. Works with all React frameworks
 
 ## Icons
 
@@ -65,7 +65,6 @@ Also available in: [中文](README.zh.md)
 - [Shapefest](https://shapefest.com) - 💵 100K+ transparent PNG images of beautiful 3D objects .
 - [Blush](https://blush.design) - Free customizable illustrations with Figma Plugin. Create, edit, and use illustrations in your designs.
 - [Open Peeps](https://www.openpeeps.com) - A hand-drawn illustration library to create scenes of people. You can use them in product illustration, marketing, comics, and more.
-
 
 ## Templates
 
