@@ -45,7 +45,7 @@
 - [The Thiings Collection](https://www.thiings.co) - 一个不断增长的 5000 多个免费 3D 图标集合，由 AI 生成。非常适合设计师和创意项目。
 - [Remix Icon](https://remixicon.com) - 开源的中性风格系统符号，精心为设计师和开发人员制作。所有图标均可免费用于个人和商业用途。
 - [Isocons](https://www.isocons.app) - 适用于您的产品、项目、海报和演示文稿的等距图标。
-- [pqoqubbw/icons](https://icons.pqoqubbw.dev) - 精美制作的动画图标。
+- [lucide-animated](https://lucide-animated.com) - 精美制作的动画图标。
 - [Simple Icons](https://simpleicons.org) - 3000+ 流行品牌的 SVG 图标。
 - [Nucleoapp](https://nucleoapp.com) - 💵 44000+ 高质量的 SVG 图标，定期更新，适用于 UI、演示文稿和印刷项目。
 - [Icônes](https://icones.js.org) - 图标浏览器，支持即时搜索。

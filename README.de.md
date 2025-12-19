@@ -49,7 +49,7 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Icônes](https://icones.js.org) - Icon-Explorer mit sofortiger Suche.
 - [The Thiings Collection](https://www.thiings.co) - Eine wachsende Sammlung von über 5000 kostenlosen 3D-Icons, generiert mit KI. Perfekt für Designer und kreative Projekte.
 - [Isocons](https://www.isocons.app) - Isometrische Icons für Ihre Produkte, Projekte, Poster und Präsentationen.
-- [pqoqubbw/icons](https://icons.pqoqubbw.dev) - Schön gestaltete animierte Icons.
+- [lucide-animated](https://lucide-animated.com) - Schön gestaltete animierte Icons.
 - [macOS Icon Gallery](https://www.macosicongallery.com) - Eine Sammlung von macOS-Icons.
 - [Nucleoapp](https://nucleoapp.com) - 💵 Über 44k Premium-Qualität SVG-Icons, regelmäßig für UIs, Präsentationen und Druckprojekte aktualisiert.
 

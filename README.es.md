@@ -49,7 +49,7 @@ También disponible en: [English](README.md) | [中文](README.zh.md) | [França
 - [Icônes](https://icones.js.org) - Explorador de iconos con búsqueda instantánea.
 - [The Thiings Collection](https://www.thiings.co) - Una colección creciente de más de 5000 iconos 3D gratuitos, generados con IA. Perfectos para diseñadores y proyectos creativos.
 - [Isocons](https://www.isocons.app) - Iconos isométricos para tus productos, proyectos, pósters y presentaciones.
-- [pqoqubbw/icons](https://icons.pqoqubbw.dev) - Iconos animados hermosamente elaborados.
+- [lucide-animated](https://lucide-animated.com) - Iconos animados hermosamente elaborados.
 - [macOS Icon Gallery](https://www.macosicongallery.com) - Una colección de iconos de macOS.
 - [Nucleoapp](https://nucleoapp.com) - 💵 Más de 44k iconos SVG de calidad premium, actualizados regularmente para UIs, presentaciones y proyectos impresos.
 
