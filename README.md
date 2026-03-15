@@ -65,6 +65,15 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Shapefest](https://shapefest.com) - 💵 100K+ transparent PNG images of beautiful 3D objects .
 - [Blush](https://blush.design) - Free customizable illustrations with Figma Plugin. Create, edit, and use illustrations in your designs.
 - [Open Peeps](https://www.openpeeps.com) - A hand-drawn illustration library to create scenes of people. You can use them in product illustration, marketing, comics, and more.
+- [Handz](https://handz.design) - Free library of 320+ diverse 3D hand illustrations with Blender source files.
+- [Mockupz](https://mockupz.design) - Free 3D mockup scenes for showcasing your design work.
+- [Robotz](https://threedee.design/cartoon-robot) - Free modular 3D cartoon robot with customizable heads, bodies and hands.
+- [Fontz](https://fontz.design) - Free 3D fonts with Blender source files for your next design project.
+- [Characterz](https://characterz.design) - 💵 9,000+ customizable diverse 3D character illustrations with Blender source files.
+- [Emojiz](https://emojiz.design) - 💵 77+ animated 3D emoji illustrations with Blender source files.
+- [Illustrationz](https://illustrationz.design) - 💵 100+ 3D character illustration packs with 167M+ combinations.
+- [Iconz](https://iconz.design) - 💵 460+ 3D icons in multiple angles and materials.
+- [Chibiz](https://threedee.design/products/3d-models/chibi-3d-model/) - 💵 Modular chibi 3D characters with mix-and-match outfits, hair, and accessories.
 
 ## Templates
 
