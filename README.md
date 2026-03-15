@@ -32,7 +32,6 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Origin UI](https://originui.com) - Beautiful UI components built with Tailwind CSS and React.
 - [blocks.so](https://blocks.so) - A set of clean, modern building blocks to copy and paste into your apps. Works with all React frameworks.
 - [daisyUI](https://daisyui.com) - daisyUI is the Tailwind CSS plugin you will love! It provides useful component class names to help you write less code and build faster.
-- [Preline](https://preline.co) - An open-source Tailwind CSS components library for any needs. Comes with UI examples & blocks, templates, plugins, Figma design system and more.
 - [Mantine](https://mantine.dev) - A full-featured React components library with TypeScript support, theming system, and powerful hooks.
 - [Ant Design](https://ant.design) - An enterprise-class UI design language and React UI library with dozens of high-quality components.
 - [Chakra UI](https://chakra-ui.com) - A simple, modular and accessible component library for React applications.
@@ -40,7 +39,6 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 
 ## Icons
 
-- [IconPark](https://iconpark.bytedance.com) - 2000+ high-quality icons by ByteDance. Transform SVG icons into multiple themes with React, Vue, and SVG support.
 - [Lucide](https://lucide.dev/) - Beautiful & consistent icons made by the community.
 - [Phosphor Icons](https://phosphoricons.com) - A flexible icon family for interfaces, diagrams, presentations — whatever, really.
 - [Tabler Icons](https://tabler.io/icons) - Free and open source icons designed to make your website or app attractive, visually consistent and simply beautiful.
@@ -112,13 +110,12 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 
 ## Tools
 
+- [Notion Avatar Maker](https://notion-avatar.app) - Making notion-style avatars.
 - [Skill Icons](https://skillicons.dev) - Showcase your skills on GitHub readme with ease. 1000+ icons for programming languages, frameworks, and tools.
-- [Penpot](https://penpot.app) - Penpot is the web-based open-source design tool that bridges the gap between designers and developers.
+- [Rotato](https://rotato.app) - 💵 3D mockup images and movies in minutes.
 - [Shots](https://shots.so) - Create amazing mockups in seconds.
 - [Rive](https://rive.app) - A new way to design, build, and ship user interfaces
 - [Lottielab](https://www.lottielab.com) - The motion design tool for product teams.
-- [Notion Avatar Maker](https://notion-avatar.app) - Making notion-style avatars.
-- [Rotato](https://rotato.app) - 💵 3D mockup images and movies in minutes.
 - [Spline](https://spline.design) - 💵 A place to design and collaborate in 3D.
 - [Shuffle](https://shuffle.dev/) - 💵 Easily create landing pages, dashboards, and e-commerce templates.
 - [Framer](https://www.framer.com) - 💵 The website builder loved by designers.
