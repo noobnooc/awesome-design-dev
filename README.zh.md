@@ -19,6 +19,7 @@
 
 ## UI 组件库
 
+- [React Bits](https://reactbits.dev) - 开源的 110+ 动画、交互式且可完全自定义的 React 组件集合，用于构建令人难忘的网站。
 - [Shadcn](https://ui.shadcn.com) - 一套精美设计的可访问组件和代码分发平台。适用于您喜欢的框架。
 - [Radix UI](https://www.radix-ui.com/) - 一个开源组件库，针对快速开发、易于维护和可访问性进行了优化。
 - [Magic UI](https://magicui.design) - 150+ 免费开源的动画组件和效果，使用 React、Typescript、Tailwind CSS 和 Motion 构建。
@@ -39,6 +40,7 @@
 
 ## 图标
 
+- [IconPark](https://iconpark.bytedance.com) - 字节跳动出品的 2000+ 高质量图标。支持将 SVG 图标转换为多种主题，支持 React、Vue 和 SVG。
 - [Lucide](https://lucide.dev/) - 由社区制作的美丽且一致的图标。
 - [Phosphor Icons](https://phosphoricons.com) - 一个灵活的图标家族，适用于界面、图表、演示文稿等。
 - [Tabler Icons](https://tabler.io/icons) - 旨在让您的网站或应用程序具有吸引力、视觉一致且简洁美观的免费和开源图标。
@@ -111,6 +113,7 @@
 
 ## 工具
 
+- [Skill Icons](https://skillicons.dev) - 轻松展示您的技术技能。提供 1000+ 编程语言、框架和工具的图标。
 - [Penpot](https://penpot.app) - Penpot 是基于 Web 的开源设计工具，连接设计师和开发人员之间的差距。
 - [Shots](https://shots.so) - 在几秒钟内创建惊人的模型。
 - [Rive](https://rive.app) - 设计、构建和发布用户界面的新方法

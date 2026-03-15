@@ -19,6 +19,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 
 ## Bibliothèques UI
 
+- [React Bits](https://reactbits.dev) - Une collection open source de plus de 110 composants React animés, interactifs et entièrement personnalisables pour créer des sites web mémorables.
 - [Shadcn](https://ui.shadcn.com) - Un ensemble de composants magnifiquement conçus et accessibles et une plateforme de distribution de code. Fonctionne avec vos frameworks préférés.
 - [Radix UI](https://www.radix-ui.com/) - Une bibliothèque de composants open source optimisée pour un développement rapide, une maintenance facile et l'accessibilité.
 - [Magic UI](https://magicui.design) - Plus de 150 composants et effets animés gratuits et open source construits avec React, Typescript, Tailwind CSS et Motion.
@@ -39,6 +40,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 
 ## Icônes
 
+- [IconPark](https://iconpark.bytedance.com) - Plus de 2000 icônes de haute qualité par ByteDance. Transformez les icônes SVG en plusieurs thèmes avec support React, Vue et SVG.
 - [Lucide](https://lucide.dev/) - Icônes belles et cohérentes créées par la communauté.
 - [Phosphor Icons](https://phosphoricons.com) - Une famille d'icônes flexible pour interfaces, diagrammes, présentations — vraiment tout.
 - [Tabler Icons](https://tabler.io/icons) - Icônes gratuites et open source conçues pour rendre votre site web ou application attrayante, visuellement cohérente et simplement belle.
@@ -110,6 +112,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 
 ## Outils
 
+- [Skill Icons](https://skillicons.dev) - Présentez vos compétences sur GitHub readme facilement. Plus de 1000 icônes pour langages de programmation, frameworks et outils.
 - [Penpot](https://penpot.app) - Penpot est l'outil de design open source basé web qui fait le lien entre designers et développeurs.
 - [Shots](https://shots.so) - Créez des maquettes fantastiques en secondes.
 - [Rive](https://rive.app) - Une nouvelle façon de concevoir, construire et expédier des interfaces utilisateur.

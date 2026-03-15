@@ -19,6 +19,7 @@
 
 ## UI ライブラリ
 
+- [React Bits](https://reactbits.dev) - 記憶に残るウェブサイトを構築するための、110 以上のアニメーション化されたインタラクティブな完全にカスタマイズ可能な React コンポーネントのオープンソースコレクション。
 - [Shadcn](https://ui.shadcn.com) - 美しくデザインされ、アクセシブルなコンポーネントセットとコード配布プラットフォーム。お気に入りのフレームワークで動作します。
 - [Radix UI](https://www.radix-ui.com/) - 高速開発、簡単なメンテナンス、アクセシビリティに最適化されたオープンソースコンポーネントライブラリ。
 - [Magic UI](https://magicui.design) - React、TypeScript、Tailwind CSS、Motion で構築された 150 以上の無料でオープンソースのアニメーションコンポーネントとエフェクト。
@@ -39,6 +40,7 @@
 
 ## アイコン
 
+- [IconPark](https://iconpark.bytedance.com) - ByteDance による 2000 以上の高品質アイコン。React、Vue、SVG サポートで SVG アイコンを複数のテーマに変換できます。
 - [Lucide](https://lucide.dev/) - コミュニティが作った美しく一貫性のあるアイコン。
 - [Phosphor Icons](https://phosphoricons.com) - インターフェース、図表、プレゼンテーション用の柔軟なアイコンファミリー。
 - [Tabler Icons](https://tabler.io/icons) - ウェブサイトやアプリを魅力的で、視覚的に一貫性があり、シンプルに美しくするための無料でオープンソースのアイコン。
@@ -110,6 +112,7 @@
 
 ## ツール
 
+- [Skill Icons](https://skillicons.dev) - GitHub リポジトリでスキルを発表。プログラミング言語、フレームワーク、ツール用の 1000 以上のアイコン。
 - [Penpot](https://penpot.app) - Penpot は、デザイナーと開発者を橋渡しする Web ベースのオープンソースデザインツール。
 - [Shots](https://shots.so) - 数秒で素晴らしいモックアップを作成。
 - [Rive](https://rive.app) - ユーザーインターフェースをデザイン、構築、配信する新しい方法。

@@ -19,6 +19,7 @@ También disponible en: [English](README.md) | [中文](README.zh.md) | [França
 
 ## Librerías UI
 
+- [React Bits](https://reactbits.dev) - Una colección de código abierto con más de 110 componentes React animados, interactivos y completamente personalizables para crear sitios web memorables.
 - [Shadcn](https://ui.shadcn.com) - Un conjunto de componentes hermosamente diseñados y accesibles, y una plataforma de distribución de código. Funciona con tus frameworks favoritos.
 - [Radix UI](https://www.radix-ui.com/) - Una librería de componentes de código abierto optimizada para desarrollo rápido, mantenimiento fácil y accesibilidad.
 - [Magic UI](https://magicui.design) - Más de 150 componentes y efectos animados gratuitos y de código abierto construidos con React, Typescript, Tailwind CSS y Motion.
@@ -39,6 +40,7 @@ También disponible en: [English](README.md) | [中文](README.zh.md) | [França
 
 ## Iconos
 
+- [IconPark](https://iconpark.bytedance.com) - Más de 2000 iconos de alta calidad por ByteDance. Transforma iconos SVG en múltiples temas con soporte para React, Vue y SVG.
 - [Lucide](https://lucide.dev/) - Iconos hermosos y consistentes hechos por la comunidad.
 - [Phosphor Icons](https://phosphoricons.com) - Una familia de iconos flexible para interfaces, diagramas, presentaciones — lo que sea, realmente.
 - [Tabler Icons](https://tabler.io/icons) - Iconos gratuitos y de código abierto diseñados para hacer tu sitio web o aplicación atractiva, visualmente consistente y simplemente hermosa.
@@ -110,6 +112,7 @@ También disponible en: [English](README.md) | [中文](README.zh.md) | [França
 
 ## Herramientas
 
+- [Skill Icons](https://skillicons.dev) - Muestra tus habilidades en GitHub readme fácilmente. Más de 1000 iconos para lenguajes de programación, frameworks y herramientas.
 - [Penpot](https://penpot.app) - Penpot es la herramienta de diseño de código abierto basada en web que conecta a diseñadores y desarrolladores.
 - [Shots](https://shots.so) - Crea mockups increíbles en segundos.
 - [Rive](https://rive.app) - Una nueva forma de diseñar, construir y enviar interfaces de usuario.

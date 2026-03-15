@@ -19,6 +19,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 
 ## UI Libraries
 
+- [React Bits](https://reactbits.dev) - An open source collection of 110+ animated, interactive and fully customizable React components for building memorable websites.
 - [Shadcn](https://ui.shadcn.com) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks.
 - [Radix UI](https://www.radix-ui.com/) - An open source component library optimized for fast development, easy maintenance, and accessibility.
 - [Magic UI](https://magicui.design) - 150+ free and open-source animated components and effects built with React, Typescript, Tailwind CSS, and Motion.
@@ -39,6 +40,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 
 ## Icons
 
+- [IconPark](https://iconpark.bytedance.com) - 2000+ high-quality icons by ByteDance. Transform SVG icons into multiple themes with React, Vue, and SVG support.
 - [Lucide](https://lucide.dev/) - Beautiful & consistent icons made by the community.
 - [Phosphor Icons](https://phosphoricons.com) - A flexible icon family for interfaces, diagrams, presentations — whatever, really.
 - [Tabler Icons](https://tabler.io/icons) - Free and open source icons designed to make your website or app attractive, visually consistent and simply beautiful.
@@ -110,6 +112,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 
 ## Tools
 
+- [Skill Icons](https://skillicons.dev) - Showcase your skills on GitHub readme with ease. 1000+ icons for programming languages, frameworks, and tools.
 - [Penpot](https://penpot.app) - Penpot is the web-based open-source design tool that bridges the gap between designers and developers.
 - [Shots](https://shots.so) - Create amazing mockups in seconds.
 - [Rive](https://rive.app) - A new way to design, build, and ship user interfaces

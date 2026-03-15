@@ -19,6 +19,7 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 
 ## UI-Bibliotheken
 
+- [React Bits](https://reactbits.dev) - Eine Open-Source-Sammlung von über 110 animierten, interaktiven und vollständig anpassbaren React-Komponenten zum Erstellen einprägsamer Websites.
 - [Shadcn](https://ui.shadcn.com) - Ein Set wunderschön gestalteter, barrierefreier Komponenten und eine Code-Verteilungsplattform. Funktioniert mit Ihren Lieblings-Frameworks.
 - [Radix UI](https://www.radix-ui.com/) - Eine Open-Source-Komponentenbibliothek, optimiert für schnelle Entwicklung, einfache Wartung und Barrierefreiheit.
 - [Magic UI](https://magicui.design) - Über 150 kostenlose und Open-Source-animierte Komponenten und Effekte, erstellt mit React, TypeScript, Tailwind CSS und Motion.
@@ -39,6 +40,7 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 
 ## Icons
 
+- [IconPark](https://iconpark.bytedance.com) - Über 2000 hochwertige Icons von ByteDance. Transformieren Sie SVG-Icons in mehrere Themes mit React-, Vue- und SVG-Unterstützung.
 - [Lucide](https://lucide.dev/) - Schöne & konsistente Icons, von der Community erstellt.
 - [Phosphor Icons](https://phosphoricons.com) - Eine flexible Icon-Familie für Benutzeroberflächen, Diagramme, Präsentationen — wirklich alles.
 - [Tabler Icons](https://tabler.io/icons) - Kostenlose und Open-Source-Icons, entworfen um Ihre Website oder App attraktiv, visuell konsistent und einfach schön zu machen.
@@ -110,6 +112,7 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 
 ## Werkzeuge
 
+- [Skill Icons](https://skillicons.dev) - Präsentieren Sie Ihre Fähigkeiten mühelos auf GitHub Readme. Über 1000 Icons für Programmiersprachen, Frameworks und Werkzeuge.
 - [Penpot](https://penpot.app) - Penpot ist das webbasierte Open-Source-Design-Tool, das Designer und Entwickler verbindet.
 - [Shots](https://shots.so) - Erstellen Sie erstaunliche Mockups in Sekunden.
 - [Rive](https://rive.app) - Ein neuer Weg, Benutzeroberflächen zu entwerfen, zu erstellen und zu versenden.
