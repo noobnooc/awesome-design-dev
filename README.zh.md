@@ -40,7 +40,6 @@
 
 ## 图标
 
-- [IconPark](https://iconpark.bytedance.com) - 字节跳动出品的 2000+ 高质量图标。支持将 SVG 图标转换为多种主题，支持 React、Vue 和 SVG。
 - [Lucide](https://lucide.dev/) - 由社区制作的美丽且一致的图标。
 - [Phosphor Icons](https://phosphoricons.com) - 一个灵活的图标家族，适用于界面、图表、演示文稿等。
 - [Tabler Icons](https://tabler.io/icons) - 旨在让您的网站或应用程序具有吸引力、视觉一致且简洁美观的免费和开源图标。

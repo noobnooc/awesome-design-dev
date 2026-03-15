@@ -40,7 +40,6 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 
 ## Icônes
 
-- [IconPark](https://iconpark.bytedance.com) - Plus de 2000 icônes de haute qualité par ByteDance. Transformez les icônes SVG en plusieurs thèmes avec support React, Vue et SVG.
 - [Lucide](https://lucide.dev/) - Icônes belles et cohérentes créées par la communauté.
 - [Phosphor Icons](https://phosphoricons.com) - Une famille d'icônes flexible pour interfaces, diagrammes, présentations — vraiment tout.
 - [Tabler Icons](https://tabler.io/icons) - Icônes gratuites et open source conçues pour rendre votre site web ou application attrayante, visuellement cohérente et simplement belle.

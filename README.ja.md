@@ -40,7 +40,6 @@
 
 ## アイコン
 
-- [IconPark](https://iconpark.bytedance.com) - ByteDance による 2000 以上の高品質アイコン。React、Vue、SVG サポートで SVG アイコンを複数のテーマに変換できます。
 - [Lucide](https://lucide.dev/) - コミュニティが作った美しく一貫性のあるアイコン。
 - [Phosphor Icons](https://phosphoricons.com) - インターフェース、図表、プレゼンテーション用の柔軟なアイコンファミリー。
 - [Tabler Icons](https://tabler.io/icons) - ウェブサイトやアプリを魅力的で、視覚的に一貫性があり、シンプルに美しくするための無料でオープンソースのアイコン。
