@@ -104,6 +104,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [HyperColor](https://hypercolor.dev) - A curated collection of beautiful Tailwind CSS gradients using the full range of Tailwind CSS colors.
 - [Color Hunt](https://colorhunt.co) - Color palettes for designers and artists.
 - [Color Lisa](https://colorlisa.com) - Color palette masterpieces from the world's greatest artists.
+- [Mini-Tools.uk Image Color Picker](https://mini-tools.uk/color-picker) - Pick colors from images or screenshots, crop small areas, and copy HEX, RGB or HSL values.
 - [Brand Colors](https://brandcolors.net) - The biggest collection of official brand color codes around.
 - [The day's color](https://www.thedayscolor.com) - The daily color digest.
 - [Color Drop](https://colordrop.io) - Color palette tool built for creatives to help get inspiration for designs or projects they're working on.
