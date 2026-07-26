@@ -36,6 +36,7 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Ant Design](https://ant.design) - Eine Unternehmens-UI-Designsprache und React UI-Bibliothek mit dutzenden hochwertigen Komponenten.
 - [Chakra UI](https://chakra-ui.com) - Eine einfache, modulare und barrierefreie Komponentenbibliothek für React-Anwendungen.
 - [HeroUI](https://www.heroui.com) - Schöne, schnelle und moderne React UI-Bibliothek mit TypeScript-Unterstützung und integriertem Dark Mode.
+- [Untitled UI](https://www.untitledui.com/react) - Die weltweit größte Open-Source-Sammlung von React-Komponenten, gebaut mit Tailwind CSS und React Aria für pixelgenaue, barrierefreie Oberflächen.
 
 ## Icons
 
@@ -52,6 +53,7 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [lucide-animated](https://lucide-animated.com) - Schön gestaltete animierte Icons.
 - [macOS Icon Gallery](https://www.macosicongallery.com) - Eine Sammlung von macOS-Icons.
 - [Nucleoapp](https://nucleoapp.com) - 💵 Über 44k Premium-Qualität SVG-Icons, regelmäßig für UIs, Präsentationen und Druckprojekte aktualisiert.
+- [Iconoir](https://iconoir.com) - Über 1600 kostenlose, quelloffene SVG-Icons für SVG, Font, React, React Native, Flutter, Figma und Framer.
 
 ## Illustrationen
 
@@ -107,6 +109,7 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Brand Colors](https://brandcolors.net) - Die größte Sammlung offizieller Markenfarb-Codes.
 - [The day's color](https://www.thedayscolor.com) - Der tägliche Farb-Digest.
 - [Color Drop](https://colordrop.io) - Farbpaletten-Tool für Kreative, um Inspiration für Designs oder Projekte zu erhalten, an denen sie arbeiten.
+- [Realtime Colors](https://www.realtimecolors.com) - Sehen Sie Ihre Farbpalette und Schriftwahl live auf einer echten Website-Oberfläche, mit sofortiger Kontrastprüfung und CSS/Tailwind-Export.
 
 ## Werkzeuge
 
