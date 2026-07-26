@@ -36,6 +36,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [Ant Design](https://ant.design) - Un langage de design UI de classe entreprise et une bibliothèque UI React avec des dizaines de composants de haute qualité.
 - [Chakra UI](https://chakra-ui.com) - Une bibliothèque de composants simple, modulaire et accessible pour les applications React.
 - [HeroUI](https://www.heroui.com) - Bibliothèque UI React belle, rapide et moderne avec support TypeScript et mode sombre intégré.
+- [Untitled UI](https://www.untitledui.com/react) - La plus grande collection open source de composants React au monde, construite avec Tailwind CSS et React Aria pour des interfaces accessibles et parfaitement soignées.
 
 ## Icônes
 
@@ -52,6 +53,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [lucide-animated](https://lucide-animated.com) - Icônes animées magnifiquement conçues.
 - [macOS Icon Gallery](https://www.macosicongallery.com) - Une collection d'icônes macOS.
 - [Nucleoapp](https://nucleoapp.com) - 💵 Plus de 44k icônes SVG de qualité premium, régulièrement mises à jour pour UI, présentations et projets d'impression.
+- [Iconoir](https://iconoir.com) - Plus de 1600 icônes SVG gratuites et open source, disponibles en SVG, Font, React, React Native, Flutter, Figma et Framer.
 
 ## Illustrations
 
@@ -107,6 +109,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [Brand Colors](https://brandcolors.net) - La plus grande collection de codes couleurs officiels de marques.
 - [The day's color](https://www.thedayscolor.com) - Le digest quotidien des couleurs.
 - [Color Drop](https://colordrop.io) - Outil de palette de couleurs conçu pour les créatifs pour aider à obtenir de l'inspiration pour les designs ou projets sur lesquels ils travaillent.
+- [Realtime Colors](https://www.realtimecolors.com) - Prévisualisez votre palette de couleurs et vos polices en direct sur une véritable interface de site web, avec vérification instantanée du contraste et export CSS/Tailwind.
 
 ## Outils
 

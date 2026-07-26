@@ -36,6 +36,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Ant Design](https://ant.design) - An enterprise-class UI design language and React UI library with dozens of high-quality components.
 - [Chakra UI](https://chakra-ui.com) - A simple, modular and accessible component library for React applications.
 - [HeroUI](https://www.heroui.com) - Beautiful, fast and modern React UI library with TypeScript support and built-in dark mode.
+- [Untitled UI](https://www.untitledui.com/react) - The world's largest open-source React component library, built with Tailwind CSS and React Aria for pixel-perfect, accessible interfaces.
 
 ## Icons
 
@@ -52,6 +53,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [lucide-animated](https://lucide-animated.com) - beautifully crafted animated icons.
 - [macOS Icon Gallery](https://www.macosicongallery.com) - A collection of macOS icons.
 - [Nucleoapp](https://nucleoapp.com) - 💵 44k+ premium-quality SVG icons, regularly updated for UIs, presentations, and print projects.
+- [Iconoir](https://iconoir.com) - 1,600+ free, open-source, high-quality SVG icons available for SVG, Font, React, React Native, Flutter, Figma, and Framer.
 
 ## Illustrations
 
@@ -107,6 +109,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Brand Colors](https://brandcolors.net) - The biggest collection of official brand color codes around.
 - [The day's color](https://www.thedayscolor.com) - The daily color digest.
 - [Color Drop](https://colordrop.io) - Color palette tool built for creatives to help get inspiration for designs or projects they're working on.
+- [Realtime Colors](https://www.realtimecolors.com) - Preview your color palette and font choices live on a real website interface, with instant contrast checking and CSS/Tailwind export.
 
 ## Tools
 
