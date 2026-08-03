@@ -37,6 +37,9 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Chakra UI](https://chakra-ui.com) - A simple, modular and accessible component library for React applications.
 - [HeroUI](https://www.heroui.com) - Beautiful, fast and modern React UI library with TypeScript support and built-in dark mode.
 - [Untitled UI](https://www.untitledui.com/react) - The world's largest open-source React component library, built with Tailwind CSS and React Aria for pixel-perfect, accessible interfaces.
+- [React Bits](https://reactbits.dev) - Animated React components, backgrounds and text effects you can drop into a project, available in JS/TS and Tailwind/CSS variants.
+- [Base UI](https://base-ui.com) - Unstyled, accessible UI components for building design systems, from the creators of Radix, Floating UI and Material UI.
+- [Park UI](https://park-ui.com) - Beautifully designed components built with Ark UI and Panda CSS that work with React, Solid and Vue.
 
 ## Icons
 
@@ -52,6 +55,8 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Isocons](https://www.isocons.app) - Isometric icons for your products, projects, posters and presentations.
 - [lucide-animated](https://lucide-animated.com) - beautifully crafted animated icons.
 - [macOS Icon Gallery](https://www.macosicongallery.com) - A collection of macOS icons.
+- [Hugeicons](https://hugeicons.com) - 59,000+ icons across multiple styles, with a free core set and a pro library for larger projects.
+- [SVGL](https://svgl.app) - A library of brand SVG logos and wordmarks, ready to copy, download or pull into your framework.
 - [Nucleoapp](https://nucleoapp.com) - 💵 44k+ premium-quality SVG icons, regularly updated for UIs, presentations, and print projects.
 - [Iconoir](https://iconoir.com) - 1,600+ free, open-source, high-quality SVG icons available for SVG, Font, React, React Native, Flutter, Figma, and Framer.
 
@@ -62,6 +67,8 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [vectorCraftr](https://vectorcraftr.com) - All illustrations are free for commercial use.
 - [unDraw](https://undraw.co) - Open-source illustrations for any idea you can imagine and create.
 - [Unsplash Illustrations](https://unsplash.com/illustrations) - The internet’s source for visuals. Powered by creators everywhere.
+- [Absurd Design](https://absurd.design) - Surreal hand-drawn illustration series with a distinctive style, free for personal and commercial use.
+- [Humaaans](https://www.humaaans.com) - Mix-and-match illustrations of people you can recombine and recolor, released under CC0.
 - [DrawKit](https://www.drawkit.com) - 💵 Hand-drawn 2D & 3D illustrations, icons and animations. Perfect for your next project. All in one place.
 - [Storyset](https://storyset.com) - Awesome free customizable illustrations for your next project.
 - [Shapefest](https://shapefest.com) - 💵 100K+ transparent PNG images of beautiful 3D objects .
@@ -86,6 +93,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [BARNIMAGES](https://barnimages.com) - Free high-resolution images for everyone.
 - [Little Visuals](https://littlevisuals.co) - Free, high resolution images. Use them anyway you want - free for commercial use.
 - [UI Faces](https://uifaces.co) - Free AI-generated avatars for your creative projects.
+- [Nappy](https://nappy.co) - Beautiful high-resolution photos of Black and Brown people, free for personal and commercial use.
 - [Deposit Photos](https://depositphotos.com) - 💵 Royalty-free Stock Photos, Vector Images, Videos and Music.
 - [Freepik](https://www.freepik.com) - 💵 Millions of free vectors, PSD files, photos and AI-generated images. Premium resources for your creative projects.
 
@@ -93,10 +101,13 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 
 - [Google Fonts](https://fonts.google.com) - A library of 1,000+ free licensed font families and APIs for convenient use via CSS and Android.
 - [Inter](https://rsms.me/inter/) - A variable font family for text interfaces.
+- [Fontshare](https://www.fontshare.com) - A free font service from the Indian Type Foundry, with quality typefaces licensed for personal and commercial use.
+- [Uncut](https://uncut.wtf) - A curated library of contemporary open-source typefaces, free to download and use.
 - [Labor and Wait](https://www.laborandwait.xyz) - 💵 Shop quality, curated goods and products.
 - [I Love Typography](https://fonts.ilovetypography.com) - 💵 Shop quality, curated fonts from indie font foundries.
 - [T26](https://www.t26.com) - 💵 Purchase well-designed fonts.
 - [Klim](https://klim.co.nz) - 💵 Shop quality, curated fonts from indie font foundries.
+- [Pangram Pangram](https://pangrampangram.com) - 💵 An independent type foundry with high-quality typefaces, free to try before you license them.
 
 ## Colors
 
@@ -110,6 +121,9 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [The day's color](https://www.thedayscolor.com) - The daily color digest.
 - [Color Drop](https://colordrop.io) - Color palette tool built for creatives to help get inspiration for designs or projects they're working on.
 - [Realtime Colors](https://www.realtimecolors.com) - Preview your color palette and font choices live on a real website interface, with instant contrast checking and CSS/Tailwind export.
+- [Happy Hues](https://www.happyhues.co) - Curated color palettes shown in context on a real page, so you can see where each color belongs.
+- [Huemint](https://huemint.com) - Machine-learning color palette generator for brands, websites and graphics.
+- [OKLCH Color Picker](https://oklch.com) - Color picker and converter for the OKLCH color space, with contrast checking and P3 gamut preview.
 
 ## Tools
 
@@ -118,6 +132,9 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Rive](https://rive.app) - A new way to design, build, and ship user interfaces
 - [Lottielab](https://www.lottielab.com) - The motion design tool for product teams.
 - [Notion Avatar Maker](https://notion-avatar.app) - Making notion-style avatars.
+- [Haikei](https://haikei.app) - Generate unique SVG backgrounds, blobs, waves and other design assets right in the browser.
+- [ray.so](https://ray.so) - Turn code snippets into beautiful images ready to share, by the makers of Raycast.
+- [tldraw](https://www.tldraw.com) - A collaborative infinite whiteboard for sketching diagrams, wireframes and ideas.
 - [Rotato](https://rotato.app) - 💵 3D mockup images and movies in minutes.
 - [Spline](https://spline.design) - 💵 A place to design and collaborate in 3D.
 - [Shuffle](https://shuffle.dev/) - 💵 Easily create landing pages, dashboards, and e-commerce templates.
@@ -126,10 +143,12 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Sketch](https://www.sketch.com) - 💵 A toolkit made by designers, for designers, that puts the focus on you and your work.
 - [Canva](https://www.canva.com) - 💵 Create stunning designs easily with Canva's drag-and-drop feature and professional layouts.
 - [InVision](https://www.invisionapp.com) - 💵 Digital product design platform powering the world's best user experiences.
+- [Screen Studio](https://screen.studio) - 💵 macOS screen recorder with automatic zoom and smooth animations for polished product demos.
 
 ## Books
 
 - [The Book of Shaders](https://thebookofshaders.com) - This is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
+- [Laws of UX](https://lawsofux.com) - A collection of psychology principles designers can consider when building user interfaces.
 - [Refactoring UI](https://www.refactoringui.com) - 💵 Make your ideas look awesome, without relying on a designer.
 
 ## Communities
@@ -138,3 +157,5 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Uiverse](https://uiverse.io) - Community-built library of UI elements. Copy as HTML/CSS, Tailwind, React and Figma.
 - [Sketchfab](https://sketchfab.com) - Sketchfab is a 3D asset website used to publish, share, discover, buy and sell 3D, VR and AR content.
 - [Pinterest](https://pinterest.com) - A visual search and discovery platform where people find inspiration, curate ideas and shop products—all in a positive place online.
+- [Awwwards](https://www.awwwards.com) - Awards for design, creativity and innovation on the internet, with a directory of the best websites.
+- [Mobbin](https://mobbin.com) - 💵 A searchable library of real mobile and web app screens for UI and UX inspiration.
