@@ -37,6 +37,9 @@
 - [Chakra UI](https://chakra-ui.com) - 适用于 React 应用程序的简单、模块化且可访问的组件库。
 - [HeroUI](https://www.heroui.com) - 美观、快速、现代的 React UI 库，支持 TypeScript 和内置暗色模式。
 - [Untitled UI](https://www.untitledui.com/react) - 全球最大的开源 React 组件库，使用 Tailwind CSS 和 React Aria 构建，界面像素级精致且无障碍。
+- [React Bits](https://reactbits.dev) - 可直接放进项目的 React 动效组件、背景与文字特效，提供 JS/TS 与 Tailwind/CSS 多种版本。
+- [Base UI](https://base-ui.com) - 由 Radix、Floating UI 和 Material UI 团队打造的无样式、可访问 UI 组件，适合构建设计系统。
+- [Park UI](https://park-ui.com) - 基于 Ark UI 和 Panda CSS 构建的精美组件，支持 React、Solid 和 Vue。
 
 ## 图标
 
@@ -48,6 +51,8 @@
 - [Isocons](https://www.isocons.app) - 适用于您的产品、项目、海报和演示文稿的等距图标。
 - [lucide-animated](https://lucide-animated.com) - 精美制作的动画图标。
 - [Simple Icons](https://simpleicons.org) - 3000+ 流行品牌的 SVG 图标。
+- [Hugeicons](https://hugeicons.com) - 59,000+ 个多种风格的图标，包含免费核心图标集，以及面向大型项目的专业版图标库。
+- [SVGL](https://svgl.app) - 品牌 SVG 标志与字标合集，支持一键复制、下载或直接引入到你的框架中。
 - [Nucleoapp](https://nucleoapp.com) - 💵 44000+ 高质量的 SVG 图标，定期更新，适用于 UI、演示文稿和印刷项目。
 - [Icônes](https://icones.js.org) - 图标浏览器，支持即时搜索。
 - [macOS Icon Gallery](https://www.macosicongallery.com) - macOS 图标集合。
@@ -63,6 +68,8 @@
 - [vectorCraftr](https://vectorcraftr.com) - 所有插图均可免费用于商业用途。
 - [unDraw](https://undraw.co) - 开源插图，适用于您能想象和创建的任何想法。
 - [Unsplash Illustrations](https://unsplash.com/illustrations) - 互联网的视觉来源。由全球创作者提供支持。
+- [Absurd Design](https://absurd.design) - 风格独特的超现实主义手绘插画系列，可免费用于个人和商业项目。
+- [Humaaans](https://www.humaaans.com) - 可自由拼搭、换色的人物插画库，基于 CC0 协议发布。
 - [DrawKit](https://www.drawkit.com) - 💵 手绘 2D 和 3D 插图、图标和动画。完美适用于您的下一个项目。所有资源都在一个地方。
 - [Storyset](https://storyset.com) - 为您的下一个项目提供的免费可定制插图。
 - [Shapefest](https://shapefest.com) - 💵 100K+ 透明 PNG 图像的美丽 3D 对象。
@@ -87,6 +94,7 @@
 - [BARNIMAGES](https://barnimages.com) - 适合所有人的免费高分辨率图像。
 - [Little Visuals](https://littlevisuals.co) - 免费高分辨率图像。可以随意使用 - 免费商用。
 - [UI Faces](https://uifaces.co) - 为您的创意项目提供免费 AI 生成头像。
+- [Nappy](https://nappy.co) - 以黑人和棕色人种为主题的高分辨率精美照片，可免费用于个人和商业项目。
 - [Deposit Photos](https://depositphotos.com) - 💵 免费版权库存照片、矢量图像、视频和音乐。
 - [Freepik](https://www.freepik.com) - 💵 数百万免费矢量、PSD 文件、照片和 AI 生成图像。创意项目的优质资源。
 
@@ -94,10 +102,13 @@
 
 - [Google Fonts](https://fonts.google.com) - 一个包含 1000 多个免费授权字体家族和 API 的库，方便通过 CSS 和 Android 使用。
 - [Inter](https://rsms.me/inter/) - 一个用于文本界面的可变字体家族。
+- [Fontshare](https://www.fontshare.com) - 来自 Indian Type Foundry 的免费字体服务，提供可用于个人和商业项目的优质字体。
+- [Uncut](https://uncut.wtf) - 精选的当代开源字体库，可免费下载使用。
 - [Labor and Wait](https://www.laborandwait.xyz) - 💵 购买优质、精选的商品和产品。
 - [I Love Typography](https://fonts.ilovetypography.com) - 💵 购买优质、精选的字体，来自独立字体铸造厂。
 - [T26](https://www.t26.com) - 💵 购买设计精美的字体。
 - [Klim](https://klim.co.nz) - 💵 购买优质、精选的字体，来自独立字体铸造厂。
+- [Pangram Pangram](https://pangrampangram.com) - 💵 独立字体工作室出品的高品质字体，购买授权前可免费试用。
 
 ## 颜色
 
@@ -111,6 +122,9 @@
 - [The day's color](https://www.thedayscolor.com) - 每日色彩文摘。
 - [Color Drop](https://colordrop.io) - 为创意人士打造的调色板工具，帮助获取设计或项目工作的灵感。
 - [Realtime Colors](https://www.realtimecolors.com) - 在真实的网站界面上实时预览您的配色方案和字体选择，支持即时对比度检测和 CSS/Tailwind 导出。
+- [Happy Hues](https://www.happyhues.co) - 在真实页面场景中展示的精选配色方案，让你直观看到每种颜色的用法。
+- [Huemint](https://huemint.com) - 使用机器学习为品牌、网站和图形生成配色方案。
+- [OKLCH Color Picker](https://oklch.com) - OKLCH 色彩空间的取色器与转换工具，支持对比度检查和 P3 色域预览。
 
 ## 工具
 
@@ -119,6 +133,9 @@
 - [Rive](https://rive.app) - 设计、构建和发布用户界面的新方法
 - [Lottielab](https://www.lottielab.com) - 产品团队的动态设计工具。
 - [Notion Avatar Maker](https://notion-avatar.app) - 制作 notion 风格头像。
+- [Haikei](https://haikei.app) - 直接在浏览器中生成独特的 SVG 背景、色块、波浪等设计素材。
+- [ray.so](https://ray.so) - 由 Raycast 团队出品，将代码片段转换成可直接分享的精美图片。
+- [tldraw](https://www.tldraw.com) - 用于绘制图表、线框图和创意想法的协作式无限白板。
 - [Rotato](https://rotato.app) - 💵 几分钟内制作 3D 模型图像和视频。
 - [Spline](https://spline.design) - 💵 3D 设计和协作的地方。
 - [Shuffle](https://shuffle.dev/) - 💵 轻松创建登陆页面、仪表板和电子商务模板。
@@ -127,10 +144,12 @@
 - [Sketch](https://www.sketch.com) - 💵 由设计师为设计师制作的工具包，专注于您和您的工作。
 - [Canva](https://www.canva.com) - 💵 使用 Canva 的拖放功能和专业布局轻松创建令人惊叹的设计。
 - [InVision](https://www.invisionapp.com) - 💵 为世界最佳用户体验提供支持的数字产品设计平台。
+- [Screen Studio](https://screen.studio) - 💵 macOS 屏幕录制工具，自动缩放和流畅动画，适合制作精致的产品演示。
 
 ## 书籍
 
 - [The Book of Shaders](https://thebookofshaders.com) - 这是一本温和的分步指南，带您进入片段着色器的抽象和复杂的宇宙。
+- [Laws of UX](https://lawsofux.com) - 设计师在构建用户界面时可以参考的心理学原则合集。
 - [Refactoring UI](https://www.refactoringui.com) - 💵 让您的想法看起来很棒，而无需依赖设计师。
 
 ## 社区
@@ -139,3 +158,5 @@
 - [Uiverse](https://uiverse.io) - 社区构建的 UI 元素库。可以复制为 HTML/CSS、Tailwind、React 和 Figma。
 - [Sketchfab](https://sketchfab.com) - Sketchfab 是一个 3D 资产网站，用于发布、分享、发现、购买和销售 3D、VR 和 AR 内容。
 - [Pinterest](https://pinterest.com) - 一个视觉搜索和发现平台，人们可以在网上找到灵感、策划想法和购物产品。
+- [Awwwards](https://www.awwwards.com) - 表彰互联网上的设计、创意与创新，并收录最佳网站目录。
+- [Mobbin](https://mobbin.com) - 💵 可搜索的真实移动端和网页应用界面截图库，提供 UI 与 UX 灵感。
