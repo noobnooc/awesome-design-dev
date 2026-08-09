@@ -40,6 +40,10 @@
 - [React Bits](https://reactbits.dev) - 可直接放进项目的 React 动效组件、背景与文字特效，提供 JS/TS 与 Tailwind/CSS 多种版本。
 - [Base UI](https://base-ui.com) - 由 Radix、Floating UI 和 Material UI 团队打造的无样式、可访问 UI 组件，适合构建设计系统。
 - [Park UI](https://park-ui.com) - 基于 Ark UI 和 Panda CSS 构建的精美组件，支持 React、Solid 和 Vue。
+- [Ark UI](https://ark-ui.com) - 面向 React、Solid、Vue 和 Svelte 的无样式组件库，包含 45+ 个无障碍组件，可套用你自己的设计系统。
+- [Flowbite](https://flowbite.com) - 开源组件库，提供 600+ 个基于 Tailwind CSS 构建、并在 Figma 中设计的 UI 组件、区块和页面。
+- [Once UI](https://once-ui.com) - 开源设计系统，内置 100+ 个预设样式组件，主题与样式集中在单个文件中管理。
+- [Kokonut UI](https://kokonutui.com) - 100+ 个基于 Tailwind CSS、shadcn/ui 和 Motion 构建的现代组件，可免费复制到你的项目中。
 
 ## 图标
 
@@ -53,6 +57,8 @@
 - [Simple Icons](https://simpleicons.org) - 3000+ 流行品牌的 SVG 图标。
 - [Hugeicons](https://hugeicons.com) - 59,000+ 个多种风格的图标，包含免费核心图标集，以及面向大型项目的专业版图标库。
 - [SVGL](https://svgl.app) - 品牌 SVG 标志与字标合集，支持一键复制、下载或直接引入到你的框架中。
+- [3dicons](https://3dicons.co) - 1500+ 个手工制作的 3D 图标渲染图，免费开源，另有付费高级图标包。
+- [Iconbuddy](https://iconbuddy.com) - 覆盖 30 万+ 开源 SVG 图标的搜索引擎，支持即时编辑与下载。
 - [Nucleoapp](https://nucleoapp.com) - 💵 44000+ 高质量的 SVG 图标，定期更新，适用于 UI、演示文稿和印刷项目。
 - [Icônes](https://icones.js.org) - 图标浏览器，支持即时搜索。
 - [macOS Icon Gallery](https://www.macosicongallery.com) - macOS 图标集合。
@@ -70,6 +76,7 @@
 - [Unsplash Illustrations](https://unsplash.com/illustrations) - 互联网的视觉来源。由全球创作者提供支持。
 - [Absurd Design](https://absurd.design) - 风格独特的超现实主义手绘插画系列，可免费用于个人和商业项目。
 - [Humaaans](https://www.humaaans.com) - 可自由拼搭、换色的人物插画库，基于 CC0 协议发布。
+- [ManyPixels](https://www.manypixels.co/gallery) - 多种现成风格的免费插图，可自定义配色并下载为 SVG 或 PNG。
 - [DrawKit](https://www.drawkit.com) - 💵 手绘 2D 和 3D 插图、图标和动画。完美适用于您的下一个项目。所有资源都在一个地方。
 - [Storyset](https://storyset.com) - 为您的下一个项目提供的免费可定制插图。
 - [Shapefest](https://shapefest.com) - 💵 100K+ 透明 PNG 图像的美丽 3D 对象。
@@ -78,10 +85,13 @@
 
 ## 模板
 
+- [Vercel Templates](https://vercel.com/templates) - 来自 Vercel 与社区的可一键部署起始模板，涵盖博客、电商、仪表盘等场景。
 - [Tailwind Plus](https://tailwindcss.com/plus) - 💵 精美设计、专业制作的组件和模板，由 Tailwind CSS 的制作者构建。
 - [Aceternity Template](https://pro.aceternity.com/templates) - 💵 现代和极简的模板，用于构建您的下一个产品。使用 React、NextJS、TailwindCSS、Framer Motion 和 Typescript 构建。
 - [Shuffle](https://shuffle.dev/) - 💵 轻松创建登陆页面、仪表板和电子商务模板。
 - [Preline](https://preline.co) - 💵 一个开源的 Tailwind CSS 组件库，适用于各种需求。提供 UI 示例和区块、模板、插件、Figma 设计系统等。
+- [Cruip](https://cruip.com) - 💵 基于 Tailwind CSS 的落地页、网站和仪表盘模板，提供 HTML、React、Next.js 和 Vue 版本。
+- [Shadcnblocks](https://www.shadcnblocks.com) - 💵 1800+ 个区块和 2000+ 个组件，专为 shadcn/ui、Tailwind 和 React 定制。
 
 ## 摄影
 
@@ -95,6 +105,8 @@
 - [Little Visuals](https://littlevisuals.co) - 免费高分辨率图像。可以随意使用 - 免费商用。
 - [UI Faces](https://uifaces.co) - 为您的创意项目提供免费 AI 生成头像。
 - [Nappy](https://nappy.co) - 以黑人和棕色人种为主题的高分辨率精美照片，可免费用于个人和商业项目。
+- [Gratisography](https://gratisography.com) - 风格独特、充满趣味的免费高分辨率图库照片，可免费用于个人和商业项目。
+- [picjumbo](https://picjumbo.com) - 适用于网站、模板和博客文章的免费图片、背景与照片，定期更新。
 - [Deposit Photos](https://depositphotos.com) - 💵 免费版权库存照片、矢量图像、视频和音乐。
 - [Freepik](https://www.freepik.com) - 💵 数百万免费矢量、PSD 文件、照片和 AI 生成图像。创意项目的优质资源。
 
@@ -104,6 +116,10 @@
 - [Inter](https://rsms.me/inter/) - 一个用于文本界面的可变字体家族。
 - [Fontshare](https://www.fontshare.com) - 来自 Indian Type Foundry 的免费字体服务，提供可用于个人和商业项目的优质字体。
 - [Uncut](https://uncut.wtf) - 精选的当代开源字体库，可免费下载使用。
+- [Typewolf](https://www.typewolf.com) - 追踪字体趋势的站点，提供字体清单、案例图集和排版资源，并配有真实网站范例。
+- [Fonts In Use](https://fontsinuse.com) - 独立的排版案例档案库，可按字体、载体和行业检索。
+- [Fontsource](https://fontsource.org) - 以 npm 包形式自托管开源字体，收录 2000+ 个字体家族并支持可变字体。
+- [Fontpair](https://www.fontpair.co) - 精选的 Google Fonts 搭配方案，可在真实版式中预览后再做选择。
 - [Labor and Wait](https://www.laborandwait.xyz) - 💵 购买优质、精选的商品和产品。
 - [I Love Typography](https://fonts.ilovetypography.com) - 💵 购买优质、精选的字体，来自独立字体铸造厂。
 - [T26](https://www.t26.com) - 💵 购买设计精美的字体。
@@ -125,6 +141,8 @@
 - [Happy Hues](https://www.happyhues.co) - 在真实页面场景中展示的精选配色方案，让你直观看到每种颜色的用法。
 - [Huemint](https://huemint.com) - 使用机器学习为品牌、网站和图形生成配色方案。
 - [OKLCH Color Picker](https://oklch.com) - OKLCH 色彩空间的取色器与转换工具，支持对比度检查和 P3 色域预览。
+- [Radix Colors](https://www.radix-ui.com/colors) - 为用户界面打造的 12 级无障碍配色系统，附带配套的深色模式色阶。
+- [UI Colors](https://uicolors.app) - Tailwind CSS 配色生成器，可在组件、仪表盘和图表中实时预览你的调色板。
 
 ## 工具
 
@@ -136,6 +154,10 @@
 - [Haikei](https://haikei.app) - 直接在浏览器中生成独特的 SVG 背景、色块、波浪等设计素材。
 - [ray.so](https://ray.so) - 由 Raycast 团队出品，将代码片段转换成可直接分享的精美图片。
 - [tldraw](https://www.tldraw.com) - 用于绘制图表、线框图和创意想法的协作式无限白板。
+- [Excalidraw](https://excalidraw.com) - 手绘风格的在线白板，用于绘制示意图、线框图和创意草图。
+- [Squoosh](https://squoosh.app) - 在浏览器中压缩并对比图片，可切换不同编码格式与参数，全程本地处理。
+- [fffuel](https://www.fffuel.co) - 免费的 SVG 生成器与配色工具合集，可制作渐变、图案、纹理、形状和不规则色块。
+- [Super Designer](https://superdesigner.co) - 30+ 个免费生成器，可制作背景、渐变、图案、CSS 阴影和 OG 图片，无需注册。
 - [Rotato](https://rotato.app) - 💵 几分钟内制作 3D 模型图像和视频。
 - [Spline](https://spline.design) - 💵 3D 设计和协作的地方。
 - [Shuffle](https://shuffle.dev/) - 💵 轻松创建登陆页面、仪表板和电子商务模板。
@@ -145,12 +167,18 @@
 - [Canva](https://www.canva.com) - 💵 使用 Canva 的拖放功能和专业布局轻松创建令人惊叹的设计。
 - [InVision](https://www.invisionapp.com) - 💵 为世界最佳用户体验提供支持的数字产品设计平台。
 - [Screen Studio](https://screen.studio) - 💵 macOS 屏幕录制工具，自动缩放和流畅动画，适合制作精致的产品演示。
+- [Jitter](https://jitter.video) - 💵 简单高效的网页端动效设计工具，可为界面制作动画并导出视频。
+- [Mockuuups Studio](https://mockuuups.studio) - 💵 5200+ 个设备、印刷和生活场景样机，可直接放入你的界面截图。
 
 ## 书籍
 
 - [The Book of Shaders](https://thebookofshaders.com) - 这是一本温和的分步指南，带您进入片段着色器的抽象和复杂的宇宙。
 - [Laws of UX](https://lawsofux.com) - 设计师在构建用户界面时可以参考的心理学原则合集。
+- [Practical Typography](https://practicaltypography.com) - Butterick 的实用排版指南，从核心规则讲到文字排版与页面布局。
+- [Inclusive Components](https://inclusive-components.design) - 一个立志成为模式库的博客，逐个组件讲解如何设计具有包容性的 Web 界面。
+- [The Shape of Design](https://shapeofdesignbook.com) - Frank Chimero 关于设计手艺、意图与叙事的著作，可在线免费阅读。
 - [Refactoring UI](https://www.refactoringui.com) - 💵 让您的想法看起来很棒，而无需依赖设计师。
+- [Every Layout](https://every-layout.dev) - 💵 通过一组简单、可组合的布局原语重新学习 CSS 布局。
 
 ## 社区
 
@@ -159,4 +187,8 @@
 - [Sketchfab](https://sketchfab.com) - Sketchfab 是一个 3D 资产网站，用于发布、分享、发现、购买和销售 3D、VR 和 AR 内容。
 - [Pinterest](https://pinterest.com) - 一个视觉搜索和发现平台，人们可以在网上找到灵感、策划想法和购物产品。
 - [Awwwards](https://www.awwwards.com) - 表彰互联网上的设计、创意与创新，并收录最佳网站目录。
+- [Dribbble](https://dribbble.com) - 全球领先的创意社区，设计师在这里分享作品、成长并获得工作机会。
+- [Behance](https://www.behance.net) - Adobe 旗下的创意作品展示与发现平台，汇聚全球设计师的作品。
+- [Godly](https://godly.website) - 每日精选的顶尖设计案例，涵盖网页、品牌、排版、动效和 3D。
+- [Refero](https://refero.design) - 可检索的真实产品界面库，收录 Web 与 iOS 应用的页面、流程和交互模式。
 - [Mobbin](https://mobbin.com) - 💵 可搜索的真实移动端和网页应用界面截图库，提供 UI 与 UX 灵感。
