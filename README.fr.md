@@ -11,6 +11,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [Illustrations](#illustrations)
 - [Modèles](#modèles)
 - [Photographie](#photographie)
+- [Sons](#sons)
 - [Polices](#polices)
 - [Couleurs](#couleurs)
 - [Outils](#outils)
@@ -96,6 +97,10 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [Nappy](https://nappy.co) - De belles photos haute résolution de personnes noires et métisses, gratuites pour un usage personnel et commercial.
 - [Deposit Photos](https://depositphotos.com) - 💵 Photos stock libres de droits, images vectorielles, vidéos et musique.
 - [Freepik](https://www.freepik.com) - 💵 Millions de vecteurs gratuits, fichiers PSD, photos et images générées par IA. Ressources premium pour vos projets créatifs.
+
+## Sons
+
+- [mikroconsult Essential UI](https://mikroconsult.gumroad.com/l/free-ui-sounds) - Douze clics d'interface WAV originaux à 44,1 kHz pour les prototypes Figma et web. Téléchargement gratuit, usage commercial autorisé.
 
 ## Polices
 
