@@ -11,6 +11,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Illustrations](#illustrations)
 - [Templates](#templates)
 - [Photography](#photography)
+- [Sounds](#sounds)
 - [Fonts](#fonts)
 - [Colors](#colors)
 - [Tools](#tools)
@@ -96,6 +97,10 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Nappy](https://nappy.co) - Beautiful high-resolution photos of Black and Brown people, free for personal and commercial use.
 - [Deposit Photos](https://depositphotos.com) - 💵 Royalty-free Stock Photos, Vector Images, Videos and Music.
 - [Freepik](https://www.freepik.com) - 💵 Millions of free vectors, PSD files, photos and AI-generated images. Premium resources for your creative projects.
+
+## Sounds
+
+- [mikroconsult Essential UI](https://mikroconsult.gumroad.com/l/free-ui-sounds) - Twelve original 44.1 kHz WAV interface clicks for Figma and web prototypes. Free checkout, commercial use allowed.
 
 ## Fonts
 

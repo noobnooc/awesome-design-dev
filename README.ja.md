@@ -11,6 +11,7 @@
 - [イラスト](#イラスト)
 - [テンプレート](#テンプレート)
 - [写真](#写真)
+- [サウンド](#サウンド)
 - [フォント](#フォント)
 - [色](#色)
 - [ツール](#ツール)
@@ -96,6 +97,10 @@
 - [Nappy](https://nappy.co) - 黒人・褐色の肌の人々を撮影した高解像度の写真。個人利用・商用利用ともに無料。
 - [Deposit Photos](https://depositphotos.com) - 💵 ロイヤリティフリーストック写真、ベクター画像、動画、音楽。
 - [Freepik](https://www.freepik.com) - 💵 数百万の無料ベクター、PSD ファイル、写真、AI 生成画像。クリエイティブプロジェクト用のプレミアムリソース。
+
+## サウンド
+
+- [mikroconsult Essential UI](https://mikroconsult.gumroad.com/l/free-ui-sounds) - Figma やウェブプロトタイプ向けのオリジナル 44.1 kHz WAV インターフェースクリック 12 音。無料チェックアウト、商用利用可。
 
 ## フォント
 

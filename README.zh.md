@@ -11,6 +11,7 @@
 - [插图](#插图)
 - [模板](#模板)
 - [摄影](#摄影)
+- [音效](#音效)
 - [字体](#字体)
 - [颜色](#颜色)
 - [工具](#工具)
@@ -97,6 +98,10 @@
 - [Nappy](https://nappy.co) - 以黑人和棕色人种为主题的高分辨率精美照片，可免费用于个人和商业项目。
 - [Deposit Photos](https://depositphotos.com) - 💵 免费版权库存照片、矢量图像、视频和音乐。
 - [Freepik](https://www.freepik.com) - 💵 数百万免费矢量、PSD 文件、照片和 AI 生成图像。创意项目的优质资源。
+
+## 音效
+
+- [mikroconsult Essential UI](https://mikroconsult.gumroad.com/l/free-ui-sounds) - 12 个原创 44.1 kHz WAV 界面点击音，适用于 Figma 和网页原型。免费结账，允许商用。
 
 ## 字体
 

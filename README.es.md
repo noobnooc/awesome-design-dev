@@ -11,6 +11,7 @@ También disponible en: [English](README.md) | [中文](README.zh.md) | [França
 - [Ilustraciones](#ilustraciones)
 - [Plantillas](#plantillas)
 - [Fotografía](#fotografía)
+- [Sonidos](#sonidos)
 - [Fuentes](#fuentes)
 - [Colores](#colores)
 - [Herramientas](#herramientas)
@@ -96,6 +97,10 @@ También disponible en: [English](README.md) | [中文](README.zh.md) | [França
 - [Nappy](https://nappy.co) - Hermosas fotos en alta resolución de personas negras y morenas, gratis para uso personal y comercial.
 - [Deposit Photos](https://depositphotos.com) - 💵 Fotos de stock libres de derechos, imágenes vectoriales, videos y música.
 - [Freepik](https://www.freepik.com) - 💵 Millones de vectores gratuitos, archivos PSD, fotos e imágenes generadas por IA. Recursos premium para tus proyectos creativos.
+
+## Sonidos
+
+- [mikroconsult Essential UI](https://mikroconsult.gumroad.com/l/free-ui-sounds) - Doce clics de interfaz WAV originales a 44.1 kHz para prototipos de Figma y web. Descarga gratuita, uso comercial permitido.
 
 ## Fuentes
 
