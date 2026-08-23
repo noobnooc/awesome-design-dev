@@ -40,6 +40,9 @@
 - [React Bits](https://reactbits.dev) - プロジェクトにそのまま組み込めるアニメーション付き React コンポーネント、背景、テキストエフェクト。JS/TS と Tailwind/CSS の各バリアントを提供。
 - [Base UI](https://base-ui.com) - Radix、Floating UI、Material UI の開発チームによる、デザインシステム構築向けのアンスタイルでアクセシブルな UI コンポーネント。
 - [Park UI](https://park-ui.com) - Ark UI と Panda CSS で構築された美しいコンポーネント。React、Solid、Vue で利用可能。
+- [Ark UI](https://ark-ui.com) - React、Solid、Vue、Svelte に対応した 45 以上のアクセシブルなヘッドレスコンポーネントライブラリ。
+- [Tremor](https://tremor.so) - Tailwind CSS と Radix UI で構築された、チャートやダッシュボードを作るためのオープンソース React コンポーネント。
+- [Kokonut UI](https://kokonutui.com) - Tailwind CSS と Motion で構築された 100 以上のオープンソース React コンポーネント。ライブプレビューとコピペ可能なソース付き。
 
 ## アイコン
 
@@ -59,6 +62,7 @@
 - [SVGL](https://svgl.app) - ブランドの SVG ロゴとワードマークのライブラリ。コピー、ダウンロード、フレームワークへの取り込みに対応。
 - [Nucleoapp](https://nucleoapp.com) - 💵 UI、プレゼンテーション、印刷プロジェクト用に定期的に更新される 44k+のプレミアム品質 SVG アイコン。
 - [Iconoir](https://iconoir.com) - 1600以上の無料オープンソース SVG アイコン。SVG、Font、React、React Native、Flutter、Figma、Framer に対応。
+- [Lineicons](https://lineicons.com) - 複数スタイルで 27,000 以上のアイコン。Web やアプリの UI 向けに無料のコアセットを提供。
 
 ## イラスト
 
@@ -74,6 +78,8 @@
 - [Shapefest](https://shapefest.com) - 💵 美しい 3D オブジェクトの 100K 以上の透明 PNG 画像。
 - [Blush](https://blush.design) - Figma プラグイン付きの無料カスタマイズ可能イラスト。デザインでイラストを作成、編集、使用できます。
 - [Open Peeps](https://www.openpeeps.com) - 人々のシーンを作成するための手描きイラストライブラリ。製品イラスト、マーケティング、コミックなどで使用できます。
+- [illlustrations](https://illlustrations.co) - AI、SVG、PNG、EPS、Figma 形式で提供される 120 以上のオープンソースイラスト。商用・個人利用ともに無料。
+- [Ouch!](https://icons8.com/illustrations) - ダウンロード前に色替えや組み合わせができる、無料のベクター・3D・アニメーションイラスト。
 
 ## テンプレート
 
@@ -81,6 +87,7 @@
 - [Aceternity Template](https://pro.aceternity.com/templates) - 💵 次の製品を構築するためのモダンでミニマリストなテンプレート。React、NextJS、TailwindCSS、Framer Motion、TypeScript で構築。
 - [Shuffle](https://shuffle.dev/) - 💵 ランディングページ、ダッシュボード、e コマーステンプレートを簡単に作成。
 - [Preline](https://preline.co) - 💵 あらゆるニーズに対応するオープンソース Tailwind CSS コンポーネントライブラリ。UI サンプル＆ブロック、テンプレート、プラグイン、Figma デザインシステムなどが付属。
+- [Cruip](https://cruip.com) - 💵 HTML、React、Next.js、Vue で実装された Tailwind CSS のランディングページ・サイト・ダッシュボードテンプレート。
 
 ## 写真
 
@@ -94,6 +101,7 @@
 - [Little Visuals](https://littlevisuals.co) - 無料、高解像度画像。お好みに応じて使用 - 商用利用無料。
 - [UI Faces](https://uifaces.co) - クリエイティブプロジェクト用の無料 AI 生成アバター。
 - [Nappy](https://nappy.co) - 黒人・褐色の肌の人々を撮影した高解像度の写真。個人利用・商用利用ともに無料。
+- [Kaboompics](https://kaboompics.com) - 無料のストックフォトと厳選されたフォトシュート。画像ごとのカラーパレットで検索できる。
 - [Deposit Photos](https://depositphotos.com) - 💵 ロイヤリティフリーストック写真、ベクター画像、動画、音楽。
 - [Freepik](https://www.freepik.com) - 💵 数百万の無料ベクター、PSD ファイル、写真、AI 生成画像。クリエイティブプロジェクト用のプレミアムリソース。
 
@@ -103,6 +111,10 @@
 - [Inter](https://rsms.me/inter/) - テキストインターフェース用の可変フォントファミリー。
 - [Fontshare](https://www.fontshare.com) - Indian Type Foundry による無料フォントサービス。個人利用・商用利用が可能な高品質書体を提供。
 - [Uncut](https://uncut.wtf) - 現代的なオープンソース書体を厳選したライブラリ。無料でダウンロードして利用可能。
+- [Open Foundry](https://open-foundry.com) - オープンソース書体を厳選して紹介するサイト。印刷見本帳のような丁寧な見せ方が魅力。
+- [Fontsource](https://fontsource.org) - npm モジュールとして配布される 2,000 以上のオープンソース書体ファミリー。CDN に頼らず自前でホストできる。
+- [The League of Moveable Type](https://www.theleagueofmoveabletype.com) - 世界初のオープンソース活字工房。丁寧に作られた書体をどんなプロジェクトでも自由に使える。
+- [Geist](https://vercel.com/font) - Vercel によるオープンソースのサンセリフ・等幅・ピクセル書体。開発者向け UI のために設計されている。
 - [Labor and Wait](https://www.laborandwait.xyz) - 💵 厳選された品質の商品と製品をショッピング。
 - [I Love Typography](https://fonts.ilovetypography.com) - 💵 独立系フォント制作会社からの厳選品質フォントをショッピング。
 - [T26](https://www.t26.com) - 💵 よくデザインされたフォントを購入。
@@ -124,6 +136,10 @@
 - [Happy Hues](https://www.happyhues.co) - 実際のページ上で文脈とともに見せてくれる厳選カラーパレット。それぞれの色の使いどころが一目でわかる。
 - [Huemint](https://huemint.com) - ブランド、ウェブサイト、グラフィック向けに機械学習でカラーパレットを生成。
 - [OKLCH Color Picker](https://oklch.com) - OKLCH 色空間のカラーピッカー兼コンバーター。コントラストチェックと P3 色域プレビューに対応。
+- [Radix Colors](https://www.radix-ui.com/colors) - UI 向けの 12 段階カラーシステム。ライト・ダーク・アルファの各スケールが対応して用意されている。
+- [UI Colors](https://uicolors.app) - 任意のブランドカラーから Tailwind CSS のカラースケールを生成し、実際のコンポーネント上でプレビューできる。
+- [Khroma](https://www.khroma.co) - 好みの色を学習させ、検索・保存できるパレットを無限に生成してくれるツール。
+- [Colour Contrast Checker](https://www.colourcontrast.cc) - 前景色と背景色の組み合わせを調整しながら、WCAG のコントラスト基準を満たすか確認できる。
 
 ## ツール
 
@@ -135,6 +151,12 @@
 - [Haikei](https://haikei.app) - ブラウザ上でユニークな SVG の背景、ブロブ、波などのデザインアセットを生成。
 - [ray.so](https://ray.so) - コードスニペットを共有しやすい美しい画像に変換。Raycast チームによるツール。
 - [tldraw](https://www.tldraw.com) - 図やワイヤーフレーム、アイデアをスケッチできる、共同編集対応の無限ホワイトボード。
+- [Motion](https://motion.dev) - React、JavaScript、Vue 向けのプロダクション品質なオープンソースアニメーションライブラリ。
+- [Excalidraw](https://excalidraw.com) - 手描き風の図やワイヤーフレーム、スケッチを描けるバーチャルホワイトボード。
+- [Squoosh](https://squoosh.app) - ブラウザー上で画像を圧縮・比較できるツール。各コーデックの結果を並べてライブプレビューできる。
+- [Animista](https://animista.net) - 既製の CSS アニメーションを探して調整し、必要な分だけコードをコピーできる。
+- [Utopia](https://utopia.fyi) - ブレークポイントで飛ばずにビューポート間を補間する、フルイドなタイプ・スペーススケールの計算ツール。
+- [MagicPattern](https://www.magicpattern.design) - 背景・パターン・グラデーション・ブロブを作れる 30 以上のジェネレーター。画像・SVG・CSS で書き出せる。
 - [Rotato](https://rotato.app) - 💵 数分で 3D モックアップ画像と動画。
 - [Spline](https://spline.design) - 💵 3D でデザインし協力する場所。
 - [Shuffle](https://shuffle.dev/) - 💵 ランディングページ、ダッシュボード、e コマーステンプレートを簡単に作成。
@@ -144,12 +166,17 @@
 - [Canva](https://www.canva.com) - 💵 Canva のドラッグ＆ドロップ機能とプロフェッショナルレイアウトで素晴らしいデザインを簡単に作成。
 - [InVision](https://www.invisionapp.com) - 💵 世界最高のユーザー体験を推進するデジタル製品デザインプラットフォーム。
 - [Screen Studio](https://screen.studio) - 💵 自動ズームと滑らかなアニメーションを備えた macOS 向け画面録画ツール。洗練された製品デモに最適。
+- [Jitter](https://jitter.video) - 💵 プロダクトチーム向けのモーションデザインツール。使い慣れたキャンバスで作り、動画や Lottie で書き出せる。
 
 ## 書籍
 
 - [The Book of Shaders](https://thebookofshaders.com) - これは、抽象的で複雑な Fragment Shaders の宇宙を通る優しいステップバイステップガイドです。
 - [Laws of UX](https://lawsofux.com) - ユーザーインターフェースを設計する際に参考になる心理学の原則集。
+- [Inclusive Components](https://inclusive-components.design) - よくある UI コンポーネントをアクセシブルに作る方法を一つずつ解説するパターンライブラリ。
+- [The Shape of Design](https://shapeofdesignbook.com) - デザインの手仕事と意図について書かれた Frank Chimero の著作。オンラインで無料で読める。
 - [Refactoring UI](https://www.refactoringui.com) - 💵 デザイナーに頼らずにアイデアを素晴らしく見せる。
+- [Every Layout](https://every-layout.dev) - 💵 シンプルで組み合わせ可能なレイアウトプリミティブを通して、CSS レイアウトを学び直す一冊。
+- [Animations on the Web](https://animations.dev) - 💵 心地よいアニメーションの理論と実践を学べる、Emil Kowalski によるインタラクティブな講座。
 
 ## コミュニティ
 
@@ -158,4 +185,8 @@
 - [Sketchfab](https://sketchfab.com) - Sketchfab は 3D、VR、AR コンテンツを公開、共有、発見、売買するために使用される 3D アセットウェブサイト。
 - [Pinterest](https://pinterest.com) - 人々がインスピレーションを見つけ、アイデアをキュレートし、製品を購入するビジュアル検索・発見プラットフォーム—すべてオンラインのポジティブな場所で。
 - [Awwwards](https://www.awwwards.com) - インターネット上のデザイン・創造性・革新性を表彰するアワード。優れたウェブサイトのディレクトリ付き。
+- [Typewolf](https://www.typewolf.com) - 実在するサイトから集めたフォントリストやルックブックで、いまのタイポグラフィの潮流を追える。
+- [The Component Gallery](https://component.gallery) - 公開されているデザインシステムから集めた実例つきの UI コンポーネント集。
+- [Minimal Gallery](https://minimal.gallery) - 美しく機能的なウェブサイトを厳選したギャラリー。毎週のダイジェストも配信している。
+- [One Page Love](https://onepagelove.com) - 2008 年から厳選され続けている、9,000 以上のワンページサイトとセクション事例。
 - [Mobbin](https://mobbin.com) - 💵 実際のモバイル・ウェブアプリの画面を検索できるライブラリ。UI・UX のインスピレーションに。
