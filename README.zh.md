@@ -40,6 +40,9 @@
 - [React Bits](https://reactbits.dev) - 可直接放进项目的 React 动效组件、背景与文字特效，提供 JS/TS 与 Tailwind/CSS 多种版本。
 - [Base UI](https://base-ui.com) - 由 Radix、Floating UI 和 Material UI 团队打造的无样式、可访问 UI 组件，适合构建设计系统。
 - [Park UI](https://park-ui.com) - 基于 Ark UI 和 Panda CSS 构建的精美组件，支持 React、Solid 和 Vue。
+- [Kokonut UI](https://kokonutui.com) - 100+ 个使用 Tailwind CSS 和 Motion 构建的开源 React 组件，提供实时预览和机器可读的组件注册表。
+- [Once UI](https://once-ui.com) - 开源设计系统，包含 100+ 个预置样式的组件，主题和样式都在同一个文件中管理。
+- [Tremor](https://www.tremor.so) - 35+ 个完全开源、无障碍的 React 组件，用于构建图表和仪表板，基于 Tailwind CSS 和 Radix UI 构建。
 
 ## 图标
 
@@ -60,6 +63,8 @@
 
 - [React Icons](https://react-icons.github.io/react-icons/) - 使用 react-icons 轻松在 React 项目中包含流行图标。
 - [Iconoir](https://iconoir.com) - 1600+ 免费开源的高质量 SVG 图标，支持 SVG、Font、React、React Native、Flutter、Figma 和 Framer。
+- [Radix Icons](https://www.radix-ui.com/icons) - 由 Radix 团队打造的 15×15 精致图标集，提供 Figma、SVG 下载和 npm 三种使用方式。
+- [Pixel Icon Library](https://pixeliconlibrary.com) - 开源像素风图标集合，在 24px 网格上精心绘制，保证完美的对齐和一致性。
 
 ## 插图
 
@@ -75,6 +80,7 @@
 - [Shapefest](https://shapefest.com) - 💵 100K+ 透明 PNG 图像的美丽 3D 对象。
 - [Blush](https://blush.design) - 免费可定制插图，带 Figma 插件。在您的设计中创建、编辑和使用插图。
 - [Open Peeps](https://www.openpeeps.com) - 手绘人物插图库，用于创建人物场景。可用于产品插图、营销、漫画等。
+- [Open Doodles](https://www.opendoodles.com) - 免费的开源手绘插图集，可以自由改色并重新组合成属于你的场景。
 
 ## 模板
 
@@ -82,6 +88,8 @@
 - [Aceternity Template](https://pro.aceternity.com/templates) - 💵 现代和极简的模板，用于构建您的下一个产品。使用 React、NextJS、TailwindCSS、Framer Motion 和 Typescript 构建。
 - [Shuffle](https://shuffle.dev/) - 💵 轻松创建登陆页面、仪表板和电子商务模板。
 - [Preline](https://preline.co) - 💵 一个开源的 Tailwind CSS 组件库，适用于各种需求。提供 UI 示例和区块、模板、插件、Figma 设计系统等。
+- [Cruip](https://cruip.com) - 💵 基于 Tailwind CSS 的落地页、网站和仪表板模板，提供 HTML、React、Next.js 和 Vue 版本。
+- [Astro Themes](https://astro.build/themes) - Astro 网站的主题和起始模板，涵盖博客、文档、作品集和电商店面等场景。
 
 ## 摄影
 
@@ -109,6 +117,9 @@
 - [T26](https://www.t26.com) - 💵 购买设计精美的字体。
 - [Klim](https://klim.co.nz) - 💵 购买优质、精选的字体，来自独立字体铸造厂。
 - [Pangram Pangram](https://pangrampangram.com) - 💵 独立字体工作室出品的高品质字体，购买授权前可免费试用。
+- [Open Foundry](https://open-foundry.com) - 精选的优秀开源字体展示平台，同时呈现字体背后设计者的故事。
+- [Velvetyne](https://velvetyne.fr) - 自由字体铸造厂，发布数百款免费、实验性的开源字体。
+- [The League of Moveable Type](https://www.theleagueofmoveabletype.com) - 第一家开源字体铸造厂，自 2009 年起持续提升网页的设计水准。
 
 ## 颜色
 
@@ -125,6 +136,8 @@
 - [Happy Hues](https://www.happyhues.co) - 在真实页面场景中展示的精选配色方案，让你直观看到每种颜色的用法。
 - [Huemint](https://huemint.com) - 使用机器学习为品牌、网站和图形生成配色方案。
 - [OKLCH Color Picker](https://oklch.com) - OKLCH 色彩空间的取色器与转换工具，支持对比度检查和 P3 色域预览。
+- [Radix Colors](https://www.radix-ui.com/colors) - 为用户界面打造的精美无障碍色彩系统，提供同时适配亮色和暗色模式的 12 级色阶。
+- [UI Colors](https://uicolors.app) - 从任意品牌色生成 Tailwind CSS 色阶，并在真实的组件、仪表板和图表上预览效果。
 
 ## 工具
 
@@ -145,12 +158,20 @@
 - [Canva](https://www.canva.com) - 💵 使用 Canva 的拖放功能和专业布局轻松创建令人惊叹的设计。
 - [InVision](https://www.invisionapp.com) - 💵 为世界最佳用户体验提供支持的数字产品设计平台。
 - [Screen Studio](https://screen.studio) - 💵 macOS 屏幕录制工具，自动缩放和流畅动画，适合制作精致的产品演示。
+- [Motion](https://motion.dev) - 生产级的 MIT 协议网页动画库，提供 React、JavaScript 和 Vue 版本。
+- [Excalidraw](https://excalidraw.com) - 用于绘制手绘风格图表、线框图和想法的虚拟白板，支持实时协作。
+- [tweakcn](https://tweakcn.com) - shadcn/ui 的可视化主题编辑器 —— 实时预览下调整颜色、排版和布局，并导出为 Tailwind 配置。
+- [Squoosh](https://squoosh.app) - 在浏览器中直接压缩图片，并并排对比不同编码格式的效果。
+- [Wakamai Fondue](https://wakamaifondue.com) - 拖入一个字体文件，就能看清它的全部能力 —— 字形、OpenType 特性、可变轴和语言支持。
 
 ## 书籍
 
 - [The Book of Shaders](https://thebookofshaders.com) - 这是一本温和的分步指南，带您进入片段着色器的抽象和复杂的宇宙。
 - [Laws of UX](https://lawsofux.com) - 设计师在构建用户界面时可以参考的心理学原则合集。
 - [Refactoring UI](https://www.refactoringui.com) - 💵 让您的想法看起来很棒，而无需依赖设计师。
+- [Butterick's Practical Typography](https://practicaltypography.com) - 为所有写作者准备的排版指南，本身排印精美，内容从正文字体一路讲到页面布局。
+- [Inclusive Components](https://inclusive-components.design) - 一个关于如何设计无障碍、包容性网页界面的模式库，逐个组件深入讲解。
+- [Every Layout](https://every-layout.dev) - 💵 通过简单、可组合的布局原语重新学习 CSS 布局，把计算交还给浏览器。
 
 ## 社区
 
@@ -160,3 +181,7 @@
 - [Pinterest](https://pinterest.com) - 一个视觉搜索和发现平台，人们可以在网上找到灵感、策划想法和购物产品。
 - [Awwwards](https://www.awwwards.com) - 表彰互联网上的设计、创意与创新，并收录最佳网站目录。
 - [Mobbin](https://mobbin.com) - 💵 可搜索的真实移动端和网页应用界面截图库，提供 UI 与 UX 灵感。
+- [Recent](https://recent.design) - 每日精选的优秀设计、网站和工具，按设计领域分类整理。
+- [Codrops](https://tympanus.net/codrops) - 面向网页设计师和开发者的刊物，提供创意演示、教程以及精选的优秀网站画廊。
+- [The Component Gallery](https://component.gallery) - 持续更新的界面组件资料库，收录来自各类设计系统的真实案例。
+- [Dribbble](https://dribbble.com) - 设计师分享作品的社区，团队也能在这里寻找灵感、自由职业者和设计机构。
