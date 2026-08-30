@@ -40,6 +40,9 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [React Bits](https://reactbits.dev) - Animierte React-Komponenten, Hintergründe und Texteffekte zum direkten Einbinden, verfügbar in JS/TS- und Tailwind/CSS-Varianten.
 - [Base UI](https://base-ui.com) - Ungestylte, barrierefreie UI-Komponenten für Design-Systeme, von den Machern von Radix, Floating UI und Material UI.
 - [Park UI](https://park-ui.com) - Schön gestaltete Komponenten auf Basis von Ark UI und Panda CSS, nutzbar mit React, Solid und Vue.
+- [Kokonut UI](https://kokonutui.com) - Über 100 Open-Source-React-Komponenten mit Tailwind CSS und Motion, mit Live-Vorschauen und maschinenlesbarer Registry.
+- [Once UI](https://once-ui.com) - Ein Open-Source-Designsystem mit über 100 vorgestylten Komponenten, dessen Themes und Styles in einer einzigen Datei verwaltet werden.
+- [Tremor](https://www.tremor.so) - Über 35 vollständig quelloffene, barrierefreie React-Komponenten für Diagramme und Dashboards, gebaut mit Tailwind CSS und Radix UI.
 
 ## Icons
 
@@ -59,6 +62,8 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [SVGL](https://svgl.app) - Eine Bibliothek mit Marken-Logos als SVG, bereit zum Kopieren, Herunterladen oder Einbinden ins Framework.
 - [Nucleoapp](https://nucleoapp.com) - 💵 Über 44k Premium-Qualität SVG-Icons, regelmäßig für UIs, Präsentationen und Druckprojekte aktualisiert.
 - [Iconoir](https://iconoir.com) - Über 1600 kostenlose, quelloffene SVG-Icons für SVG, Font, React, React Native, Flutter, Figma und Framer.
+- [Radix Icons](https://www.radix-ui.com/icons) - Ein klarer Satz von 15×15-Icons vom Radix-Team, verfügbar für Figma, als SVG-Download und über npm.
+- [Pixel Icon Library](https://pixeliconlibrary.com) - Eine Open-Source-Sammlung pixeliger Icons, sorgfältig auf einem 24px-Raster für perfekte Ausrichtung und Konsistenz gezeichnet.
 
 ## Illustrationen
 
@@ -74,6 +79,7 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Shapefest](https://shapefest.com) - 💵 Über 100K transparente PNG-Bilder schöner 3D-Objekte.
 - [Blush](https://blush.design) - Kostenlose anpassbare Illustrationen mit Figma-Plugin. Erstellen, bearbeiten und verwenden Sie Illustrationen in Ihren Designs.
 - [Open Peeps](https://www.openpeeps.com) - Eine handgezeichnete Illustrationsbibliothek zum Erstellen von Szenen mit Menschen. Sie können sie in Produktillustration, Marketing, Comics und mehr verwenden.
+- [Open Doodles](https://www.opendoodles.com) - Ein kostenloser Satz quelloffener, handgezeichneter Illustrationen, die sich umfärben und zu eigenen Szenen kombinieren lassen.
 
 ## Vorlagen
 
@@ -81,6 +87,8 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Aceternity Template](https://pro.aceternity.com/templates) - 💵 Moderne und minimalistische Vorlagen für Ihr nächstes Produkt. Erstellt mit React, NextJS, TailwindCSS, Framer Motion und TypeScript.
 - [Shuffle](https://shuffle.dev/) - 💵 Erstellen Sie einfach Landingpages, Dashboards und E-Commerce-Vorlagen.
 - [Preline](https://preline.co) - 💵 Eine Open-Source Tailwind CSS-Komponentenbibliothek für alle Bedürfnisse. Kommt mit UI-Beispielen & Blöcken, Vorlagen, Plugins, Figma-Designsystem und mehr.
+- [Cruip](https://cruip.com) - 💵 Landingpages, Websites und Dashboards auf Basis von Tailwind CSS, umgesetzt in HTML, React, Next.js und Vue.
+- [Astro Themes](https://astro.build/themes) - Themes und Starter-Vorlagen für Astro-Websites, von Blogs und Dokumentationen bis zu Portfolios und Shops.
 
 ## Fotografie
 
@@ -108,6 +116,9 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [T26](https://www.t26.com) - 💵 Kaufen Sie gut gestaltete Schriften.
 - [Klim](https://klim.co.nz) - 💵 Kaufen Sie kuratierte Qualitätsschriften von unabhängigen Schriftgießereien.
 - [Pangram Pangram](https://pangrampangram.com) - 💵 Eine unabhängige Schriftgießerei mit hochwertigen Schriften, kostenlos testbar vor dem Lizenzkauf.
+- [Open Foundry](https://open-foundry.com) - Eine kuratierte Auswahl herausragender Open-Source-Schriften, präsentiert zusammen mit den Geschichten ihrer Gestalter.
+- [Velvetyne](https://velvetyne.fr) - Eine freie Schriftgießerei, die Hunderte kostenlose, experimentelle und quelloffene Schriften veröffentlicht.
+- [The League of Moveable Type](https://www.theleagueofmoveabletype.com) - Die erste Open-Source-Schriftgießerei, die seit 2009 die Gestaltungsstandards des Webs anhebt.
 
 ## Farben
 
@@ -124,6 +135,8 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Happy Hues](https://www.happyhues.co) - Kuratierte Farbpaletten im Kontext einer echten Seite, damit sichtbar wird, wo jede Farbe hingehört.
 - [Huemint](https://huemint.com) - Farbpaletten-Generator auf Basis von maschinellem Lernen für Marken, Websites und Grafiken.
 - [OKLCH Color Picker](https://oklch.com) - Farbwähler und Konverter für den OKLCH-Farbraum, mit Kontrastprüfung und P3-Gamut-Vorschau.
+- [Radix Colors](https://www.radix-ui.com/colors) - Ein wunderschönes, barrierefreies Farbsystem für Benutzeroberflächen mit 12-stufigen Skalen für helle und dunkle Modi.
+- [UI Colors](https://uicolors.app) - Erzeugt Tailwind-CSS-Farbskalen aus jeder Markenfarbe und zeigt sie in echten Komponenten, Dashboards und Diagrammen in der Vorschau.
 
 ## Werkzeuge
 
@@ -144,12 +157,20 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Canva](https://www.canva.com) - 💵 Erstellen Sie mühelos atemberaubende Designs mit Canvas Drag & Drop-Funktion und professionellen Layouts.
 - [InVision](https://www.invisionapp.com) - 💵 Digitale Produktdesign-Plattform für die weltbesten Benutzererfahrungen.
 - [Screen Studio](https://screen.studio) - 💵 macOS-Bildschirmrekorder mit automatischem Zoom und weichen Animationen für polierte Produkt-Demos.
+- [Motion](https://motion.dev) - Eine produktionsreife Animationsbibliothek für das Web unter MIT-Lizenz, verfügbar für React, JavaScript und Vue.
+- [Excalidraw](https://excalidraw.com) - Ein virtuelles Whiteboard für Diagramme, Wireframes und Ideen im handgezeichneten Stil, mit Live-Zusammenarbeit.
+- [tweakcn](https://tweakcn.com) - Ein visueller Theme-Editor für shadcn/ui – Farben, Typografie und Layouts mit Echtzeitvorschau anpassen und nach Tailwind exportieren.
+- [Squoosh](https://squoosh.app) - Bilder komprimieren und Codecs direkt nebeneinander vergleichen – vollständig im Browser.
+- [Wakamai Fondue](https://wakamaifondue.com) - Schrift hineinziehen und sehen, was sie kann – Glyphen, OpenType-Funktionen, variable Achsen und Sprachunterstützung.
 
 ## Bücher
 
 - [The Book of Shaders](https://thebookofshaders.com) - Dies ist eine sanfte Schritt-für-Schritt-Anleitung durch das abstrakte und komplexe Universum der Fragment-Shader.
 - [Laws of UX](https://lawsofux.com) - Eine Sammlung psychologischer Prinzipien, die beim Gestalten von Benutzeroberflächen helfen.
 - [Refactoring UI](https://www.refactoringui.com) - 💵 Lassen Sie Ihre Ideen großartig aussehen, ohne auf einen Designer angewiesen zu sein.
+- [Butterick's Practical Typography](https://practicaltypography.com) - Ein wunderschön gesetzter Typografie-Leitfaden für alle, die schreiben – vom Fließtext bis zum Seitenlayout.
+- [Inclusive Components](https://inclusive-components.design) - Eine Pattern-Bibliothek über den Entwurf barrierefreier, inklusiver Web-Oberflächen – Komponente für Komponente.
+- [Every Layout](https://every-layout.dev) - 💵 CSS-Layout neu lernen – mit einfachen, kombinierbaren Layout-Primitiven, die den Browser die Arbeit machen lassen.
 
 ## Communities
 
@@ -159,3 +180,7 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Pinterest](https://pinterest.com) - Eine visuelle Such- und Entdeckungsplattform, wo Menschen Inspiration finden, Ideen kuratieren und Produkte kaufen—alles an einem positiven Ort online.
 - [Awwwards](https://www.awwwards.com) - Auszeichnungen für Design, Kreativität und Innovation im Internet, mit einem Verzeichnis der besten Websites.
 - [Mobbin](https://mobbin.com) - 💵 Eine durchsuchbare Bibliothek echter Screens aus Mobile- und Web-Apps als UI- und UX-Inspiration.
+- [Recent](https://recent.design) - Eine tägliche Auswahl herausragender Designs, Websites und Werkzeuge, nach Disziplin sortiert.
+- [Codrops](https://tympanus.net/codrops) - Ein Magazin für Webdesigner und -entwickler mit kreativen Demos, Tutorials und einer kuratierten Galerie herausragender Websites.
+- [The Component Gallery](https://component.gallery) - Ein aktuelles Verzeichnis von Interface-Komponenten, basierend auf echten Beispielen aus der Welt der Designsysteme.
+- [Dribbble](https://dribbble.com) - Eine Community, in der Designer ihre Arbeiten teilen und Teams Inspiration, Freelancer und Agenturen finden.
