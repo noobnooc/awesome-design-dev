@@ -40,6 +40,10 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [React Bits](https://reactbits.dev) - Animierte React-Komponenten, Hintergründe und Texteffekte zum direkten Einbinden, verfügbar in JS/TS- und Tailwind/CSS-Varianten.
 - [Base UI](https://base-ui.com) - Ungestylte, barrierefreie UI-Komponenten für Design-Systeme, von den Machern von Radix, Floating UI und Material UI.
 - [Park UI](https://park-ui.com) - Schön gestaltete Komponenten auf Basis von Ark UI und Panda CSS, nutzbar mit React, Solid und Vue.
+- [Nuxt UI](https://ui.nuxt.com) - Eine umfassende Komponentenbibliothek für Vue und Nuxt mit über 125 barrierefreien, mit Tailwind CSS gestalteten Komponenten.
+- [Ark UI](https://ark-ui.com) - Eine Headless-Bibliothek mit über 45 barrierefreien Komponenten für React, Solid, Vue und Svelte – bereit für das eigene Designsystem.
+- [Flowbite](https://flowbite.com) - Eine Open-Source-Bibliothek mit über 600 UI-Komponenten, Sektionen und Seiten auf Basis von Tailwind CSS, gestaltet in Figma.
+- [Once UI](https://once-ui.com) - Ein Open-Source-Designsystem für Indie-Creator mit über 100 Komponenten und zentraler Theme-Verwaltung in einer einzigen Datei.
 
 ## Icons
 
@@ -59,6 +63,9 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [SVGL](https://svgl.app) - Eine Bibliothek mit Marken-Logos als SVG, bereit zum Kopieren, Herunterladen oder Einbinden ins Framework.
 - [Nucleoapp](https://nucleoapp.com) - 💵 Über 44k Premium-Qualität SVG-Icons, regelmäßig für UIs, Präsentationen und Druckprojekte aktualisiert.
 - [Iconoir](https://iconoir.com) - Über 1600 kostenlose, quelloffene SVG-Icons für SVG, Font, React, React Native, Flutter, Figma und Framer.
+- [Font Awesome](https://fontawesome.com) - Die bekannteste Icon-Bibliothek des Webs mit Tausenden Icons in mehreren Stilen, nutzbar als Webfont oder SVG.
+- [OpenMoji](https://openmoji.org) - Open-Source-Emojis für Designer und Entwickler – als SVG, PNG und Schriftart, farbig oder als schwarze Outline.
+- [Lineicons](https://lineicons.com) - Über 27.000 kostenlose und Premium-Icons in mehreren Stilen, inklusive Figma-Dateien und fertiger Pakete für gängige Frameworks.
 
 ## Illustrationen
 
@@ -74,6 +81,8 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Shapefest](https://shapefest.com) - 💵 Über 100K transparente PNG-Bilder schöner 3D-Objekte.
 - [Blush](https://blush.design) - Kostenlose anpassbare Illustrationen mit Figma-Plugin. Erstellen, bearbeiten und verwenden Sie Illustrationen in Ihren Designs.
 - [Open Peeps](https://www.openpeeps.com) - Eine handgezeichnete Illustrationsbibliothek zum Erstellen von Szenen mit Menschen. Sie können sie in Produktillustration, Marketing, Comics und mehr verwenden.
+- [Open Doodles](https://www.opendoodles.com) - Ein kostenloses, quelloffenes Set handgezeichneter Illustrationen, das sich umfärben, skalieren und remixen lässt.
+- [Ouch!](https://icons8.com/illustrations) - Vektor-, 3D- und animierte Illustrationen von Icons8, direkt im Browser bearbeitbar und als SVG oder PNG herunterladbar.
 
 ## Vorlagen
 
@@ -81,6 +90,8 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Aceternity Template](https://pro.aceternity.com/templates) - 💵 Moderne und minimalistische Vorlagen für Ihr nächstes Produkt. Erstellt mit React, NextJS, TailwindCSS, Framer Motion und TypeScript.
 - [Shuffle](https://shuffle.dev/) - 💵 Erstellen Sie einfach Landingpages, Dashboards und E-Commerce-Vorlagen.
 - [Preline](https://preline.co) - 💵 Eine Open-Source Tailwind CSS-Komponentenbibliothek für alle Bedürfnisse. Kommt mit UI-Beispielen & Blöcken, Vorlagen, Plugins, Figma-Designsystem und mehr.
+- [TailAdmin](https://tailadmin.com) - Eine quelloffene Admin-Dashboard-Vorlage mit Tailwind CSS für HTML, React, Next.js, Vue, Angular und Laravel.
+- [Cruip](https://cruip.com) - 💵 Landingpage-, Website- und Dashboard-Vorlagen mit Tailwind CSS, umgesetzt in HTML, React, Next.js und Vue.
 
 ## Fotografie
 
@@ -96,6 +107,7 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Nappy](https://nappy.co) - Schöne hochauflösende Fotos von Schwarzen und Brown People, kostenlos für private und kommerzielle Nutzung.
 - [Deposit Photos](https://depositphotos.com) - 💵 Lizenzfreie Stock-Fotos, Vektorbilder, Videos und Musik.
 - [Freepik](https://www.freepik.com) - 💵 Millionen kostenloser Vektoren, PSD-Dateien, Fotos und KI-generierter Bilder. Premium-Ressourcen für Ihre kreativen Projekte.
+- [Kaboompics](https://kaboompics.com) - Kostenlose Stockfotos und kuratierte Fotoserien zur kommerziellen Nutzung, durchsuchbar nach Farbpalette.
 
 ## Schriftarten
 
@@ -108,6 +120,9 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [T26](https://www.t26.com) - 💵 Kaufen Sie gut gestaltete Schriften.
 - [Klim](https://klim.co.nz) - 💵 Kaufen Sie kuratierte Qualitätsschriften von unabhängigen Schriftgießereien.
 - [Pangram Pangram](https://pangrampangram.com) - 💵 Eine unabhängige Schriftgießerei mit hochwertigen Schriften, kostenlos testbar vor dem Lizenzkauf.
+- [Modern Font Stacks](https://modernfontstacks.com) - System-Font-Stacks als CSS, nach Schriftklassifikation sortiert – sofortiges Rendering ganz ohne Downloads.
+- [Fontpair](https://www.fontpair.co) - Kuratierte Google-Fonts-Kombinationen mit einem Playground, um Schrift, Farben und Icons gemeinsam zu testen.
+- [Future Fonts](https://www.futurefonts.xyz) - 💵 Schriften kaufen, solange sie noch in Arbeit sind – zum günstigeren Preis und mit allen künftigen Updates gratis.
 
 ## Farben
 
@@ -124,6 +139,8 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Happy Hues](https://www.happyhues.co) - Kuratierte Farbpaletten im Kontext einer echten Seite, damit sichtbar wird, wo jede Farbe hingehört.
 - [Huemint](https://huemint.com) - Farbpaletten-Generator auf Basis von maschinellem Lernen für Marken, Websites und Grafiken.
 - [OKLCH Color Picker](https://oklch.com) - Farbwähler und Konverter für den OKLCH-Farbraum, mit Kontrastprüfung und P3-Gamut-Vorschau.
+- [Radix Colors](https://www.radix-ui.com/colors) - Ein wunderschönes, barrierefreies Farbsystem für Interfaces – mit 12-stufigen Skalen und automatischem Dark Mode.
+- [UI Colors](https://uicolors.app) - Tailwind-CSS-Farbgenerator, der die Palette an echten Komponenten zeigt und die Konfiguration exportiert.
 
 ## Werkzeuge
 
@@ -144,12 +161,21 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Canva](https://www.canva.com) - 💵 Erstellen Sie mühelos atemberaubende Designs mit Canvas Drag & Drop-Funktion und professionellen Layouts.
 - [InVision](https://www.invisionapp.com) - 💵 Digitale Produktdesign-Plattform für die weltbesten Benutzererfahrungen.
 - [Screen Studio](https://screen.studio) - 💵 macOS-Bildschirmrekorder mit automatischem Zoom und weichen Animationen für polierte Produkt-Demos.
+- [Open Props](https://open-props.style) - Aufgewertete CSS-Variablen: sorgfältig gestaltete Design-Tokens für Farben, Verläufe, Schatten, Easings und mehr.
+- [Hero Patterns](https://heropatterns.com) - Eine Sammlung wiederholbarer SVG-Hintergrundmuster, in Farbe und Deckkraft anpassbar.
+- [MagicPattern](https://www.magicpattern.design) - Über 30 Generatoren für Hintergründe, Muster, Verläufe und weitere Grafiken – exportierbar als Bild, SVG oder CSS.
+- [Checklist Design](https://www.checklist.design) - Sammlungen von Best Practices für Websites, Apps, Komponenten und Flows – damit vor dem Launch jedes Detail stimmt.
+- [The Component Gallery](https://component.gallery) - Ein Nachschlagewerk für Interface-Komponenten mit echten Beispielen aus Dutzenden öffentlichen Designsystemen.
 
 ## Bücher
 
 - [The Book of Shaders](https://thebookofshaders.com) - Dies ist eine sanfte Schritt-für-Schritt-Anleitung durch das abstrakte und komplexe Universum der Fragment-Shader.
 - [Laws of UX](https://lawsofux.com) - Eine Sammlung psychologischer Prinzipien, die beim Gestalten von Benutzeroberflächen helfen.
 - [Refactoring UI](https://www.refactoringui.com) - 💵 Lassen Sie Ihre Ideen großartig aussehen, ohne auf einen Designer angewiesen zu sein.
+- [Practical Typography](https://practicaltypography.com) - Matthew Buttericks Buch über Typografie für alltägliche Dokumente und Interfaces – online kostenlos lesbar.
+- [Inclusive Components](https://inclusive-components.design) - Eine Pattern-Bibliothek darüber, wie man barrierefreie, inklusive Interface-Komponenten Stück für Stück gestaltet.
+- [Every Layout](https://every-layout.dev) - 💵 CSS-Layout neu lernen – anhand einfacher, kombinierbarer Layout-Primitive.
+- [Growth.Design](https://growth.design) - Produkt-Fallstudien im Comic-Format, die die Psychologie hinter großartigen User Experiences beleuchten.
 
 ## Communities
 
@@ -159,3 +185,7 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Pinterest](https://pinterest.com) - Eine visuelle Such- und Entdeckungsplattform, wo Menschen Inspiration finden, Ideen kuratieren und Produkte kaufen—alles an einem positiven Ort online.
 - [Awwwards](https://www.awwwards.com) - Auszeichnungen für Design, Kreativität und Innovation im Internet, mit einem Verzeichnis der besten Websites.
 - [Mobbin](https://mobbin.com) - 💵 Eine durchsuchbare Bibliothek echter Screens aus Mobile- und Web-Apps als UI- und UX-Inspiration.
+- [Cosmos](https://www.cosmos.so) - Ein Raum für visuelle Entdeckungen, um Design-Inspiration zu sammeln, zu ordnen und zu teilen.
+- [Savee](https://savee.it) - Von Designern kuratierte Inspiration – mit Apps und Browser-Erweiterungen zum Sammeln visueller Referenzen.
+- [Typewolf](https://www.typewolf.com) - Was in der Typografie angesagt ist: reale Schriftkombinationen, Lookbooks und Lernressourcen.
+- [One Page Love](https://onepagelove.com) - Eine kuratierte Galerie von One-Page-Websites, Sektionen und Vorlagen – handverlesen seit 2008.
