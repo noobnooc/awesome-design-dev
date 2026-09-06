@@ -40,6 +40,10 @@
 - [React Bits](https://reactbits.dev) - 可直接放进项目的 React 动效组件、背景与文字特效，提供 JS/TS 与 Tailwind/CSS 多种版本。
 - [Base UI](https://base-ui.com) - 由 Radix、Floating UI 和 Material UI 团队打造的无样式、可访问 UI 组件，适合构建设计系统。
 - [Park UI](https://park-ui.com) - 基于 Ark UI 和 Panda CSS 构建的精美组件，支持 React、Solid 和 Vue。
+- [Nuxt UI](https://ui.nuxt.com) - 全面的 Vue 与 Nuxt 组件库，提供 125+ 个无障碍组件，使用 Tailwind CSS 精心设计。
+- [Ark UI](https://ark-ui.com) - 面向 React、Solid、Vue 和 Svelte 的无头组件库，包含 45+ 个无障碍组件，可直接用于自建设计系统。
+- [Flowbite](https://flowbite.com) - 开源 UI 库，提供 600+ 个基于 Tailwind CSS 的组件、区块与页面，并配有 Figma 设计稿。
+- [Once UI](https://once-ui.com) - 面向独立创作者的开源设计系统，提供 100+ 个组件，主题与样式集中在单个文件中管理。
 
 ## 图标
 
@@ -60,6 +64,9 @@
 
 - [React Icons](https://react-icons.github.io/react-icons/) - 使用 react-icons 轻松在 React 项目中包含流行图标。
 - [Iconoir](https://iconoir.com) - 1600+ 免费开源的高质量 SVG 图标，支持 SVG、Font、React、React Native、Flutter、Figma 和 Framer。
+- [Font Awesome](https://fontawesome.com) - 互联网上最知名的图标库与工具集，涵盖数千个多种风格的图标，可作为 Web 字体或 SVG 使用。
+- [OpenMoji](https://openmoji.org) - 面向设计师和开发者的开源 emoji，提供彩色与黑白线条两种风格的 SVG、PNG 和字体格式。
+- [Lineicons](https://lineicons.com) - 27000+ 个免费与付费图标，涵盖多种风格，并提供 Figma 源文件和主流框架的现成安装包。
 
 ## 插图
 
@@ -75,6 +82,8 @@
 - [Shapefest](https://shapefest.com) - 💵 100K+ 透明 PNG 图像的美丽 3D 对象。
 - [Blush](https://blush.design) - 免费可定制插图，带 Figma 插件。在您的设计中创建、编辑和使用插图。
 - [Open Peeps](https://www.openpeeps.com) - 手绘人物插图库，用于创建人物场景。可用于产品插图、营销、漫画等。
+- [Open Doodles](https://www.opendoodles.com) - 免费开源的手绘插画合集，可自由改色、缩放与二次创作。
+- [Ouch!](https://icons8.com/illustrations) - Icons8 出品的矢量、3D 与动画插画，可在浏览器中编辑，并导出为 SVG 或 PNG。
 
 ## 模板
 
@@ -82,6 +91,8 @@
 - [Aceternity Template](https://pro.aceternity.com/templates) - 💵 现代和极简的模板，用于构建您的下一个产品。使用 React、NextJS、TailwindCSS、Framer Motion 和 Typescript 构建。
 - [Shuffle](https://shuffle.dev/) - 💵 轻松创建登陆页面、仪表板和电子商务模板。
 - [Preline](https://preline.co) - 💵 一个开源的 Tailwind CSS 组件库，适用于各种需求。提供 UI 示例和区块、模板、插件、Figma 设计系统等。
+- [TailAdmin](https://tailadmin.com) - 开源的 Tailwind CSS 后台仪表盘模板，支持 HTML、React、Next.js、Vue、Angular 和 Laravel。
+- [Cruip](https://cruip.com) - 💵 基于 Tailwind CSS 的落地页、网站与仪表盘模板，提供 HTML、React、Next.js 和 Vue 版本。
 
 ## 摄影
 
@@ -97,6 +108,7 @@
 - [Nappy](https://nappy.co) - 以黑人和棕色人种为主题的高分辨率精美照片，可免费用于个人和商业项目。
 - [Deposit Photos](https://depositphotos.com) - 💵 免费版权库存照片、矢量图像、视频和音乐。
 - [Freepik](https://www.freepik.com) - 💵 数百万免费矢量、PSD 文件、照片和 AI 生成图像。创意项目的优质资源。
+- [Kaboompics](https://kaboompics.com) - 可免费商用的图库照片与成套拍摄合集，支持按配色搜索。
 
 ## 字体
 
@@ -109,6 +121,9 @@
 - [T26](https://www.t26.com) - 💵 购买设计精美的字体。
 - [Klim](https://klim.co.nz) - 💵 购买优质、精选的字体，来自独立字体铸造厂。
 - [Pangram Pangram](https://pangrampangram.com) - 💵 独立字体工作室出品的高品质字体，购买授权前可免费试用。
+- [Modern Font Stacks](https://modernfontstacks.com) - 按字体分类整理的系统字体栈 CSS，无需下载即可即时渲染。
+- [Fontpair](https://www.fontpair.co) - 精选的 Google Fonts 字体搭配，并提供可同时试验字体、配色与图标的演练场。
+- [Future Fonts](https://www.futurefonts.xyz) - 💵 在字体尚未完工时以更低价格购买，并免费获得后续所有更新。
 
 ## 颜色
 
@@ -125,6 +140,8 @@
 - [Happy Hues](https://www.happyhues.co) - 在真实页面场景中展示的精选配色方案，让你直观看到每种颜色的用法。
 - [Huemint](https://huemint.com) - 使用机器学习为品牌、网站和图形生成配色方案。
 - [OKLCH Color Picker](https://oklch.com) - OKLCH 色彩空间的取色器与转换工具，支持对比度检查和 P3 色域预览。
+- [Radix Colors](https://www.radix-ui.com/colors) - 为界面打造的精美且无障碍的色彩系统，提供 12 级色阶与自动暗色模式。
+- [UI Colors](https://uicolors.app) - Tailwind CSS 配色生成器，可在真实组件上预览调色板并导出配置。
 
 ## 工具
 
@@ -145,12 +162,21 @@
 - [Canva](https://www.canva.com) - 💵 使用 Canva 的拖放功能和专业布局轻松创建令人惊叹的设计。
 - [InVision](https://www.invisionapp.com) - 💵 为世界最佳用户体验提供支持的数字产品设计平台。
 - [Screen Studio](https://screen.studio) - 💵 macOS 屏幕录制工具，自动缩放和流畅动画，适合制作精致的产品演示。
+- [Open Props](https://open-props.style) - 强化版 CSS 变量：精心打磨的设计令牌，涵盖颜色、渐变、阴影、缓动等。
+- [Hero Patterns](https://heropatterns.com) - 可重复平铺的 SVG 背景图案合集，颜色与透明度均可自定义。
+- [MagicPattern](https://www.magicpattern.design) - 30+ 款背景、图案、渐变等图形生成器，可导出为图片、SVG 或 CSS。
+- [Checklist Design](https://www.checklist.design) - 面向网站、应用、组件与流程的最佳实践清单，帮助你在上线前逐项核对细节。
+- [The Component Gallery](https://component.gallery) - 界面组件参考库，收录来自数十个公开设计系统的真实示例。
 
 ## 书籍
 
 - [The Book of Shaders](https://thebookofshaders.com) - 这是一本温和的分步指南，带您进入片段着色器的抽象和复杂的宇宙。
 - [Laws of UX](https://lawsofux.com) - 设计师在构建用户界面时可以参考的心理学原则合集。
 - [Refactoring UI](https://www.refactoringui.com) - 💵 让您的想法看起来很棒，而无需依赖设计师。
+- [Practical Typography](https://practicaltypography.com) - Matthew Butterick 撰写的排版书籍，面向日常文档与界面，可在线免费阅读。
+- [Inclusive Components](https://inclusive-components.design) - 关于如何逐个打造可访问、包容性界面组件的模式库。
+- [Every Layout](https://every-layout.dev) - 💵 通过一组简单可组合的布局原语，重新学习 CSS 布局。
+- [Growth.Design](https://growth.design) - 以漫画形式呈现的产品案例研究，深入剖析优秀用户体验背后的心理学。
 
 ## 社区
 
@@ -160,3 +186,7 @@
 - [Pinterest](https://pinterest.com) - 一个视觉搜索和发现平台，人们可以在网上找到灵感、策划想法和购物产品。
 - [Awwwards](https://www.awwwards.com) - 表彰互联网上的设计、创意与创新，并收录最佳网站目录。
 - [Mobbin](https://mobbin.com) - 💵 可搜索的真实移动端和网页应用界面截图库，提供 UI 与 UX 灵感。
+- [Cosmos](https://www.cosmos.so) - 视觉发现空间，用于收集、整理并分享设计灵感。
+- [Savee](https://savee.it) - 由设计师精选的灵感库，配有客户端与浏览器扩展，方便随手收藏视觉参考。
+- [Typewolf](https://www.typewolf.com) - 字体潮流风向标：真实网站的字体搭配、案例合辑与排版学习资源。
+- [One Page Love](https://onepagelove.com) - 自 2008 年起人工精选的单页网站、区块与模板画廊。
