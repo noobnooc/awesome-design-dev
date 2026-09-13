@@ -40,6 +40,9 @@
 - [React Bits](https://reactbits.dev) - 可直接放进项目的 React 动效组件、背景与文字特效，提供 JS/TS 与 Tailwind/CSS 多种版本。
 - [Base UI](https://base-ui.com) - 由 Radix、Floating UI 和 Material UI 团队打造的无样式、可访问 UI 组件，适合构建设计系统。
 - [Park UI](https://park-ui.com) - 基于 Ark UI 和 Panda CSS 构建的精美组件，支持 React、Solid 和 Vue。
+- [MUI](https://mui.com) - 全面的 React UI 工具套件，既有功能完备的 Material UI 组件库，也有可直接用于生产的无样式基础组件。
+- [Nuxt UI](https://ui.nuxt.com) - 125+ 个使用 Tailwind CSS 构建的无障碍 Vue 组件，同时适用于 Nuxt 和纯 Vue 项目。
+- [Tremor](https://tremor.so) - 35+ 个用于构建图表和仪表盘的开源 React 组件，基于 Tailwind CSS 和 Radix UI 构建。
 
 ## 图标
 
@@ -60,6 +63,7 @@
 
 - [React Icons](https://react-icons.github.io/react-icons/) - 使用 react-icons 轻松在 React 项目中包含流行图标。
 - [Iconoir](https://iconoir.com) - 1600+ 免费开源的高质量 SVG 图标，支持 SVG、Font、React、React Native、Flutter、Figma 和 Framer。
+- [OpenMoji](https://www.openmoji.org) - 面向开发者和设计师的开源表情符号库，提供彩色和黑色描边两种风格。
 
 ## 插图
 
@@ -75,6 +79,7 @@
 - [Shapefest](https://shapefest.com) - 💵 100K+ 透明 PNG 图像的美丽 3D 对象。
 - [Blush](https://blush.design) - 免费可定制插图，带 Figma 插件。在您的设计中创建、编辑和使用插图。
 - [Open Peeps](https://www.openpeeps.com) - 手绘人物插图库，用于创建人物场景。可用于产品插图、营销、漫画等。
+- [Ouch!](https://icons8.com/illustrations) - 风格统一的矢量、3D 和动画插图，可在浏览器中编辑后下载。注明来源即可免费使用。
 
 ## 模板
 
@@ -82,6 +87,8 @@
 - [Aceternity Template](https://pro.aceternity.com/templates) - 💵 现代和极简的模板，用于构建您的下一个产品。使用 React、NextJS、TailwindCSS、Framer Motion 和 Typescript 构建。
 - [Shuffle](https://shuffle.dev/) - 💵 轻松创建登陆页面、仪表板和电子商务模板。
 - [Preline](https://preline.co) - 💵 一个开源的 Tailwind CSS 组件库，适用于各种需求。提供 UI 示例和区块、模板、插件、Figma 设计系统等。
+- [Astro Themes](https://astro.build/themes/) - Astro 主题画廊，收录适用于博客、文档站点、作品集和商店的免费与付费主题。
+- [Cruip](https://cruip.com) - 💵 Tailwind CSS 落地页、网站和仪表盘模板，提供完整的 HTML、React、Next.js 和 Vue 代码。
 
 ## 摄影
 
@@ -97,6 +104,7 @@
 - [Nappy](https://nappy.co) - 以黑人和棕色人种为主题的高分辨率精美照片，可免费用于个人和商业项目。
 - [Deposit Photos](https://depositphotos.com) - 💵 免费版权库存照片、矢量图像、视频和音乐。
 - [Freepik](https://www.freepik.com) - 💵 数百万免费矢量、PSD 文件、照片和 AI 生成图像。创意项目的优质资源。
+- [Kaboompics](https://www.kaboompics.com) - 免费图库照片与精选专题拍摄，每张图片都附带配色方案，且无需署名。
 
 ## 字体
 
@@ -109,6 +117,8 @@
 - [T26](https://www.t26.com) - 💵 购买设计精美的字体。
 - [Klim](https://klim.co.nz) - 💵 购买优质、精选的字体，来自独立字体铸造厂。
 - [Pangram Pangram](https://pangrampangram.com) - 💵 独立字体工作室出品的高品质字体，购买授权前可免费试用。
+- [Velvetyne](https://www.velvetyne.fr) - 自由字体铸造厂，发布富有个性的实验性开源字体，可自由用于任何用途。
+- [Typewolf](https://www.typewolf.com) - 字体推荐、精选字体清单和真实网站的排版案例，帮助你挑选合适的字体。
 
 ## 颜色
 
@@ -125,6 +135,7 @@
 - [Happy Hues](https://www.happyhues.co) - 在真实页面场景中展示的精选配色方案，让你直观看到每种颜色的用法。
 - [Huemint](https://huemint.com) - 使用机器学习为品牌、网站和图形生成配色方案。
 - [OKLCH Color Picker](https://oklch.com) - OKLCH 色彩空间的取色器与转换工具，支持对比度检查和 P3 色域预览。
+- [Radix Colors](https://www.radix-ui.com/colors) - 精美且无障碍的配色系统，为背景、边框、纯色填充和文字提供 12 级色阶，并支持浅色与深色模式。
 
 ## 工具
 
@@ -145,12 +156,17 @@
 - [Canva](https://www.canva.com) - 💵 使用 Canva 的拖放功能和专业布局轻松创建令人惊叹的设计。
 - [InVision](https://www.invisionapp.com) - 💵 为世界最佳用户体验提供支持的数字产品设计平台。
 - [Screen Studio](https://screen.studio) - 💵 macOS 屏幕录制工具，自动缩放和流畅动画，适合制作精致的产品演示。
+- [Utopia](https://utopia.fyi) - 流式字号与间距比例计算器，让尺寸在不同视口之间平滑过渡，而不是在断点处突然跳变。
+- [Excalidraw](https://excalidraw.com) - 用于绘制手绘风格图表、线框图和创意的虚拟白板，支持实时协作。
+- [LottieFiles](https://lottiefiles.com) - 创建、编辑并发布轻量的 Lottie 动画，并可从庞大的现成动画库中直接取用。
 
 ## 书籍
 
 - [The Book of Shaders](https://thebookofshaders.com) - 这是一本温和的分步指南，带您进入片段着色器的抽象和复杂的宇宙。
 - [Laws of UX](https://lawsofux.com) - 设计师在构建用户界面时可以参考的心理学原则合集。
 - [Refactoring UI](https://www.refactoringui.com) - 💵 让您的想法看起来很棒，而无需依赖设计师。
+- [Butterick's Practical Typography](https://practicaltypography.com) - 面向日常文档与界面的完整排版指南，可在线免费阅读，并使用作者自制的字体排印。
+- [Resilient Web Design](https://resilientwebdesign.com) - Jeremy Keith 的免费网络书籍，讲述在技术不断变化时依然让网页设计持续有效的原则。
 
 ## 社区
 
@@ -160,3 +176,5 @@
 - [Pinterest](https://pinterest.com) - 一个视觉搜索和发现平台，人们可以在网上找到灵感、策划想法和购物产品。
 - [Awwwards](https://www.awwwards.com) - 表彰互联网上的设计、创意与创新，并收录最佳网站目录。
 - [Mobbin](https://mobbin.com) - 💵 可搜索的真实移动端和网页应用界面截图库，提供 UI 与 UX 灵感。
+- [Dribbble](https://dribbble.com) - 设计师展示作品的社区，也是网络上最大的视觉灵感来源之一。
+- [One Page Love](https://onepagelove.com) - 精选的单页网站画廊，收录 9000 多个网站和区块范例，自 2008 年起人工挑选。
