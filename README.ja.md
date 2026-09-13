@@ -40,6 +40,9 @@
 - [React Bits](https://reactbits.dev) - プロジェクトにそのまま組み込めるアニメーション付き React コンポーネント、背景、テキストエフェクト。JS/TS と Tailwind/CSS の各バリアントを提供。
 - [Base UI](https://base-ui.com) - Radix、Floating UI、Material UI の開発チームによる、デザインシステム構築向けのアンスタイルでアクセシブルな UI コンポーネント。
 - [Park UI](https://park-ui.com) - Ark UI と Panda CSS で構築された美しいコンポーネント。React、Solid、Vue で利用可能。
+- [MUI](https://mui.com) - 充実した Material UI コンポーネントライブラリから、本番運用に耐えるアンスタイルドなプリミティブまでを揃えた React UI ツール群。
+- [Nuxt UI](https://ui.nuxt.com) - Tailwind CSS でスタイリングされた 125 以上のアクセシブルな Vue コンポーネント。Nuxt でも素の Vue でも利用可能。
+- [Tremor](https://tremor.so) - チャートやダッシュボードを構築するための 35 以上のオープンソース React コンポーネント。Tailwind CSS と Radix UI で構築。
 
 ## アイコン
 
@@ -59,6 +62,7 @@
 - [SVGL](https://svgl.app) - ブランドの SVG ロゴとワードマークのライブラリ。コピー、ダウンロード、フレームワークへの取り込みに対応。
 - [Nucleoapp](https://nucleoapp.com) - 💵 UI、プレゼンテーション、印刷プロジェクト用に定期的に更新される 44k+のプレミアム品質 SVG アイコン。
 - [Iconoir](https://iconoir.com) - 1600以上の無料オープンソース SVG アイコン。SVG、Font、React、React Native、Flutter、Figma、Framer に対応。
+- [OpenMoji](https://www.openmoji.org) - 開発者とデザイナーのために作られたオープンソースの絵文字ライブラリ。カラーと黒のアウトラインの 2 スタイルを提供。
 
 ## イラスト
 
@@ -74,6 +78,7 @@
 - [Shapefest](https://shapefest.com) - 💵 美しい 3D オブジェクトの 100K 以上の透明 PNG 画像。
 - [Blush](https://blush.design) - Figma プラグイン付きの無料カスタマイズ可能イラスト。デザインでイラストを作成、編集、使用できます。
 - [Open Peeps](https://www.openpeeps.com) - 人々のシーンを作成するための手描きイラストライブラリ。製品イラスト、マーケティング、コミックなどで使用できます。
+- [Ouch!](https://icons8.com/illustrations) - 統一感のあるスタイルのベクター・3D・アニメーションイラスト。ダウンロード前にブラウザ上で編集可能。クレジット表記で無料。
 
 ## テンプレート
 
@@ -81,6 +86,8 @@
 - [Aceternity Template](https://pro.aceternity.com/templates) - 💵 次の製品を構築するためのモダンでミニマリストなテンプレート。React、NextJS、TailwindCSS、Framer Motion、TypeScript で構築。
 - [Shuffle](https://shuffle.dev/) - 💵 ランディングページ、ダッシュボード、e コマーステンプレートを簡単に作成。
 - [Preline](https://preline.co) - 💵 あらゆるニーズに対応するオープンソース Tailwind CSS コンポーネントライブラリ。UI サンプル＆ブロック、テンプレート、プラグイン、Figma デザインシステムなどが付属。
+- [Astro Themes](https://astro.build/themes/) - ブログ、ドキュメントサイト、ポートフォリオ、ストア向けの無料・有料 Astro テーマのギャラリー。
+- [Cruip](https://cruip.com) - 💵 Tailwind CSS 製のランディングページ・ウェブサイト・ダッシュボードのテンプレート。HTML、React、Next.js、Vue で実装済み。
 
 ## 写真
 
@@ -96,6 +103,7 @@
 - [Nappy](https://nappy.co) - 黒人・褐色の肌の人々を撮影した高解像度の写真。個人利用・商用利用ともに無料。
 - [Deposit Photos](https://depositphotos.com) - 💵 ロイヤリティフリーストック写真、ベクター画像、動画、音楽。
 - [Freepik](https://www.freepik.com) - 💵 数百万の無料ベクター、PSD ファイル、写真、AI 生成画像。クリエイティブプロジェクト用のプレミアムリソース。
+- [Kaboompics](https://www.kaboompics.com) - 無料のストックフォトと厳選されたフォトシュート。各写真にカラーパレットが付属し、クレジット表記も不要。
 
 ## フォント
 
@@ -108,6 +116,8 @@
 - [T26](https://www.t26.com) - 💵 よくデザインされたフォントを購入。
 - [Klim](https://klim.co.nz) - 💵 独立系フォント制作会社からの厳選品質フォントをショッピング。
 - [Pangram Pangram](https://pangrampangram.com) - 💵 高品質な書体を手がける独立系フォントファウンドリ。ライセンス購入前に無料で試用可能。
+- [Velvetyne](https://www.velvetyne.fr) - 実験的で個性的なオープンソース書体を公開する自由なタイプファウンドリ。あらゆる用途に無料で利用可能。
+- [Typewolf](https://www.typewolf.com) - フォントの推薦、厳選された書体リスト、実際のウェブサイトの組版例を通じて、最適なフォント選びを助けてくれるサイト。
 
 ## 色
 
@@ -124,6 +134,7 @@
 - [Happy Hues](https://www.happyhues.co) - 実際のページ上で文脈とともに見せてくれる厳選カラーパレット。それぞれの色の使いどころが一目でわかる。
 - [Huemint](https://huemint.com) - ブランド、ウェブサイト、グラフィック向けに機械学習でカラーパレットを生成。
 - [OKLCH Color Picker](https://oklch.com) - OKLCH 色空間のカラーピッカー兼コンバーター。コントラストチェックと P3 色域プレビューに対応。
+- [Radix Colors](https://www.radix-ui.com/colors) - 背景・境界線・塗り・テキスト向けに 12 段階のスケールを備えた、美しくアクセシブルなカラーシステム。ライトとダークの両モードに対応。
 
 ## ツール
 
@@ -144,12 +155,17 @@
 - [Canva](https://www.canva.com) - 💵 Canva のドラッグ＆ドロップ機能とプロフェッショナルレイアウトで素晴らしいデザインを簡単に作成。
 - [InVision](https://www.invisionapp.com) - 💵 世界最高のユーザー体験を推進するデジタル製品デザインプラットフォーム。
 - [Screen Studio](https://screen.studio) - 💵 自動ズームと滑らかなアニメーションを備えた macOS 向け画面録画ツール。洗練された製品デモに最適。
+- [Utopia](https://utopia.fyi) - ブレークポイントで急に切り替わるのではなく、ビューポート間をなめらかに補間する流動的なタイプ・スペーススケールの計算ツール。
+- [Excalidraw](https://excalidraw.com) - 手描き風の図やワイヤーフレーム、アイデアをスケッチできるバーチャルホワイトボード。リアルタイム共同編集にも対応。
+- [LottieFiles](https://lottiefiles.com) - 軽量な Lottie アニメーションの作成・編集・配信ができるサービス。すぐに使える豊富なアニメーションライブラリ付き。
 
 ## 書籍
 
 - [The Book of Shaders](https://thebookofshaders.com) - これは、抽象的で複雑な Fragment Shaders の宇宙を通る優しいステップバイステップガイドです。
 - [Laws of UX](https://lawsofux.com) - ユーザーインターフェースを設計する際に参考になる心理学の原則集。
 - [Refactoring UI](https://www.refactoringui.com) - 💵 デザイナーに頼らずにアイデアを素晴らしく見せる。
+- [Butterick's Practical Typography](https://practicaltypography.com) - 日常的な文書やインターフェースのための完全なタイポグラフィ指南書。オンラインで無料で読め、著者自身の書体で組まれている。
+- [Resilient Web Design](https://resilientwebdesign.com) - 技術が変わっても機能し続けるウェブデザインの原則を説く、Jeremy Keith による無料のウェブブック。
 
 ## コミュニティ
 
@@ -159,3 +175,5 @@
 - [Pinterest](https://pinterest.com) - 人々がインスピレーションを見つけ、アイデアをキュレートし、製品を購入するビジュアル検索・発見プラットフォーム—すべてオンラインのポジティブな場所で。
 - [Awwwards](https://www.awwwards.com) - インターネット上のデザイン・創造性・革新性を表彰するアワード。優れたウェブサイトのディレクトリ付き。
 - [Mobbin](https://mobbin.com) - 💵 実際のモバイル・ウェブアプリの画面を検索できるライブラリ。UI・UX のインスピレーションに。
+- [Dribbble](https://dribbble.com) - デザイナーが自身の作品を投稿するショーケースコミュニティ。ウェブ最大級のビジュアルインスピレーション源の一つ。
+- [One Page Love](https://onepagelove.com) - 2008 年から人の手で選ばれ続けている、9,000 以上のワンページサイトとセクション事例のキュレーションギャラリー。
