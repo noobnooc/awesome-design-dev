@@ -40,6 +40,10 @@
 - [React Bits](https://reactbits.dev) - 可直接放进项目的 React 动效组件、背景与文字特效，提供 JS/TS 与 Tailwind/CSS 多种版本。
 - [Base UI](https://base-ui.com) - 由 Radix、Floating UI 和 Material UI 团队打造的无样式、可访问 UI 组件，适合构建设计系统。
 - [Park UI](https://park-ui.com) - 基于 Ark UI 和 Panda CSS 构建的精美组件，支持 React、Solid 和 Vue。
+- [Motion Primitives](https://motion-primitives.com) - 使用 React、Tailwind CSS 和 Motion 构建的精美动效组件，可直接复制粘贴使用。
+- [Kibo UI](https://www.kibo-ui.com) - 为 shadcn/ui 打造的可组合、可访问组件，包含编辑器、看板、文件上传等复杂组件。
+- [Ark UI](https://ark-ui.com) - 45+ 个基于状态机的无样式可访问组件，支持 React、Vue、Solid 和 Svelte。
+- [Flowbite](https://flowbite.com) - 开源的 Tailwind CSS 组件、区块和交互元素，并配有对应的 Figma 设计系统。
 
 ## 图标
 
@@ -53,6 +57,8 @@
 - [Simple Icons](https://simpleicons.org) - 3000+ 流行品牌的 SVG 图标。
 - [Hugeicons](https://hugeicons.com) - 59,000+ 个多种风格的图标，包含免费核心图标集，以及面向大型项目的专业版图标库。
 - [SVGL](https://svgl.app) - 品牌 SVG 标志与字标合集，支持一键复制、下载或直接引入到你的框架中。
+- [Iconify](https://iconify.design) - 统一的图标框架，汇集 200 多个图标集、30 万+ 开源矢量图标，可在任意前端框架中使用。
+- [Lineicons](https://lineicons.com) - 31000+ 免费与付费图标，涵盖 10 种风格，并提供 React、Vue、Flutter 和 Figma 的使用包。
 - [Nucleoapp](https://nucleoapp.com) - 💵 44000+ 高质量的 SVG 图标，定期更新，适用于 UI、演示文稿和印刷项目。
 - [Icônes](https://icones.js.org) - 图标浏览器，支持即时搜索。
 - [macOS Icon Gallery](https://www.macosicongallery.com) - macOS 图标集合。
@@ -60,6 +66,7 @@
 
 - [React Icons](https://react-icons.github.io/react-icons/) - 使用 react-icons 轻松在 React 项目中包含流行图标。
 - [Iconoir](https://iconoir.com) - 1600+ 免费开源的高质量 SVG 图标，支持 SVG、Font、React、React Native、Flutter、Figma 和 Framer。
+- [Streamline](https://www.streamlinehq.com) - 💵 45 万+ 图标、插图和 3D 资源，按一致的风格系列组织，并提供免费入门版。
 
 ## 插图
 
@@ -70,18 +77,25 @@
 - [Unsplash Illustrations](https://unsplash.com/illustrations) - 互联网的视觉来源。由全球创作者提供支持。
 - [Absurd Design](https://absurd.design) - 风格独特的超现实主义手绘插画系列，可免费用于个人和商业项目。
 - [Humaaans](https://www.humaaans.com) - 可自由拼搭、换色的人物插画库，基于 CC0 协议发布。
+- [Public Work](https://public.work) - 公共领域图像搜索引擎，收录来自大都会艺术博物馆、纽约公共图书馆等机构的 10 万+ 图像。
+- [Doodle Ipsum](https://doodleipsum.com) - 插图界的 lorem ipsum —— 通过 URL 直接生成扁平、手绘或头像风格的占位插图。
 - [DrawKit](https://www.drawkit.com) - 💵 手绘 2D 和 3D 插图、图标和动画。完美适用于您的下一个项目。所有资源都在一个地方。
 - [Storyset](https://storyset.com) - 为您的下一个项目提供的免费可定制插图。
 - [Shapefest](https://shapefest.com) - 💵 100K+ 透明 PNG 图像的美丽 3D 对象。
 - [Blush](https://blush.design) - 免费可定制插图，带 Figma 插件。在您的设计中创建、编辑和使用插图。
 - [Open Peeps](https://www.openpeeps.com) - 手绘人物插图库，用于创建人物场景。可用于产品插图、营销、漫画等。
+- [Pixeltrue](https://www.pixeltrue.com/illustrations) - 💵 2500+ 主题化的矢量插图包，其中许多带有动画，并提供少量免费素材包。
 
 ## 模板
 
+- [Vercel Templates](https://vercel.com/templates) - 可一键部署的 Next.js 及其他框架起步模板合集，大多带有精致的营销页和后台界面。
+- [Astro Themes](https://astro.build/themes) - Astro 站点的主题与起步项目 —— 博客、作品集、文档和商店，涵盖免费与付费。
+- [Once UI](https://once-ui.com) - 开源的 React 设计系统，包含 100+ 组件和语义化布局原语，另有可选的 Pro 模板。
 - [Tailwind Plus](https://tailwindcss.com/plus) - 💵 精美设计、专业制作的组件和模板，由 Tailwind CSS 的制作者构建。
 - [Aceternity Template](https://pro.aceternity.com/templates) - 💵 现代和极简的模板，用于构建您的下一个产品。使用 React、NextJS、TailwindCSS、Framer Motion 和 Typescript 构建。
 - [Shuffle](https://shuffle.dev/) - 💵 轻松创建登陆页面、仪表板和电子商务模板。
 - [Preline](https://preline.co) - 💵 一个开源的 Tailwind CSS 组件库，适用于各种需求。提供 UI 示例和区块、模板、插件、Figma 设计系统等。
+- [Cruip](https://cruip.com) - 💵 可直接投入生产的 Tailwind CSS 落地页、网站和仪表盘模板，支持 HTML、React、Next.js 和 Vue。
 
 ## 摄影
 
@@ -95,6 +109,9 @@
 - [Little Visuals](https://littlevisuals.co) - 免费高分辨率图像。可以随意使用 - 免费商用。
 - [UI Faces](https://uifaces.co) - 为您的创意项目提供免费 AI 生成头像。
 - [Nappy](https://nappy.co) - 以黑人和棕色人种为主题的高分辨率精美照片，可免费用于个人和商业项目。
+- [picjumbo](https://picjumbo.com) - 摄影师 Viktor Hanacek 拍摄的免费图库照片，并为更大的项目提供付费合集。
+- [Gratisography](https://gratisography.com) - 免费的高分辨率图库照片，风格古怪超现实、充满幽默感，且无版权限制。
+- [Lummi](https://www.lummi.ai) - 免费的 AI 生成照片、插图和 3D 素材，并内置重新构图与换风格的编辑工具。
 - [Deposit Photos](https://depositphotos.com) - 💵 免费版权库存照片、矢量图像、视频和音乐。
 - [Freepik](https://www.freepik.com) - 💵 数百万免费矢量、PSD 文件、照片和 AI 生成图像。创意项目的优质资源。
 
@@ -104,6 +121,10 @@
 - [Inter](https://rsms.me/inter/) - 一个用于文本界面的可变字体家族。
 - [Fontshare](https://www.fontshare.com) - 来自 Indian Type Foundry 的免费字体服务，提供可用于个人和商业项目的优质字体。
 - [Uncut](https://uncut.wtf) - 精选的当代开源字体库，可免费下载使用。
+- [Fontsource](https://fontsource.org) - 通过版本化的 npm 包、直接下载或可配置的 CDN，自托管 2000+ 开源字体家族。
+- [Velvetyne](https://velvetyne.fr) - 自由字体工作室，发布充满个性的实验性开源字体。
+- [Typewolf](https://www.typewolf.com) - 字体排版灵感站点，包含每日精选网站、策划字体榜单，以及优秀网站所用字体的解析。
+- [Modern Font Stacks](https://modernfontstacks.com) - 按字体分类整理的系统字体栈，无需下载即可让文本瞬间渲染。
 - [Labor and Wait](https://www.laborandwait.xyz) - 💵 购买优质、精选的商品和产品。
 - [I Love Typography](https://fonts.ilovetypography.com) - 💵 购买优质、精选的字体，来自独立字体铸造厂。
 - [T26](https://www.t26.com) - 💵 购买设计精美的字体。
@@ -125,6 +146,9 @@
 - [Happy Hues](https://www.happyhues.co) - 在真实页面场景中展示的精选配色方案，让你直观看到每种颜色的用法。
 - [Huemint](https://huemint.com) - 使用机器学习为品牌、网站和图形生成配色方案。
 - [OKLCH Color Picker](https://oklch.com) - OKLCH 色彩空间的取色器与转换工具，支持对比度检查和 P3 色域预览。
+- [UI Colors](https://uicolors.app) - Tailwind CSS 调色板生成器，可在真实组件上预览色阶，并导出到 Tailwind、shadcn/ui 和 Figma。
+- [Radix Colors](https://www.radix-ui.com/colors) - 可访问的配色系统，包含 30 组色阶，配有对应的亮色、暗色和透明度变体，并围绕 UI 状态设计。
+- [Leonardo](https://leonardocolor.io) - Adobe 开源的配色工具，可根据目标对比度生成可访问的配色系统。
 
 ## 工具
 
@@ -136,6 +160,11 @@
 - [Haikei](https://haikei.app) - 直接在浏览器中生成独特的 SVG 背景、色块、波浪等设计素材。
 - [ray.so](https://ray.so) - 由 Raycast 团队出品，将代码片段转换成可直接分享的精美图片。
 - [tldraw](https://www.tldraw.com) - 用于绘制图表、线框图和创意想法的协作式无限白板。
+- [Excalidraw](https://excalidraw.com) - 开源的虚拟白板，用于绘制手绘风格的示意图和线框图。
+- [Squoosh](https://squoosh.app) - 由 Chrome 团队打造，可在浏览器中直接比较图片编码格式并压缩图片。
+- [Jitter](https://jitter.video) - 浏览器中快速协作的动效设计工具，可导出为视频、GIF 和 Lottie。
+- [Unicorn Studio](https://www.unicorn.studio) - 在浏览器中设计交互式 WebGL 图形、着色器和滚动特效，并嵌入到任意网站。
+- [Type Scale](https://typescale.com) - 在真实文本上预览模块化的字号比例，并导出对应的 CSS。
 - [Rotato](https://rotato.app) - 💵 几分钟内制作 3D 模型图像和视频。
 - [Spline](https://spline.design) - 💵 3D 设计和协作的地方。
 - [Shuffle](https://shuffle.dev/) - 💵 轻松创建登陆页面、仪表板和电子商务模板。
@@ -150,7 +179,10 @@
 
 - [The Book of Shaders](https://thebookofshaders.com) - 这是一本温和的分步指南，带您进入片段着色器的抽象和复杂的宇宙。
 - [Laws of UX](https://lawsofux.com) - 设计师在构建用户界面时可以参考的心理学原则合集。
+- [Practical Typography](https://practicaltypography.com) - Matthew Butterick 的免费在线书籍，讲解日常文档与界面中的字体排版。
+- [Inclusive Components](https://inclusive-components.design) - Heydon Pickering 编写的可访问界面组件模式库，可免费在线阅读。
 - [Refactoring UI](https://www.refactoringui.com) - 💵 让您的想法看起来很棒，而无需依赖设计师。
+- [Every Layout](https://every-layout.dev) - 💵 学习用算法式的布局原语替代媒体查询，构建更有韧性的 CSS 布局。
 
 ## 社区
 
@@ -159,4 +191,9 @@
 - [Sketchfab](https://sketchfab.com) - Sketchfab 是一个 3D 资产网站，用于发布、分享、发现、购买和销售 3D、VR 和 AR 内容。
 - [Pinterest](https://pinterest.com) - 一个视觉搜索和发现平台，人们可以在网上找到灵感、策划想法和购物产品。
 - [Awwwards](https://www.awwwards.com) - 表彰互联网上的设计、创意与创新，并收录最佳网站目录。
+- [Recent](https://recent.design) - 精选互联网上最优秀设计作品的信息流，涵盖网页、品牌、字体、动效和 3D。
+- [Cosmos](https://www.cosmos.so) - 视觉发现平台，创作者可将灵感收集整理成可分享的合集。
+- [Savee](https://savee.com) - 把图片、配色、版式等视觉参考保存并整理成画板，没有算法推荐流的干扰。
+- [Dribbble](https://dribbble.com) - 老牌设计作品展示社区，设计师在这里发布作品并互相结识。
+- [Behance](https://www.behance.net) - Adobe 旗下的作品集网络，可浏览各创意领域的完整项目案例。
 - [Mobbin](https://mobbin.com) - 💵 可搜索的真实移动端和网页应用界面截图库，提供 UI 与 UX 灵感。
