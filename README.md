@@ -40,6 +40,8 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [React Bits](https://reactbits.dev) - Animated React components, backgrounds and text effects you can drop into a project, available in JS/TS and Tailwind/CSS variants.
 - [Base UI](https://base-ui.com) - Unstyled, accessible UI components for building design systems, from the creators of Radix, Floating UI and Material UI.
 - [Park UI](https://park-ui.com) - Beautifully designed components built with Ark UI and Panda CSS that work with React, Solid and Vue.
+- [Motion Primitives](https://motion-primitives.com) - Animated, copy-paste UI components built with React, Tailwind CSS and Motion, crafted for design engineers.
+- [Kibo UI](https://www.kibo-ui.com) - A custom shadcn/ui registry of composable, accessible components, blocks and patterns, from Gantt charts to color pickers.
 
 ## Icons
 
@@ -124,6 +126,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Happy Hues](https://www.happyhues.co) - Curated color palettes shown in context on a real page, so you can see where each color belongs.
 - [Huemint](https://huemint.com) - Machine-learning color palette generator for brands, websites and graphics.
 - [OKLCH Color Picker](https://oklch.com) - Color picker and converter for the OKLCH color space, with contrast checking and P3 gamut preview.
+- [Radix Colors](https://www.radix-ui.com/colors) - A gorgeous, accessible color system for user interfaces, with 12-step scales, P3 support and automatic dark mode.
 
 ## Tools
 
@@ -133,6 +136,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Lottielab](https://www.lottielab.com) - The motion design tool for product teams.
 - [Notion Avatar Maker](https://notion-avatar.app) - Making notion-style avatars.
 - [Haikei](https://haikei.app) - Generate unique SVG backgrounds, blobs, waves and other design assets right in the browser.
+- [MagicPattern](https://magicpattern.design) - 30+ browser-based tools to generate patterns, backgrounds, gradients and mockups without design skills.
 - [ray.so](https://ray.so) - Turn code snippets into beautiful images ready to share, by the makers of Raycast.
 - [tldraw](https://www.tldraw.com) - A collaborative infinite whiteboard for sketching diagrams, wireframes and ideas.
 - [Rotato](https://rotato.app) - 💵 3D mockup images and movies in minutes.

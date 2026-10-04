@@ -40,6 +40,8 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [React Bits](https://reactbits.dev) - Animierte React-Komponenten, Hintergründe und Texteffekte zum direkten Einbinden, verfügbar in JS/TS- und Tailwind/CSS-Varianten.
 - [Base UI](https://base-ui.com) - Ungestylte, barrierefreie UI-Komponenten für Design-Systeme, von den Machern von Radix, Floating UI und Material UI.
 - [Park UI](https://park-ui.com) - Schön gestaltete Komponenten auf Basis von Ark UI und Panda CSS, nutzbar mit React, Solid und Vue.
+- [Motion Primitives](https://motion-primitives.com) - Animierte Copy-and-paste-UI-Komponenten mit React, Tailwind CSS und Motion, gemacht für Design Engineers.
+- [Kibo UI](https://www.kibo-ui.com) - Eine eigene shadcn/ui-Registry mit kombinierbaren, barrierefreien Komponenten, Blöcken und Mustern, von Gantt-Diagrammen bis zu Farbwählern.
 
 ## Icons
 
@@ -124,6 +126,7 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Happy Hues](https://www.happyhues.co) - Kuratierte Farbpaletten im Kontext einer echten Seite, damit sichtbar wird, wo jede Farbe hingehört.
 - [Huemint](https://huemint.com) - Farbpaletten-Generator auf Basis von maschinellem Lernen für Marken, Websites und Grafiken.
 - [OKLCH Color Picker](https://oklch.com) - Farbwähler und Konverter für den OKLCH-Farbraum, mit Kontrastprüfung und P3-Gamut-Vorschau.
+- [Radix Colors](https://www.radix-ui.com/colors) - Ein wunderschönes, barrierefreies Farbsystem für Benutzeroberflächen mit 12-stufigen Skalen, P3-Unterstützung und automatischem Dark Mode.
 
 ## Werkzeuge
 
@@ -133,6 +136,7 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Lottielab](https://www.lottielab.com) - Das Motion-Design-Tool für Produktteams.
 - [Notion Avatar Maker](https://notion-avatar.app) - Erstellen von Notion-Style-Avataren.
 - [Haikei](https://haikei.app) - Erzeuge einzigartige SVG-Hintergründe, Blobs, Wellen und weitere Design-Assets direkt im Browser.
+- [MagicPattern](https://magicpattern.design) - Über 30 browserbasierte Tools zum Erzeugen von Mustern, Hintergründen, Verläufen und Mockups ohne Designkenntnisse.
 - [ray.so](https://ray.so) - Verwandelt Code-Snippets in schöne, teilbare Bilder – von den Machern von Raycast.
 - [tldraw](https://www.tldraw.com) - Ein kollaboratives, unendliches Whiteboard zum Skizzieren von Diagrammen, Wireframes und Ideen.
 - [Rotato](https://rotato.app) - 💵 3D-Mockup-Bilder und Filme in Minuten.

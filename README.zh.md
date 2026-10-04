@@ -40,6 +40,8 @@
 - [React Bits](https://reactbits.dev) - 可直接放进项目的 React 动效组件、背景与文字特效，提供 JS/TS 与 Tailwind/CSS 多种版本。
 - [Base UI](https://base-ui.com) - 由 Radix、Floating UI 和 Material UI 团队打造的无样式、可访问 UI 组件，适合构建设计系统。
 - [Park UI](https://park-ui.com) - 基于 Ark UI 和 Panda CSS 构建的精美组件，支持 React、Solid 和 Vue。
+- [Motion Primitives](https://motion-primitives.com) - 可复制粘贴的动效 UI 组件，基于 React、Tailwind CSS 和 Motion 构建，为设计工程师打造。
+- [Kibo UI](https://www.kibo-ui.com) - 面向 shadcn/ui 的自定义组件注册表，提供可组合、可访问的组件、区块和模式，从甘特图到取色器应有尽有。
 
 ## 图标
 
@@ -125,6 +127,7 @@
 - [Happy Hues](https://www.happyhues.co) - 在真实页面场景中展示的精选配色方案，让你直观看到每种颜色的用法。
 - [Huemint](https://huemint.com) - 使用机器学习为品牌、网站和图形生成配色方案。
 - [OKLCH Color Picker](https://oklch.com) - OKLCH 色彩空间的取色器与转换工具，支持对比度检查和 P3 色域预览。
+- [Radix Colors](https://www.radix-ui.com/colors) - 精美且无障碍的界面配色系统，提供 12 级色阶、P3 色域支持和自动深色模式。
 
 ## 工具
 
@@ -134,6 +137,7 @@
 - [Lottielab](https://www.lottielab.com) - 产品团队的动态设计工具。
 - [Notion Avatar Maker](https://notion-avatar.app) - 制作 notion 风格头像。
 - [Haikei](https://haikei.app) - 直接在浏览器中生成独特的 SVG 背景、色块、波浪等设计素材。
+- [MagicPattern](https://magicpattern.design) - 30+ 款浏览器端工具，无需设计经验即可生成图案、背景、渐变和样机。
 - [ray.so](https://ray.so) - 由 Raycast 团队出品，将代码片段转换成可直接分享的精美图片。
 - [tldraw](https://www.tldraw.com) - 用于绘制图表、线框图和创意想法的协作式无限白板。
 - [Rotato](https://rotato.app) - 💵 几分钟内制作 3D 模型图像和视频。

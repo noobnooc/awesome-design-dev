@@ -40,6 +40,8 @@ También disponible en: [English](README.md) | [中文](README.zh.md) | [França
 - [React Bits](https://reactbits.dev) - Componentes animados de React, fondos y efectos de texto listos para usar, disponibles en variantes JS/TS y Tailwind/CSS.
 - [Base UI](https://base-ui.com) - Componentes UI sin estilos y accesibles para crear sistemas de diseño, de los creadores de Radix, Floating UI y Material UI.
 - [Park UI](https://park-ui.com) - Componentes bellamente diseñados construidos con Ark UI y Panda CSS que funcionan con React, Solid y Vue.
+- [Motion Primitives](https://motion-primitives.com) - Componentes UI animados para copiar y pegar, creados con React, Tailwind CSS y Motion para ingenieros de diseño.
+- [Kibo UI](https://www.kibo-ui.com) - Un registro personalizado de shadcn/ui con componentes, bloques y patrones componibles y accesibles, desde diagramas de Gantt hasta selectores de color.
 
 ## Iconos
 
@@ -124,6 +126,7 @@ También disponible en: [English](README.md) | [中文](README.zh.md) | [França
 - [Happy Hues](https://www.happyhues.co) - Paletas de colores curadas mostradas en contexto sobre una página real, para ver dónde va cada color.
 - [Huemint](https://huemint.com) - Generador de paletas de color con aprendizaje automático para marcas, sitios web y gráficos.
 - [OKLCH Color Picker](https://oklch.com) - Selector y conversor de color para el espacio OKLCH, con verificación de contraste y vista previa de gama P3.
+- [Radix Colors](https://www.radix-ui.com/colors) - Un sistema de color precioso y accesible para interfaces, con escalas de 12 pasos, soporte P3 y modo oscuro automático.
 
 ## Herramientas
 
@@ -133,6 +136,7 @@ También disponible en: [English](README.md) | [中文](README.zh.md) | [França
 - [Lottielab](https://www.lottielab.com) - La herramienta de diseño de movimiento para equipos de producto.
 - [Notion Avatar Maker](https://notion-avatar.app) - Creando avatares estilo Notion.
 - [Haikei](https://haikei.app) - Genera fondos SVG únicos, blobs, ondas y otros recursos de diseño directamente en el navegador.
+- [MagicPattern](https://magicpattern.design) - Más de 30 herramientas en el navegador para generar patrones, fondos, degradados y mockups sin conocimientos de diseño.
 - [ray.so](https://ray.so) - Convierte fragmentos de código en imágenes bonitas listas para compartir, de los creadores de Raycast.
 - [tldraw](https://www.tldraw.com) - Una pizarra infinita colaborativa para bocetar diagramas, wireframes e ideas.
 - [Rotato](https://rotato.app) - 💵 Imágenes mockup 3D y películas en minutos.
