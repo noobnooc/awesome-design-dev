@@ -40,6 +40,8 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [React Bits](https://reactbits.dev) - Composants React animés, arrière-plans et effets de texte prêts à l'emploi, disponibles en variantes JS/TS et Tailwind/CSS.
 - [Base UI](https://base-ui.com) - Composants UI sans styles et accessibles pour créer des design systems, par les créateurs de Radix, Floating UI et Material UI.
 - [Park UI](https://park-ui.com) - Composants magnifiquement conçus, construits avec Ark UI et Panda CSS, compatibles avec React, Solid et Vue.
+- [Motion Primitives](https://motion-primitives.com) - Composants UI animés à copier-coller, construits avec React, Tailwind CSS et Motion, conçus pour les design engineers.
+- [Kibo UI](https://www.kibo-ui.com) - Un registre shadcn/ui personnalisé de composants, blocs et motifs composables et accessibles, des diagrammes de Gantt aux sélecteurs de couleur.
 
 ## Icônes
 
@@ -124,6 +126,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [Happy Hues](https://www.happyhues.co) - Palettes de couleurs sélectionnées et présentées en contexte sur une vraie page, pour voir où va chaque couleur.
 - [Huemint](https://huemint.com) - Générateur de palettes de couleurs par apprentissage automatique pour marques, sites web et graphiques.
 - [OKLCH Color Picker](https://oklch.com) - Sélecteur et convertisseur de couleurs pour l'espace OKLCH, avec vérification du contraste et aperçu du gamut P3.
+- [Radix Colors](https://www.radix-ui.com/colors) - Un magnifique système de couleurs accessible pour les interfaces, avec des échelles à 12 niveaux, la prise en charge de P3 et le mode sombre automatique.
 
 ## Outils
 
@@ -133,6 +136,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [Lottielab](https://www.lottielab.com) - L'outil de design de mouvement pour équipes produit.
 - [Notion Avatar Maker](https://notion-avatar.app) - Création d'avatars style Notion.
 - [Haikei](https://haikei.app) - Générez des arrière-plans SVG uniques, blobs, vagues et autres ressources de design directement dans le navigateur.
+- [MagicPattern](https://magicpattern.design) - Plus de 30 outils dans le navigateur pour générer des motifs, arrière-plans, dégradés et maquettes sans compétences en design.
 - [ray.so](https://ray.so) - Transformez des extraits de code en belles images prêtes à partager, par les créateurs de Raycast.
 - [tldraw](https://www.tldraw.com) - Un tableau blanc infini et collaboratif pour esquisser diagrammes, wireframes et idées.
 - [Rotato](https://rotato.app) - 💵 Images de maquette 3D et films en minutes.

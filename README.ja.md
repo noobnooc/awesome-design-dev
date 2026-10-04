@@ -40,6 +40,8 @@
 - [React Bits](https://reactbits.dev) - プロジェクトにそのまま組み込めるアニメーション付き React コンポーネント、背景、テキストエフェクト。JS/TS と Tailwind/CSS の各バリアントを提供。
 - [Base UI](https://base-ui.com) - Radix、Floating UI、Material UI の開発チームによる、デザインシステム構築向けのアンスタイルでアクセシブルな UI コンポーネント。
 - [Park UI](https://park-ui.com) - Ark UI と Panda CSS で構築された美しいコンポーネント。React、Solid、Vue で利用可能。
+- [Motion Primitives](https://motion-primitives.com) - コピー＆ペーストで使えるアニメーション UI コンポーネント。React、Tailwind CSS、Motion で構築され、デザインエンジニア向けに作られています。
+- [Kibo UI](https://www.kibo-ui.com) - shadcn/ui 向けのカスタムレジストリ。ガントチャートからカラーピッカーまで、組み合わせ可能でアクセシブルなコンポーネント、ブロック、パターンを提供。
 
 ## アイコン
 
@@ -124,6 +126,7 @@
 - [Happy Hues](https://www.happyhues.co) - 実際のページ上で文脈とともに見せてくれる厳選カラーパレット。それぞれの色の使いどころが一目でわかる。
 - [Huemint](https://huemint.com) - ブランド、ウェブサイト、グラフィック向けに機械学習でカラーパレットを生成。
 - [OKLCH Color Picker](https://oklch.com) - OKLCH 色空間のカラーピッカー兼コンバーター。コントラストチェックと P3 色域プレビューに対応。
+- [Radix Colors](https://www.radix-ui.com/colors) - インターフェース向けの美しくアクセシブルなカラーシステム。12 段階のスケール、P3 対応、自動ダークモードを備える。
 
 ## ツール
 
@@ -133,6 +136,7 @@
 - [Lottielab](https://www.lottielab.com) - プロダクトチーム用のモーションデザインツール。
 - [Notion Avatar Maker](https://notion-avatar.app) - Notion 風アバターの作成。
 - [Haikei](https://haikei.app) - ブラウザ上でユニークな SVG の背景、ブロブ、波などのデザインアセットを生成。
+- [MagicPattern](https://magicpattern.design) - デザインの知識がなくてもパターン、背景、グラデーション、モックアップを生成できる 30 以上のブラウザツール。
 - [ray.so](https://ray.so) - コードスニペットを共有しやすい美しい画像に変換。Raycast チームによるツール。
 - [tldraw](https://www.tldraw.com) - 図やワイヤーフレーム、アイデアをスケッチできる、共同編集対応の無限ホワイトボード。
 - [Rotato](https://rotato.app) - 💵 数分で 3D モックアップ画像と動画。
