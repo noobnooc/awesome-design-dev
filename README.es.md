@@ -140,6 +140,7 @@ También disponible en: [English](README.md) | [中文](README.zh.md) | [França
 - [Shuffle](https://shuffle.dev/) - 💵 Crea fácilmente páginas de aterrizaje, dashboards y plantillas de e-commerce.
 - [Framer](https://www.framer.com) - 💵 El constructor de sitios web amado por diseñadores.
 - [Figma](https://www.figma.com) - 💵 Una herramienta de diseño de interfaces colaborativa.
+- [IconVectors](https://iconvectors.io/) - 💵 Editor de iconos SVG de escritorio para Windows, macOS y Linux, con exportación de SVG y código para desarrolladores.
 - [Sketch](https://www.sketch.com) - 💵 Un kit de herramientas hecho por diseñadores, para diseñadores, que pone el foco en ti y tu trabajo.
 - [Canva](https://www.canva.com) - 💵 Crea diseños impresionantes fácilmente con la función de arrastrar y soltar de Canva y diseños profesionales.
 - [InVision](https://www.invisionapp.com) - 💵 Plataforma de diseño de productos digitales que impulsa las mejores experiencias de usuario del mundo.

@@ -140,6 +140,7 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Shuffle](https://shuffle.dev/) - 💵 Erstellen Sie einfach Landingpages, Dashboards und E-Commerce-Vorlagen.
 - [Framer](https://www.framer.com) - 💵 Der von Designern geliebte Website-Builder.
 - [Figma](https://www.figma.com) - 💵 Ein kollaboratives Interface-Design-Tool.
+- [IconVectors](https://iconvectors.io/) - 💵 Desktop-Editor für SVG-Symbole unter Windows, macOS und Linux, mit SVG- und Code-Export für Entwickler.
 - [Sketch](https://www.sketch.com) - 💵 Ein Toolkit von Designern für Designer, das den Fokus auf Sie und Ihre Arbeit legt.
 - [Canva](https://www.canva.com) - 💵 Erstellen Sie mühelos atemberaubende Designs mit Canvas Drag & Drop-Funktion und professionellen Layouts.
 - [InVision](https://www.invisionapp.com) - 💵 Digitale Produktdesign-Plattform für die weltbesten Benutzererfahrungen.

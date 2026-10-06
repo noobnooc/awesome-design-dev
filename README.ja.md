@@ -140,6 +140,7 @@
 - [Shuffle](https://shuffle.dev/) - 💵 ランディングページ、ダッシュボード、e コマーステンプレートを簡単に作成。
 - [Framer](https://www.framer.com) - 💵 デザイナーに愛されるウェブサイトビルダー。
 - [Figma](https://www.figma.com) - 💵 協同インターフェースデザインツール。
+- [IconVectors](https://iconvectors.io/) - 💵 Windows、macOS、Linux 対応のデスクトップ SVG アイコンエディター。SVG と開発者向けコードをエクスポートできます。
 - [Sketch](https://www.sketch.com) - 💵 デザイナーによる、デザイナーのためのツールキット。あなたとあなたの仕事にフォーカス。
 - [Canva](https://www.canva.com) - 💵 Canva のドラッグ＆ドロップ機能とプロフェッショナルレイアウトで素晴らしいデザインを簡単に作成。
 - [InVision](https://www.invisionapp.com) - 💵 世界最高のユーザー体験を推進するデジタル製品デザインプラットフォーム。
