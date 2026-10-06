@@ -141,6 +141,7 @@
 - [Shuffle](https://shuffle.dev/) - 💵 轻松创建登陆页面、仪表板和电子商务模板。
 - [Framer](https://www.framer.com) - 💵 设计师喜爱的网站构建器。
 - [Figma](https://www.figma.com) - 💵 协作界面设计工具。
+- [IconVectors](https://iconvectors.io/) - 💵 适用于 Windows、macOS 和 Linux 的桌面 SVG 图标编辑器，支持导出 SVG 和开发代码。
 - [Sketch](https://www.sketch.com) - 💵 由设计师为设计师制作的工具包，专注于您和您的工作。
 - [Canva](https://www.canva.com) - 💵 使用 Canva 的拖放功能和专业布局轻松创建令人惊叹的设计。
 - [InVision](https://www.invisionapp.com) - 💵 为世界最佳用户体验提供支持的数字产品设计平台。
