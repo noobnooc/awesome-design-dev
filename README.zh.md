@@ -128,6 +128,7 @@
 
 ## 工具
 
+- [PicCollages](https://piccollages.com) - 免费的浏览器照片拼图工具，支持网格布局、长图拼接、文字贴纸及 PNG/JPG 导出。
 - [Penpot](https://penpot.app) - Penpot 是基于 Web 的开源设计工具，连接设计师和开发人员之间的差距。
 - [Shots](https://shots.so) - 在几秒钟内创建惊人的模型。
 - [Rive](https://rive.app) - 设计、构建和发布用户界面的新方法

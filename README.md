@@ -127,6 +127,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 
 ## Tools
 
+- [PicCollages](https://piccollages.com) - Free browser-based photo collage maker with grid layouts, image stitching, text, stickers, and PNG/JPG export.
 - [Penpot](https://penpot.app) - Penpot is the web-based open-source design tool that bridges the gap between designers and developers.
 - [Shots](https://shots.so) - Create amazing mockups in seconds.
 - [Rive](https://rive.app) - A new way to design, build, and ship user interfaces
