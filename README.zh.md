@@ -128,6 +128,7 @@
 
 ## 工具
 
+- [aigeneratornsfw.com](https://aigeneratornsfw.com/) - 💵 面向18岁及以上用户的非露骨AI图像、参考图编辑与短视频工作室。注册账号每日获10点图像积分；视频需付费会员与积分，能力及内容限制因模型而异。
 - [Penpot](https://penpot.app) - Penpot 是基于 Web 的开源设计工具，连接设计师和开发人员之间的差距。
 - [Shots](https://shots.so) - 在几秒钟内创建惊人的模型。
 - [Rive](https://rive.app) - 设计、构建和发布用户界面的新方法

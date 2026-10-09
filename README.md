@@ -127,6 +127,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 
 ## Tools
 
+- [aigeneratornsfw.com](https://aigeneratornsfw.com/) - 💵 An 18+ AI studio for non-explicit image generation, reference editing and short video. Registered accounts get 10 daily image credits; video requires paid membership and credits. Model capabilities and content restrictions apply.
 - [Penpot](https://penpot.app) - Penpot is the web-based open-source design tool that bridges the gap between designers and developers.
 - [Shots](https://shots.so) - Create amazing mockups in seconds.
 - [Rive](https://rive.app) - A new way to design, build, and ship user interfaces
