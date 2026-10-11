@@ -131,6 +131,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [Shots](https://shots.so) - Créez des maquettes fantastiques en secondes.
 - [Rive](https://rive.app) - Une nouvelle façon de concevoir, construire et expédier des interfaces utilisateur.
 - [Lottielab](https://www.lottielab.com) - L'outil de design de mouvement pour équipes produit.
+- [EasyLottie](https://www.easylottie.com) - Outils gratuits dans le navigateur pour prévisualiser, recolorer, compresser et convertir des animations Lottie, sans envoi de fichiers ni inscription.
 - [Notion Avatar Maker](https://notion-avatar.app) - Création d'avatars style Notion.
 - [Haikei](https://haikei.app) - Générez des arrière-plans SVG uniques, blobs, vagues et autres ressources de design directement dans le navigateur.
 - [ray.so](https://ray.so) - Transformez des extraits de code en belles images prêtes à partager, par les créateurs de Raycast.

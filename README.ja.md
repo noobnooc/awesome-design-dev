@@ -131,6 +131,7 @@
 - [Shots](https://shots.so) - 数秒で素晴らしいモックアップを作成。
 - [Rive](https://rive.app) - ユーザーインターフェースをデザイン、構築、配信する新しい方法。
 - [Lottielab](https://www.lottielab.com) - プロダクトチーム用のモーションデザインツール。
+- [EasyLottie](https://www.easylottie.com) - Lottie アニメーションのプレビュー、色変更、圧縮、変換ができる無料のブラウザツール。アップロードや登録は不要。
 - [Notion Avatar Maker](https://notion-avatar.app) - Notion 風アバターの作成。
 - [Haikei](https://haikei.app) - ブラウザ上でユニークな SVG の背景、ブロブ、波などのデザインアセットを生成。
 - [ray.so](https://ray.so) - コードスニペットを共有しやすい美しい画像に変換。Raycast チームによるツール。

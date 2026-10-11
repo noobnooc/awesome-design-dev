@@ -131,6 +131,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Shots](https://shots.so) - Create amazing mockups in seconds.
 - [Rive](https://rive.app) - A new way to design, build, and ship user interfaces
 - [Lottielab](https://www.lottielab.com) - The motion design tool for product teams.
+- [EasyLottie](https://www.easylottie.com) - Free browser tools to preview, recolor, compress and convert Lottie animations, with no upload or sign-up.
 - [Notion Avatar Maker](https://notion-avatar.app) - Making notion-style avatars.
 - [Haikei](https://haikei.app) - Generate unique SVG backgrounds, blobs, waves and other design assets right in the browser.
 - [ray.so](https://ray.so) - Turn code snippets into beautiful images ready to share, by the makers of Raycast.
