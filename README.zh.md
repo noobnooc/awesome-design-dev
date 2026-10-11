@@ -132,6 +132,7 @@
 - [Shots](https://shots.so) - 在几秒钟内创建惊人的模型。
 - [Rive](https://rive.app) - 设计、构建和发布用户界面的新方法
 - [Lottielab](https://www.lottielab.com) - 产品团队的动态设计工具。
+- [EasyLottie](https://www.easylottie.com) - 免费的浏览器端 Lottie 工具：预览、改色、压缩和格式转换，无需上传和注册。
 - [Notion Avatar Maker](https://notion-avatar.app) - 制作 notion 风格头像。
 - [Haikei](https://haikei.app) - 直接在浏览器中生成独特的 SVG 背景、色块、波浪等设计素材。
 - [ray.so](https://ray.so) - 由 Raycast 团队出品，将代码片段转换成可直接分享的精美图片。
