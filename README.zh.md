@@ -40,6 +40,8 @@
 - [React Bits](https://reactbits.dev) - 可直接放进项目的 React 动效组件、背景与文字特效，提供 JS/TS 与 Tailwind/CSS 多种版本。
 - [Base UI](https://base-ui.com) - 由 Radix、Floating UI 和 Material UI 团队打造的无样式、可访问 UI 组件，适合构建设计系统。
 - [Park UI](https://park-ui.com) - 基于 Ark UI 和 Panda CSS 构建的精美组件，支持 React、Solid 和 Vue。
+- [Motion Primitives](https://motion-primitives.com) - 基于 React、Tailwind CSS 和 Motion 构建的可复制粘贴的动画组件与动效基础组件。
+- [Kibo UI](https://www.kibo-ui.com) - 开源、可组合且无障碍的组件、区块与模式，以 shadcn/ui 自定义注册表的形式提供。
 
 ## 图标
 
@@ -60,6 +62,7 @@
 
 - [React Icons](https://react-icons.github.io/react-icons/) - 使用 react-icons 轻松在 React 项目中包含流行图标。
 - [Iconoir](https://iconoir.com) - 1600+ 免费开源的高质量 SVG 图标，支持 SVG、Font、React、React Native、Flutter、Figma 和 Framer。
+- [Iconify](https://iconify.design) - 所有主流图标集，一个框架：30 万+ 开源矢量图标，提供图标搜索和统一 API。
 
 ## 插图
 

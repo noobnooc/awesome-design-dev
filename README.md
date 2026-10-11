@@ -40,6 +40,8 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [React Bits](https://reactbits.dev) - Animated React components, backgrounds and text effects you can drop into a project, available in JS/TS and Tailwind/CSS variants.
 - [Base UI](https://base-ui.com) - Unstyled, accessible UI components for building design systems, from the creators of Radix, Floating UI and Material UI.
 - [Park UI](https://park-ui.com) - Beautifully designed components built with Ark UI and Panda CSS that work with React, Solid and Vue.
+- [Motion Primitives](https://motion-primitives.com) - Animated, copy-and-paste components and motion primitives built with React, Tailwind CSS and Motion.
+- [Kibo UI](https://www.kibo-ui.com) - Open-source composable, accessible components, blocks and patterns, delivered as a custom registry for shadcn/ui.
 
 ## Icons
 
@@ -59,6 +61,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [SVGL](https://svgl.app) - A library of brand SVG logos and wordmarks, ready to copy, download or pull into your framework.
 - [Nucleoapp](https://nucleoapp.com) - 💵 44k+ premium-quality SVG icons, regularly updated for UIs, presentations, and print projects.
 - [Iconoir](https://iconoir.com) - 1,600+ free, open-source, high-quality SVG icons available for SVG, Font, React, React Native, Flutter, Figma, and Framer.
+- [Iconify](https://iconify.design) - All popular icon sets, one framework: 300,000+ open-source vector icons with an icon search and unified API.
 
 ## Illustrations
 
