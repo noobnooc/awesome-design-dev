@@ -40,6 +40,8 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [React Bits](https://reactbits.dev) - Composants React animés, arrière-plans et effets de texte prêts à l'emploi, disponibles en variantes JS/TS et Tailwind/CSS.
 - [Base UI](https://base-ui.com) - Composants UI sans styles et accessibles pour créer des design systems, par les créateurs de Radix, Floating UI et Material UI.
 - [Park UI](https://park-ui.com) - Composants magnifiquement conçus, construits avec Ark UI et Panda CSS, compatibles avec React, Solid et Vue.
+- [Motion Primitives](https://motion-primitives.com) - Composants animés à copier-coller et primitives de mouvement construits avec React, Tailwind CSS et Motion.
+- [Kibo UI](https://www.kibo-ui.com) - Composants, blocs et patterns open source, composables et accessibles, distribués comme registre personnalisé pour shadcn/ui.
 
 ## Icônes
 
@@ -59,6 +61,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [SVGL](https://svgl.app) - Une bibliothèque de logos SVG de marques, prêts à copier, télécharger ou intégrer dans votre framework.
 - [Nucleoapp](https://nucleoapp.com) - 💵 Plus de 44k icônes SVG de qualité premium, régulièrement mises à jour pour UI, présentations et projets d'impression.
 - [Iconoir](https://iconoir.com) - Plus de 1600 icônes SVG gratuites et open source, disponibles en SVG, Font, React, React Native, Flutter, Figma et Framer.
+- [Iconify](https://iconify.design) - Tous les jeux d'icônes populaires, un seul framework : plus de 300 000 icônes vectorielles open source avec recherche et API unifiée.
 
 ## Illustrations
 

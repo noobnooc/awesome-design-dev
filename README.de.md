@@ -40,6 +40,8 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [React Bits](https://reactbits.dev) - Animierte React-Komponenten, Hintergründe und Texteffekte zum direkten Einbinden, verfügbar in JS/TS- und Tailwind/CSS-Varianten.
 - [Base UI](https://base-ui.com) - Ungestylte, barrierefreie UI-Komponenten für Design-Systeme, von den Machern von Radix, Floating UI und Material UI.
 - [Park UI](https://park-ui.com) - Schön gestaltete Komponenten auf Basis von Ark UI und Panda CSS, nutzbar mit React, Solid und Vue.
+- [Motion Primitives](https://motion-primitives.com) - Animierte Copy-and-paste-Komponenten und Motion-Primitives, gebaut mit React, Tailwind CSS und Motion.
+- [Kibo UI](https://www.kibo-ui.com) - Quelloffene, komponierbare und barrierefreie Komponenten, Blöcke und Patterns als eigene Registry für shadcn/ui.
 
 ## Icons
 
@@ -59,6 +61,7 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [SVGL](https://svgl.app) - Eine Bibliothek mit Marken-Logos als SVG, bereit zum Kopieren, Herunterladen oder Einbinden ins Framework.
 - [Nucleoapp](https://nucleoapp.com) - 💵 Über 44k Premium-Qualität SVG-Icons, regelmäßig für UIs, Präsentationen und Druckprojekte aktualisiert.
 - [Iconoir](https://iconoir.com) - Über 1600 kostenlose, quelloffene SVG-Icons für SVG, Font, React, React Native, Flutter, Figma und Framer.
+- [Iconify](https://iconify.design) - Alle gängigen Icon-Sets, ein Framework: über 300.000 quelloffene Vektor-Icons mit Suche und einheitlicher API.
 
 ## Illustrationen
 

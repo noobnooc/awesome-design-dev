@@ -40,6 +40,8 @@
 - [React Bits](https://reactbits.dev) - プロジェクトにそのまま組み込めるアニメーション付き React コンポーネント、背景、テキストエフェクト。JS/TS と Tailwind/CSS の各バリアントを提供。
 - [Base UI](https://base-ui.com) - Radix、Floating UI、Material UI の開発チームによる、デザインシステム構築向けのアンスタイルでアクセシブルな UI コンポーネント。
 - [Park UI](https://park-ui.com) - Ark UI と Panda CSS で構築された美しいコンポーネント。React、Solid、Vue で利用可能。
+- [Motion Primitives](https://motion-primitives.com) - React、Tailwind CSS、Motion で作られた、コピー＆ペーストできるアニメーションコンポーネントとモーションプリミティブ。
+- [Kibo UI](https://www.kibo-ui.com) - shadcn/ui 向けのカスタムレジストリとして提供される、オープンソースで組み合わせ可能かつアクセシブルなコンポーネント、ブロック、パターン。
 
 ## アイコン
 
@@ -59,6 +61,7 @@
 - [SVGL](https://svgl.app) - ブランドの SVG ロゴとワードマークのライブラリ。コピー、ダウンロード、フレームワークへの取り込みに対応。
 - [Nucleoapp](https://nucleoapp.com) - 💵 UI、プレゼンテーション、印刷プロジェクト用に定期的に更新される 44k+のプレミアム品質 SVG アイコン。
 - [Iconoir](https://iconoir.com) - 1600以上の無料オープンソース SVG アイコン。SVG、Font、React、React Native、Flutter、Figma、Framer に対応。
+- [Iconify](https://iconify.design) - 主要なアイコンセットを一つのフレームワークで：30万以上のオープンソースベクターアイコン、検索と統一 API を提供。
 
 ## イラスト
 
