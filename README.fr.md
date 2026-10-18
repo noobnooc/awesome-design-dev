@@ -40,6 +40,9 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [React Bits](https://reactbits.dev) - Composants React animés, arrière-plans et effets de texte prêts à l'emploi, disponibles en variantes JS/TS et Tailwind/CSS.
 - [Base UI](https://base-ui.com) - Composants UI sans styles et accessibles pour créer des design systems, par les créateurs de Radix, Floating UI et Material UI.
 - [Park UI](https://park-ui.com) - Composants magnifiquement conçus, construits avec Ark UI et Panda CSS, compatibles avec React, Solid et Vue.
+- [Motion Primitives](https://motion-primitives.com) - Kit UI open source de composants animés personnalisables, à copier-coller pour créer de belles interfaces animées.
+- [Kibo UI](https://www.kibo-ui.com) - Bibliothèque gratuite et open source de composants avancés, blocs et patterns basée sur shadcn/ui.
+- [mapcn](https://www.mapcn.dev) - Composants de cartes gratuits et open source pour React, basés sur MapLibre, stylés avec Tailwind et installés via la CLI shadcn.
 
 ## Icônes
 
@@ -59,6 +62,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [SVGL](https://svgl.app) - Une bibliothèque de logos SVG de marques, prêts à copier, télécharger ou intégrer dans votre framework.
 - [Nucleoapp](https://nucleoapp.com) - 💵 Plus de 44k icônes SVG de qualité premium, régulièrement mises à jour pour UI, présentations et projets d'impression.
 - [Iconoir](https://iconoir.com) - Plus de 1600 icônes SVG gratuites et open source, disponibles en SVG, Font, React, React Native, Flutter, Figma et Framer.
+- [Iconify](https://iconify.design) - Tous les jeux d'icônes populaires dans un seul framework : plus de 300 000 icônes vectorielles open source derrière une API unique.
 
 ## Illustrations
 
@@ -103,6 +107,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [Inter](https://rsms.me/inter/) - Une famille de polices variable pour interfaces texte.
 - [Fontshare](https://www.fontshare.com) - Un service de polices gratuit de l'Indian Type Foundry, avec des typographies de qualité sous licence personnelle et commerciale.
 - [Uncut](https://uncut.wtf) - Une bibliothèque sélectionnée de typographies contemporaines open source, libres de téléchargement et d'utilisation.
+- [Fontsource](https://www.fontsource.org) - Auto-hébergez des polices open source dans des modules npm bien packagés, avec tout le catalogue Google Fonts et plus.
 - [Labor and Wait](https://www.laborandwait.xyz) - 💵 Achetez des produits et biens de qualité, sélectionnés.
 - [I Love Typography](https://fonts.ilovetypography.com) - 💵 Achetez des polices de qualité, sélectionnées de fonderies de polices indépendantes.
 - [T26](https://www.t26.com) - 💵 Achetez des polices bien conçues.
@@ -133,6 +138,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [Lottielab](https://www.lottielab.com) - L'outil de design de mouvement pour équipes produit.
 - [Notion Avatar Maker](https://notion-avatar.app) - Création d'avatars style Notion.
 - [Haikei](https://haikei.app) - Générez des arrière-plans SVG uniques, blobs, vagues et autres ressources de design directement dans le navigateur.
+- [fffuel](https://www.fffuel.co) - Une collection d'outils de couleur et de générateurs SVG gratuits pour dégradés, motifs, textures, formes et arrière-plans.
 - [ray.so](https://ray.so) - Transformez des extraits de code en belles images prêtes à partager, par les créateurs de Raycast.
 - [tldraw](https://www.tldraw.com) - Un tableau blanc infini et collaboratif pour esquisser diagrammes, wireframes et idées.
 - [Rotato](https://rotato.app) - 💵 Images de maquette 3D et films en minutes.

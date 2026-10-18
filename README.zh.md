@@ -40,6 +40,9 @@
 - [React Bits](https://reactbits.dev) - 可直接放进项目的 React 动效组件、背景与文字特效，提供 JS/TS 与 Tailwind/CSS 多种版本。
 - [Base UI](https://base-ui.com) - 由 Radix、Floating UI 和 Material UI 团队打造的无样式、可访问 UI 组件，适合构建设计系统。
 - [Park UI](https://park-ui.com) - 基于 Ark UI 和 Panda CSS 构建的精美组件，支持 React、Solid 和 Vue。
+- [Motion Primitives](https://motion-primitives.com) - 开源的复制即用动画组件套件，可自定义，帮助快速构建精美的动态界面。
+- [Kibo UI](https://www.kibo-ui.com) - 基于 shadcn/ui 的免费开源高级组件、区块与模式库。
+- [mapcn](https://www.mapcn.dev) - 免费开源的 React 地图组件，基于 MapLibre，使用 Tailwind 样式，并通过 shadcn CLI 安装。
 
 ## 图标
 
@@ -60,6 +63,7 @@
 
 - [React Icons](https://react-icons.github.io/react-icons/) - 使用 react-icons 轻松在 React 项目中包含流行图标。
 - [Iconoir](https://iconoir.com) - 1600+ 免费开源的高质量 SVG 图标，支持 SVG、Font、React、React Native、Flutter、Figma 和 Framer。
+- [Iconify](https://iconify.design) - 所有主流图标集，统一框架：30 万+ 开源矢量图标，提供统一的 API 与工具。
 
 ## 插图
 
@@ -104,6 +108,7 @@
 - [Inter](https://rsms.me/inter/) - 一个用于文本界面的可变字体家族。
 - [Fontshare](https://www.fontshare.com) - 来自 Indian Type Foundry 的免费字体服务，提供可用于个人和商业项目的优质字体。
 - [Uncut](https://uncut.wtf) - 精选的当代开源字体库，可免费下载使用。
+- [Fontsource](https://www.fontsource.org) - 将开源字体打包为 npm 模块以便自托管，涵盖完整的 Google Fonts 字库等。
 - [Labor and Wait](https://www.laborandwait.xyz) - 💵 购买优质、精选的商品和产品。
 - [I Love Typography](https://fonts.ilovetypography.com) - 💵 购买优质、精选的字体，来自独立字体铸造厂。
 - [T26](https://www.t26.com) - 💵 购买设计精美的字体。
@@ -134,6 +139,7 @@
 - [Lottielab](https://www.lottielab.com) - 产品团队的动态设计工具。
 - [Notion Avatar Maker](https://notion-avatar.app) - 制作 notion 风格头像。
 - [Haikei](https://haikei.app) - 直接在浏览器中生成独特的 SVG 背景、色块、波浪等设计素材。
+- [fffuel](https://www.fffuel.co) - 免费的色彩工具与 SVG 生成器集合，可生成渐变、图案、纹理、形状和背景。
 - [ray.so](https://ray.so) - 由 Raycast 团队出品，将代码片段转换成可直接分享的精美图片。
 - [tldraw](https://www.tldraw.com) - 用于绘制图表、线框图和创意想法的协作式无限白板。
 - [Rotato](https://rotato.app) - 💵 几分钟内制作 3D 模型图像和视频。
