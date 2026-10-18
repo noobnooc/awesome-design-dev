@@ -40,6 +40,9 @@
 - [React Bits](https://reactbits.dev) - プロジェクトにそのまま組み込めるアニメーション付き React コンポーネント、背景、テキストエフェクト。JS/TS と Tailwind/CSS の各バリアントを提供。
 - [Base UI](https://base-ui.com) - Radix、Floating UI、Material UI の開発チームによる、デザインシステム構築向けのアンスタイルでアクセシブルな UI コンポーネント。
 - [Park UI](https://park-ui.com) - Ark UI と Panda CSS で構築された美しいコンポーネント。React、Solid、Vue で利用可能。
+- [Motion Primitives](https://motion-primitives.com) - カスタマイズ可能なアニメーションコンポーネントをコピー＆ペーストで使えるオープンソースの UI キット。
+- [Kibo UI](https://www.kibo-ui.com) - shadcn/ui をベースにした、高度なコンポーネント・ブロック・パターンの無料オープンソースライブラリ。
+- [mapcn](https://www.mapcn.dev) - MapLibre ベースで Tailwind によるスタイリング、shadcn CLI でインストールできる無料オープンソースの React 地図コンポーネント。
 
 ## アイコン
 
@@ -59,6 +62,7 @@
 - [SVGL](https://svgl.app) - ブランドの SVG ロゴとワードマークのライブラリ。コピー、ダウンロード、フレームワークへの取り込みに対応。
 - [Nucleoapp](https://nucleoapp.com) - 💵 UI、プレゼンテーション、印刷プロジェクト用に定期的に更新される 44k+のプレミアム品質 SVG アイコン。
 - [Iconoir](https://iconoir.com) - 1600以上の無料オープンソース SVG アイコン。SVG、Font、React、React Native、Flutter、Figma、Framer に対応。
+- [Iconify](https://iconify.design) - 主要なアイコンセットを一つのフレームワークに統合。30万以上のオープンソースのベクターアイコンを単一の API で利用可能。
 
 ## イラスト
 
@@ -103,6 +107,7 @@
 - [Inter](https://rsms.me/inter/) - テキストインターフェース用の可変フォントファミリー。
 - [Fontshare](https://www.fontshare.com) - Indian Type Foundry による無料フォントサービス。個人利用・商用利用が可能な高品質書体を提供。
 - [Uncut](https://uncut.wtf) - 現代的なオープンソース書体を厳選したライブラリ。無料でダウンロードして利用可能。
+- [Fontsource](https://www.fontsource.org) - オープンソースフォントを npm モジュールとしてセルフホスト。Google Fonts の全カタログなどに対応。
 - [Labor and Wait](https://www.laborandwait.xyz) - 💵 厳選された品質の商品と製品をショッピング。
 - [I Love Typography](https://fonts.ilovetypography.com) - 💵 独立系フォント制作会社からの厳選品質フォントをショッピング。
 - [T26](https://www.t26.com) - 💵 よくデザインされたフォントを購入。
@@ -133,6 +138,7 @@
 - [Lottielab](https://www.lottielab.com) - プロダクトチーム用のモーションデザインツール。
 - [Notion Avatar Maker](https://notion-avatar.app) - Notion 風アバターの作成。
 - [Haikei](https://haikei.app) - ブラウザ上でユニークな SVG の背景、ブロブ、波などのデザインアセットを生成。
+- [fffuel](https://www.fffuel.co) - グラデーション、パターン、テクスチャ、シェイプ、背景を作れる無料のカラーツールと SVG ジェネレーター集。
 - [ray.so](https://ray.so) - コードスニペットを共有しやすい美しい画像に変換。Raycast チームによるツール。
 - [tldraw](https://www.tldraw.com) - 図やワイヤーフレーム、アイデアをスケッチできる、共同編集対応の無限ホワイトボード。
 - [Rotato](https://rotato.app) - 💵 数分で 3D モックアップ画像と動画。

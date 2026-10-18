@@ -40,6 +40,9 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [React Bits](https://reactbits.dev) - Animierte React-Komponenten, Hintergründe und Texteffekte zum direkten Einbinden, verfügbar in JS/TS- und Tailwind/CSS-Varianten.
 - [Base UI](https://base-ui.com) - Ungestylte, barrierefreie UI-Komponenten für Design-Systeme, von den Machern von Radix, Floating UI und Material UI.
 - [Park UI](https://park-ui.com) - Schön gestaltete Komponenten auf Basis von Ark UI und Panda CSS, nutzbar mit React, Solid und Vue.
+- [Motion Primitives](https://motion-primitives.com) - Quelloffenes UI-Kit mit anpassbaren animierten Komponenten zum Kopieren und Einfügen, für schöne, animierte Oberflächen.
+- [Kibo UI](https://www.kibo-ui.com) - Kostenlose, quelloffene Bibliothek mit fortgeschrittenen Komponenten, Blöcken und Mustern auf Basis von shadcn/ui.
+- [mapcn](https://www.mapcn.dev) - Kostenlose, quelloffene Karten-Komponenten für React auf Basis von MapLibre, mit Tailwind gestaltet und per shadcn-CLI installierbar.
 
 ## Icons
 
@@ -59,6 +62,7 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [SVGL](https://svgl.app) - Eine Bibliothek mit Marken-Logos als SVG, bereit zum Kopieren, Herunterladen oder Einbinden ins Framework.
 - [Nucleoapp](https://nucleoapp.com) - 💵 Über 44k Premium-Qualität SVG-Icons, regelmäßig für UIs, Präsentationen und Druckprojekte aktualisiert.
 - [Iconoir](https://iconoir.com) - Über 1600 kostenlose, quelloffene SVG-Icons für SVG, Font, React, React Native, Flutter, Figma und Framer.
+- [Iconify](https://iconify.design) - Alle beliebten Icon-Sets in einem Framework: über 300.000 quelloffene Vektor-Icons hinter einer einheitlichen API.
 
 ## Illustrationen
 
@@ -103,6 +107,7 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Inter](https://rsms.me/inter/) - Eine variable Schriftfamilie für Text-Benutzeroberflächen.
 - [Fontshare](https://www.fontshare.com) - Ein kostenloser Font-Dienst der Indian Type Foundry mit hochwertigen Schriften für private und kommerzielle Nutzung.
 - [Uncut](https://uncut.wtf) - Eine kuratierte Bibliothek zeitgenössischer Open-Source-Schriften, kostenlos zum Herunterladen und Verwenden.
+- [Fontsource](https://www.fontsource.org) - Quelloffene Schriften als sauber verpackte npm-Module selbst hosten, inklusive des gesamten Google-Fonts-Katalogs und mehr.
 - [Labor and Wait](https://www.laborandwait.xyz) - 💵 Kaufen Sie kuratierte Qualitätsprodukte und Waren.
 - [I Love Typography](https://fonts.ilovetypography.com) - 💵 Kaufen Sie kuratierte Qualitätsschriften von unabhängigen Schriftgießereien.
 - [T26](https://www.t26.com) - 💵 Kaufen Sie gut gestaltete Schriften.
@@ -133,6 +138,7 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Lottielab](https://www.lottielab.com) - Das Motion-Design-Tool für Produktteams.
 - [Notion Avatar Maker](https://notion-avatar.app) - Erstellen von Notion-Style-Avataren.
 - [Haikei](https://haikei.app) - Erzeuge einzigartige SVG-Hintergründe, Blobs, Wellen und weitere Design-Assets direkt im Browser.
+- [fffuel](https://www.fffuel.co) - Eine Sammlung kostenloser Farbwerkzeuge und SVG-Generatoren für Verläufe, Muster, Texturen, Formen und Hintergründe.
 - [ray.so](https://ray.so) - Verwandelt Code-Snippets in schöne, teilbare Bilder – von den Machern von Raycast.
 - [tldraw](https://www.tldraw.com) - Ein kollaboratives, unendliches Whiteboard zum Skizzieren von Diagrammen, Wireframes und Ideen.
 - [Rotato](https://rotato.app) - 💵 3D-Mockup-Bilder und Filme in Minuten.

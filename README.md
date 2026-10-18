@@ -40,6 +40,9 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [React Bits](https://reactbits.dev) - Animated React components, backgrounds and text effects you can drop into a project, available in JS/TS and Tailwind/CSS variants.
 - [Base UI](https://base-ui.com) - Unstyled, accessible UI components for building design systems, from the creators of Radix, Floating UI and Material UI.
 - [Park UI](https://park-ui.com) - Beautifully designed components built with Ark UI and Panda CSS that work with React, Solid and Vue.
+- [Motion Primitives](https://motion-primitives.com) - Open-source, copy-paste UI kit of customizable animated components for building beautiful, animated interfaces.
+- [Kibo UI](https://www.kibo-ui.com) - A free, open-source library of advanced components, blocks and patterns built on top of shadcn/ui.
+- [mapcn](https://www.mapcn.dev) - Free, open-source map components for React, built on MapLibre, styled with Tailwind and installed through the shadcn CLI.
 
 ## Icons
 
@@ -59,6 +62,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [SVGL](https://svgl.app) - A library of brand SVG logos and wordmarks, ready to copy, download or pull into your framework.
 - [Nucleoapp](https://nucleoapp.com) - 💵 44k+ premium-quality SVG icons, regularly updated for UIs, presentations, and print projects.
 - [Iconoir](https://iconoir.com) - 1,600+ free, open-source, high-quality SVG icons available for SVG, Font, React, React Native, Flutter, Figma, and Framer.
+- [Iconify](https://iconify.design) - All popular icon sets, one framework: 300,000+ open source vector icons behind a single API and tooling.
 
 ## Illustrations
 
@@ -103,6 +107,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Inter](https://rsms.me/inter/) - A variable font family for text interfaces.
 - [Fontshare](https://www.fontshare.com) - A free font service from the Indian Type Foundry, with quality typefaces licensed for personal and commercial use.
 - [Uncut](https://uncut.wtf) - A curated library of contemporary open-source typefaces, free to download and use.
+- [Fontsource](https://www.fontsource.org) - Self-host open source fonts in neatly packaged npm modules, with the whole Google Fonts catalog and more.
 - [Labor and Wait](https://www.laborandwait.xyz) - 💵 Shop quality, curated goods and products.
 - [I Love Typography](https://fonts.ilovetypography.com) - 💵 Shop quality, curated fonts from indie font foundries.
 - [T26](https://www.t26.com) - 💵 Purchase well-designed fonts.
@@ -133,6 +138,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Lottielab](https://www.lottielab.com) - The motion design tool for product teams.
 - [Notion Avatar Maker](https://notion-avatar.app) - Making notion-style avatars.
 - [Haikei](https://haikei.app) - Generate unique SVG backgrounds, blobs, waves and other design assets right in the browser.
+- [fffuel](https://www.fffuel.co) - A collection of free color tools and SVG generators for gradients, patterns, textures, shapes and backgrounds.
 - [ray.so](https://ray.so) - Turn code snippets into beautiful images ready to share, by the makers of Raycast.
 - [tldraw](https://www.tldraw.com) - A collaborative infinite whiteboard for sketching diagrams, wireframes and ideas.
 - [Rotato](https://rotato.app) - 💵 3D mockup images and movies in minutes.
