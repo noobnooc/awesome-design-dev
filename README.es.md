@@ -40,6 +40,7 @@ También disponible en: [English](README.md) | [中文](README.zh.md) | [França
 - [React Bits](https://reactbits.dev) - Componentes animados de React, fondos y efectos de texto listos para usar, disponibles en variantes JS/TS y Tailwind/CSS.
 - [Base UI](https://base-ui.com) - Componentes UI sin estilos y accesibles para crear sistemas de diseño, de los creadores de Radix, Floating UI y Material UI.
 - [Park UI](https://park-ui.com) - Componentes bellamente diseñados construidos con Ark UI y Panda CSS que funcionan con React, Solid y Vue.
+- [Motion Primitives](https://motion-primitives.com) - Componentes React animados para copiar y pegar, con Tailwind CSS y Motion, para crear interfaces pulidas más rápido.
 
 ## Iconos
 
@@ -59,6 +60,7 @@ También disponible en: [English](README.md) | [中文](README.zh.md) | [França
 - [SVGL](https://svgl.app) - Una biblioteca de logotipos SVG de marcas, lista para copiar, descargar o usar en tu framework.
 - [Nucleoapp](https://nucleoapp.com) - 💵 Más de 44k iconos SVG de calidad premium, actualizados regularmente para UIs, presentaciones y proyectos impresos.
 - [Iconoir](https://iconoir.com) - Más de 1600 iconos SVG gratuitos y de código abierto, disponibles para SVG, Font, React, React Native, Flutter, Figma y Framer.
+- [Lordicon](https://lordicon.com) - Biblioteca de iconos animados con más de 9700 iconos gratuitos y un catálogo premium más amplio, para web, React y Figma.
 
 ## Ilustraciones
 
@@ -74,6 +76,7 @@ También disponible en: [English](README.md) | [中文](README.zh.md) | [França
 - [Shapefest](https://shapefest.com) - 💵 Más de 100K imágenes PNG transparentes de hermosos objetos 3D.
 - [Blush](https://blush.design) - Ilustraciones personalizables gratuitas con Plugin de Figma. Crea, edita y usa ilustraciones en tus diseños.
 - [Open Peeps](https://www.openpeeps.com) - Una librería de ilustraciones dibujadas a mano para crear escenas de personas. Puedes usarlas en ilustración de productos, marketing, cómics y más.
+- [Open Doodles](https://www.opendoodles.com) - Ilustraciones CC0 gratuitas dibujadas a mano de personas en poses divertidas, en SVG, PNG y GIF.
 
 ## Plantillas
 
@@ -144,6 +147,8 @@ También disponible en: [English](README.md) | [中文](README.zh.md) | [França
 - [Canva](https://www.canva.com) - 💵 Crea diseños impresionantes fácilmente con la función de arrastrar y soltar de Canva y diseños profesionales.
 - [InVision](https://www.invisionapp.com) - 💵 Plataforma de diseño de productos digitales que impulsa las mejores experiencias de usuario del mundo.
 - [Screen Studio](https://screen.studio) - 💵 Grabador de pantalla para macOS con zoom automático y animaciones suaves para demos de producto pulidas.
+- [tweakcn](https://tweakcn.com) - Editor visual de temas para shadcn/ui con vista previa en vivo y variables CSS listas para pegar.
+- [Cool Backgrounds](https://coolbackgrounds.io) - Genera imágenes de fondo coloridas para sitios web, blogs y fondos de pantalla con Trianglify, partículas y más.
 
 ## Libros
 

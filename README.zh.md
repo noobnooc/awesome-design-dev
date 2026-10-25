@@ -40,6 +40,7 @@
 - [React Bits](https://reactbits.dev) - 可直接放进项目的 React 动效组件、背景与文字特效，提供 JS/TS 与 Tailwind/CSS 多种版本。
 - [Base UI](https://base-ui.com) - 由 Radix、Floating UI 和 Material UI 团队打造的无样式、可访问 UI 组件，适合构建设计系统。
 - [Park UI](https://park-ui.com) - 基于 Ark UI 和 Panda CSS 构建的精美组件，支持 React、Solid 和 Vue。
+- [Motion Primitives](https://motion-primitives.com) - 基于 Tailwind CSS 和 Motion 构建的动画 React 组件，可复制粘贴，快速打造精致界面。
 
 ## 图标
 
@@ -60,6 +61,7 @@
 
 - [React Icons](https://react-icons.github.io/react-icons/) - 使用 react-icons 轻松在 React 项目中包含流行图标。
 - [Iconoir](https://iconoir.com) - 1600+ 免费开源的高质量 SVG 图标，支持 SVG、Font、React、React Native、Flutter、Figma 和 Framer。
+- [Lordicon](https://lordicon.com) - 动画图标库，提供 9700+ 免费图标和更庞大的付费图标集，支持 Web、React 和 Figma。
 
 ## 插图
 
@@ -75,6 +77,7 @@
 - [Shapefest](https://shapefest.com) - 💵 100K+ 透明 PNG 图像的美丽 3D 对象。
 - [Blush](https://blush.design) - 免费可定制插图，带 Figma 插件。在您的设计中创建、编辑和使用插图。
 - [Open Peeps](https://www.openpeeps.com) - 手绘人物插图库，用于创建人物场景。可用于产品插图、营销、漫画等。
+- [Open Doodles](https://www.opendoodles.com) - 免费的 CC0 手绘人物插图，姿态生动，提供 SVG、PNG 和 GIF 格式。
 
 ## 模板
 
@@ -145,6 +148,8 @@
 - [Canva](https://www.canva.com) - 💵 使用 Canva 的拖放功能和专业布局轻松创建令人惊叹的设计。
 - [InVision](https://www.invisionapp.com) - 💵 为世界最佳用户体验提供支持的数字产品设计平台。
 - [Screen Studio](https://screen.studio) - 💵 macOS 屏幕录制工具，自动缩放和流畅动画，适合制作精致的产品演示。
+- [tweakcn](https://tweakcn.com) - shadcn/ui 的可视化主题编辑器，支持实时预览并导出 CSS 变量。
+- [Cool Backgrounds](https://coolbackgrounds.io) - 使用 Trianglify、粒子等工具，为网站、博客和壁纸生成多彩背景图。
 
 ## 书籍
 
