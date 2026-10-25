@@ -40,6 +40,7 @@
 - [React Bits](https://reactbits.dev) - プロジェクトにそのまま組み込めるアニメーション付き React コンポーネント、背景、テキストエフェクト。JS/TS と Tailwind/CSS の各バリアントを提供。
 - [Base UI](https://base-ui.com) - Radix、Floating UI、Material UI の開発チームによる、デザインシステム構築向けのアンスタイルでアクセシブルな UI コンポーネント。
 - [Park UI](https://park-ui.com) - Ark UI と Panda CSS で構築された美しいコンポーネント。React、Solid、Vue で利用可能。
+- [Motion Primitives](https://motion-primitives.com) - Tailwind CSS と Motion で作られた、コピー＆ペーストで使えるアニメーション React コンポーネント。洗練された UI を素早く構築。
 
 ## アイコン
 
@@ -59,6 +60,7 @@
 - [SVGL](https://svgl.app) - ブランドの SVG ロゴとワードマークのライブラリ。コピー、ダウンロード、フレームワークへの取り込みに対応。
 - [Nucleoapp](https://nucleoapp.com) - 💵 UI、プレゼンテーション、印刷プロジェクト用に定期的に更新される 44k+のプレミアム品質 SVG アイコン。
 - [Iconoir](https://iconoir.com) - 1600以上の無料オープンソース SVG アイコン。SVG、Font、React、React Native、Flutter、Figma、Framer に対応。
+- [Lordicon](https://lordicon.com) - 9,700以上の無料アイコンとさらに豊富なプレミアムセットを備えたアニメーションアイコンライブラリ。Web、React、Figma に対応。
 
 ## イラスト
 
@@ -74,6 +76,7 @@
 - [Shapefest](https://shapefest.com) - 💵 美しい 3D オブジェクトの 100K 以上の透明 PNG 画像。
 - [Blush](https://blush.design) - Figma プラグイン付きの無料カスタマイズ可能イラスト。デザインでイラストを作成、編集、使用できます。
 - [Open Peeps](https://www.openpeeps.com) - 人々のシーンを作成するための手描きイラストライブラリ。製品イラスト、マーケティング、コミックなどで使用できます。
+- [Open Doodles](https://www.opendoodles.com) - 遊び心のあるポーズの人物を描いた、無料の CC0 手描きイラスト。SVG、PNG、GIF で提供。
 
 ## テンプレート
 
@@ -144,6 +147,8 @@
 - [Canva](https://www.canva.com) - 💵 Canva のドラッグ＆ドロップ機能とプロフェッショナルレイアウトで素晴らしいデザインを簡単に作成。
 - [InVision](https://www.invisionapp.com) - 💵 世界最高のユーザー体験を推進するデジタル製品デザインプラットフォーム。
 - [Screen Studio](https://screen.studio) - 💵 自動ズームと滑らかなアニメーションを備えた macOS 向け画面録画ツール。洗練された製品デモに最適。
+- [tweakcn](https://tweakcn.com) - shadcn/ui 向けのビジュアルテーマエディタ。ライブプレビューと貼り付け可能な CSS 変数に対応。
+- [Cool Backgrounds](https://coolbackgrounds.io) - Trianglify やパーティクルなどで、Web サイト、ブログ、壁紙向けのカラフルな背景画像を生成。
 
 ## 書籍
 

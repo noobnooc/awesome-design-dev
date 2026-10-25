@@ -40,6 +40,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [React Bits](https://reactbits.dev) - Animated React components, backgrounds and text effects you can drop into a project, available in JS/TS and Tailwind/CSS variants.
 - [Base UI](https://base-ui.com) - Unstyled, accessible UI components for building design systems, from the creators of Radix, Floating UI and Material UI.
 - [Park UI](https://park-ui.com) - Beautifully designed components built with Ark UI and Panda CSS that work with React, Solid and Vue.
+- [Motion Primitives](https://motion-primitives.com) - Animated, copy-paste React components built with Tailwind CSS and Motion for crafting polished interfaces faster.
 
 ## Icons
 
@@ -59,6 +60,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [SVGL](https://svgl.app) - A library of brand SVG logos and wordmarks, ready to copy, download or pull into your framework.
 - [Nucleoapp](https://nucleoapp.com) - 💵 44k+ premium-quality SVG icons, regularly updated for UIs, presentations, and print projects.
 - [Iconoir](https://iconoir.com) - 1,600+ free, open-source, high-quality SVG icons available for SVG, Font, React, React Native, Flutter, Figma, and Framer.
+- [Lordicon](https://lordicon.com) - Animated icon library with 9,700+ free icons and a larger premium set, for web, React and Figma.
 
 ## Illustrations
 
@@ -74,6 +76,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Shapefest](https://shapefest.com) - 💵 100K+ transparent PNG images of beautiful 3D objects .
 - [Blush](https://blush.design) - Free customizable illustrations with Figma Plugin. Create, edit, and use illustrations in your designs.
 - [Open Peeps](https://www.openpeeps.com) - A hand-drawn illustration library to create scenes of people. You can use them in product illustration, marketing, comics, and more.
+- [Open Doodles](https://www.opendoodles.com) - Free, CC0 hand-drawn illustrations of people in playful poses, available as SVG, PNG and GIF.
 
 ## Templates
 
@@ -144,6 +147,8 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Canva](https://www.canva.com) - 💵 Create stunning designs easily with Canva's drag-and-drop feature and professional layouts.
 - [InVision](https://www.invisionapp.com) - 💵 Digital product design platform powering the world's best user experiences.
 - [Screen Studio](https://screen.studio) - 💵 macOS screen recorder with automatic zoom and smooth animations for polished product demos.
+- [tweakcn](https://tweakcn.com) - Visual theme editor for shadcn/ui with live preview and ready-to-paste CSS variables.
+- [Cool Backgrounds](https://coolbackgrounds.io) - Generate colorful background images for websites, blogs and wallpapers with Trianglify, particles and more.
 
 ## Books
 

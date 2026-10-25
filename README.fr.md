@@ -40,6 +40,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [React Bits](https://reactbits.dev) - Composants React animés, arrière-plans et effets de texte prêts à l'emploi, disponibles en variantes JS/TS et Tailwind/CSS.
 - [Base UI](https://base-ui.com) - Composants UI sans styles et accessibles pour créer des design systems, par les créateurs de Radix, Floating UI et Material UI.
 - [Park UI](https://park-ui.com) - Composants magnifiquement conçus, construits avec Ark UI et Panda CSS, compatibles avec React, Solid et Vue.
+- [Motion Primitives](https://motion-primitives.com) - Composants React animés à copier-coller, basés sur Tailwind CSS et Motion, pour créer plus vite des interfaces soignées.
 
 ## Icônes
 
@@ -59,6 +60,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [SVGL](https://svgl.app) - Une bibliothèque de logos SVG de marques, prêts à copier, télécharger ou intégrer dans votre framework.
 - [Nucleoapp](https://nucleoapp.com) - 💵 Plus de 44k icônes SVG de qualité premium, régulièrement mises à jour pour UI, présentations et projets d'impression.
 - [Iconoir](https://iconoir.com) - Plus de 1600 icônes SVG gratuites et open source, disponibles en SVG, Font, React, React Native, Flutter, Figma et Framer.
+- [Lordicon](https://lordicon.com) - Bibliothèque d'icônes animées avec plus de 9700 icônes gratuites et un catalogue premium plus large, pour le web, React et Figma.
 
 ## Illustrations
 
@@ -74,6 +76,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [Shapefest](https://shapefest.com) - 💵 Plus de 100K images PNG transparentes de beaux objets 3D.
 - [Blush](https://blush.design) - Illustrations personnalisables gratuites avec Plugin Figma. Créez, éditez et utilisez des illustrations dans vos designs.
 - [Open Peeps](https://www.openpeeps.com) - Une bibliothèque d'illustrations dessinées à la main pour créer des scènes de personnes. Vous pouvez les utiliser dans l'illustration de produit, marketing, bandes dessinées et plus.
+- [Open Doodles](https://www.opendoodles.com) - Illustrations CC0 gratuites dessinées à la main de personnes dans des poses ludiques, en SVG, PNG et GIF.
 
 ## Modèles
 
@@ -144,6 +147,8 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [Canva](https://www.canva.com) - 💵 Créez facilement des designs époustouflants avec la fonction glisser-déposer de Canva et des mises en page professionnelles.
 - [InVision](https://www.invisionapp.com) - 💵 Plateforme de design de produit numérique alimentant les meilleures expériences utilisateur du monde.
 - [Screen Studio](https://screen.studio) - 💵 Enregistreur d'écran macOS avec zoom automatique et animations fluides pour des démos produit soignées.
+- [tweakcn](https://tweakcn.com) - Éditeur visuel de thèmes pour shadcn/ui avec aperçu en direct et variables CSS prêtes à coller.
+- [Cool Backgrounds](https://coolbackgrounds.io) - Générez des images d'arrière-plan colorées pour sites web, blogs et fonds d'écran avec Trianglify, particules et plus.
 
 ## Livres
 
