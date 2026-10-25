@@ -60,6 +60,7 @@
 
 - [React Icons](https://react-icons.github.io/react-icons/) - 使用 react-icons 轻松在 React 项目中包含流行图标。
 - [Iconoir](https://iconoir.com) - 1600+ 免费开源的高质量 SVG 图标，支持 SVG、Font、React、React Native、Flutter、Figma 和 Framer。
+- [Oreo Doodle Icons](https://doodle.oreoui.com) - 197 个免费手绘 SVG 图标，会自己画出来并持续轻轻抖动。MIT 协议。
 
 ## 插图
 
