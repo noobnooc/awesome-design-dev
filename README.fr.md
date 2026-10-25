@@ -59,6 +59,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [SVGL](https://svgl.app) - Une bibliothèque de logos SVG de marques, prêts à copier, télécharger ou intégrer dans votre framework.
 - [Nucleoapp](https://nucleoapp.com) - 💵 Plus de 44k icônes SVG de qualité premium, régulièrement mises à jour pour UI, présentations et projets d'impression.
 - [Iconoir](https://iconoir.com) - Plus de 1600 icônes SVG gratuites et open source, disponibles en SVG, Font, React, React Native, Flutter, Figma et Framer.
+- [Oreo Doodle Icons](https://doodle.oreoui.com) - 197 icônes SVG gratuites dessinées à la main, qui se tracent toutes seules et frétillent. MIT.
 
 ## Illustrations
 
