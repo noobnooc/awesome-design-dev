@@ -40,6 +40,8 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [React Bits](https://reactbits.dev) - Animated React components, backgrounds and text effects you can drop into a project, available in JS/TS and Tailwind/CSS variants.
 - [Base UI](https://base-ui.com) - Unstyled, accessible UI components for building design systems, from the creators of Radix, Floating UI and Material UI.
 - [Park UI](https://park-ui.com) - Beautifully designed components built with Ark UI and Panda CSS that work with React, Solid and Vue.
+- [Animate UI](https://animate-ui.com) - Open-source animated React components built on Radix UI, Base UI and React Aria, with a CLI to add motion to existing shadcn/ui components.
+- [Motion](https://motion.dev) - The open-source animation library for React, JavaScript and Vue (formerly Framer Motion), with springs, gestures, layout and scroll animations.
 
 ## Icons
 
@@ -59,6 +61,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [SVGL](https://svgl.app) - A library of brand SVG logos and wordmarks, ready to copy, download or pull into your framework.
 - [Nucleoapp](https://nucleoapp.com) - 💵 44k+ premium-quality SVG icons, regularly updated for UIs, presentations, and print projects.
 - [Iconoir](https://iconoir.com) - 1,600+ free, open-source, high-quality SVG icons available for SVG, Font, React, React Native, Flutter, Figma, and Framer.
+- [Iconify](https://iconify.design) - A unified framework for 200+ open-source icon sets and 300,000+ icons, with an instant-search browser and on-demand API.
 
 ## Illustrations
 
@@ -108,6 +111,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [T26](https://www.t26.com) - 💵 Purchase well-designed fonts.
 - [Klim](https://klim.co.nz) - 💵 Shop quality, curated fonts from indie font foundries.
 - [Pangram Pangram](https://pangrampangram.com) - 💵 An independent type foundry with high-quality typefaces, free to try before you license them.
+- [Fontsource](https://fontsource.org) - Self-hostable open-source and variable fonts delivered as npm packages, with 2,000+ families to browse and preview.
 
 ## Colors
 
@@ -144,6 +148,9 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Canva](https://www.canva.com) - 💵 Create stunning designs easily with Canva's drag-and-drop feature and professional layouts.
 - [InVision](https://www.invisionapp.com) - 💵 Digital product design platform powering the world's best user experiences.
 - [Screen Studio](https://screen.studio) - 💵 macOS screen recorder with automatic zoom and smooth animations for polished product demos.
+- [Paper](https://paper.design) - A design canvas built on HTML and CSS that stays in sync with your code and AI agents.
+- [Pika](https://pika.style) - Wrap screenshots in beautiful backgrounds, browser frames and device mockups, right in the browser.
+- [tweakcn](https://tweakcn.com) - A visual theme editor and generator for shadcn/ui, with live previews and one-click CSS export.
 
 ## Books
 

@@ -40,6 +40,8 @@
 - [React Bits](https://reactbits.dev) - 可直接放进项目的 React 动效组件、背景与文字特效，提供 JS/TS 与 Tailwind/CSS 多种版本。
 - [Base UI](https://base-ui.com) - 由 Radix、Floating UI 和 Material UI 团队打造的无样式、可访问 UI 组件，适合构建设计系统。
 - [Park UI](https://park-ui.com) - 基于 Ark UI 和 Panda CSS 构建的精美组件，支持 React、Solid 和 Vue。
+- [Animate UI](https://animate-ui.com) - 基于 Radix UI、Base UI 和 React Aria 构建的开源动画 React 组件，并提供 CLI 为现有 shadcn/ui 组件添加动效。
+- [Motion](https://motion.dev) - 面向 React、JavaScript 和 Vue 的开源动画库（前身为 Framer Motion），支持弹簧、手势、布局和滚动动画。
 
 ## 图标
 
@@ -60,6 +62,7 @@
 
 - [React Icons](https://react-icons.github.io/react-icons/) - 使用 react-icons 轻松在 React 项目中包含流行图标。
 - [Iconoir](https://iconoir.com) - 1600+ 免费开源的高质量 SVG 图标，支持 SVG、Font、React、React Native、Flutter、Figma 和 Framer。
+- [Iconify](https://iconify.design) - 统一 200+ 开源图标集、30 万+ 图标的框架，提供即时搜索的图标浏览器和按需加载的 API。
 
 ## 插图
 
@@ -109,6 +112,7 @@
 - [T26](https://www.t26.com) - 💵 购买设计精美的字体。
 - [Klim](https://klim.co.nz) - 💵 购买优质、精选的字体，来自独立字体铸造厂。
 - [Pangram Pangram](https://pangrampangram.com) - 💵 独立字体工作室出品的高品质字体，购买授权前可免费试用。
+- [Fontsource](https://fontsource.org) - 以 npm 包形式提供、可自托管的开源与可变字体，收录 2000+ 字体家族，可浏览和预览。
 
 ## 颜色
 
@@ -145,6 +149,9 @@
 - [Canva](https://www.canva.com) - 💵 使用 Canva 的拖放功能和专业布局轻松创建令人惊叹的设计。
 - [InVision](https://www.invisionapp.com) - 💵 为世界最佳用户体验提供支持的数字产品设计平台。
 - [Screen Studio](https://screen.studio) - 💵 macOS 屏幕录制工具，自动缩放和流畅动画，适合制作精致的产品演示。
+- [Paper](https://paper.design) - 基于 HTML 和 CSS 的设计画布，可与代码及 AI 智能体保持同步。
+- [Pika](https://pika.style) - 在浏览器中为截图添加精美背景、浏览器边框和设备样机。
+- [tweakcn](https://tweakcn.com) - shadcn/ui 的可视化主题编辑器与生成器，支持实时预览和一键导出 CSS。
 
 ## 书籍
 
