@@ -40,6 +40,8 @@
 - [React Bits](https://reactbits.dev) - プロジェクトにそのまま組み込めるアニメーション付き React コンポーネント、背景、テキストエフェクト。JS/TS と Tailwind/CSS の各バリアントを提供。
 - [Base UI](https://base-ui.com) - Radix、Floating UI、Material UI の開発チームによる、デザインシステム構築向けのアンスタイルでアクセシブルな UI コンポーネント。
 - [Park UI](https://park-ui.com) - Ark UI と Panda CSS で構築された美しいコンポーネント。React、Solid、Vue で利用可能。
+- [Animate UI](https://animate-ui.com) - Radix UI、Base UI、React Aria をベースにしたオープンソースのアニメーション React コンポーネント。既存の shadcn/ui コンポーネントに動きを加える CLI も提供。
+- [Motion](https://motion.dev) - React、JavaScript、Vue 向けのオープンソースのアニメーションライブラリ（旧 Framer Motion）。スプリング、ジェスチャー、レイアウト、スクロールアニメーションに対応。
 
 ## アイコン
 
@@ -59,6 +61,7 @@
 - [SVGL](https://svgl.app) - ブランドの SVG ロゴとワードマークのライブラリ。コピー、ダウンロード、フレームワークへの取り込みに対応。
 - [Nucleoapp](https://nucleoapp.com) - 💵 UI、プレゼンテーション、印刷プロジェクト用に定期的に更新される 44k+のプレミアム品質 SVG アイコン。
 - [Iconoir](https://iconoir.com) - 1600以上の無料オープンソース SVG アイコン。SVG、Font、React、React Native、Flutter、Figma、Framer に対応。
+- [Iconify](https://iconify.design) - 200以上のオープンソースアイコンセット、30万以上のアイコンを統一的に扱えるフレームワーク。即時検索ブラウザとオンデマンド API を提供。
 
 ## イラスト
 
@@ -108,6 +111,7 @@
 - [T26](https://www.t26.com) - 💵 よくデザインされたフォントを購入。
 - [Klim](https://klim.co.nz) - 💵 独立系フォント制作会社からの厳選品質フォントをショッピング。
 - [Pangram Pangram](https://pangrampangram.com) - 💵 高品質な書体を手がける独立系フォントファウンドリ。ライセンス購入前に無料で試用可能。
+- [Fontsource](https://fontsource.org) - npm パッケージとして提供される、セルフホスト可能なオープンソース／可変フォント。2000以上のファミリーを閲覧・プレビューできます。
 
 ## 色
 
@@ -144,6 +148,9 @@
 - [Canva](https://www.canva.com) - 💵 Canva のドラッグ＆ドロップ機能とプロフェッショナルレイアウトで素晴らしいデザインを簡単に作成。
 - [InVision](https://www.invisionapp.com) - 💵 世界最高のユーザー体験を推進するデジタル製品デザインプラットフォーム。
 - [Screen Studio](https://screen.studio) - 💵 自動ズームと滑らかなアニメーションを備えた macOS 向け画面録画ツール。洗練された製品デモに最適。
+- [Paper](https://paper.design) - HTML と CSS をベースにしたデザインキャンバス。コードや AI エージェントと同期を保てます。
+- [Pika](https://pika.style) - スクリーンショットを美しい背景、ブラウザフレーム、デバイスモックアップで包み、ブラウザ上で仕上げられます。
+- [tweakcn](https://tweakcn.com) - shadcn/ui 向けのビジュアルテーマエディター兼ジェネレーター。ライブプレビューとワンクリックの CSS エクスポートに対応。
 
 ## 書籍
 

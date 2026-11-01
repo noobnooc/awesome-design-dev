@@ -40,6 +40,8 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [React Bits](https://reactbits.dev) - Composants React animés, arrière-plans et effets de texte prêts à l'emploi, disponibles en variantes JS/TS et Tailwind/CSS.
 - [Base UI](https://base-ui.com) - Composants UI sans styles et accessibles pour créer des design systems, par les créateurs de Radix, Floating UI et Material UI.
 - [Park UI](https://park-ui.com) - Composants magnifiquement conçus, construits avec Ark UI et Panda CSS, compatibles avec React, Solid et Vue.
+- [Animate UI](https://animate-ui.com) - Composants React animés open source basés sur Radix UI, Base UI et React Aria, avec une CLI pour ajouter du mouvement aux composants shadcn/ui existants.
+- [Motion](https://motion.dev) - La bibliothèque d'animation open source pour React, JavaScript et Vue (anciennement Framer Motion), avec ressorts, gestes, layout et animations au défilement.
 
 ## Icônes
 
@@ -59,6 +61,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [SVGL](https://svgl.app) - Une bibliothèque de logos SVG de marques, prêts à copier, télécharger ou intégrer dans votre framework.
 - [Nucleoapp](https://nucleoapp.com) - 💵 Plus de 44k icônes SVG de qualité premium, régulièrement mises à jour pour UI, présentations et projets d'impression.
 - [Iconoir](https://iconoir.com) - Plus de 1600 icônes SVG gratuites et open source, disponibles en SVG, Font, React, React Native, Flutter, Figma et Framer.
+- [Iconify](https://iconify.design) - Un framework unifié pour plus de 200 jeux d'icônes open source et plus de 300 000 icônes, avec recherche instantanée et API à la demande.
 
 ## Illustrations
 
@@ -108,6 +111,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [T26](https://www.t26.com) - 💵 Achetez des polices bien conçues.
 - [Klim](https://klim.co.nz) - 💵 Achetez des polices de qualité, sélectionnées de fonderies de polices indépendantes.
 - [Pangram Pangram](https://pangrampangram.com) - 💵 Une fonderie typographique indépendante aux caractères de haute qualité, gratuits à essayer avant l'achat de licence.
+- [Fontsource](https://fontsource.org) - Polices open source et variables auto-hébergeables, distribuées en paquets npm, avec plus de 2000 familles à parcourir et prévisualiser.
 
 ## Couleurs
 
@@ -144,6 +148,9 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [Canva](https://www.canva.com) - 💵 Créez facilement des designs époustouflants avec la fonction glisser-déposer de Canva et des mises en page professionnelles.
 - [InVision](https://www.invisionapp.com) - 💵 Plateforme de design de produit numérique alimentant les meilleures expériences utilisateur du monde.
 - [Screen Studio](https://screen.studio) - 💵 Enregistreur d'écran macOS avec zoom automatique et animations fluides pour des démos produit soignées.
+- [Paper](https://paper.design) - Un canevas de design basé sur HTML et CSS, synchronisé avec votre code et vos agents IA.
+- [Pika](https://pika.style) - Habillez vos captures d'écran de fonds soignés, de cadres de navigateur et de maquettes d'appareils, directement dans le navigateur.
+- [tweakcn](https://tweakcn.com) - Éditeur et générateur visuel de thèmes pour shadcn/ui, avec aperçu en direct et export CSS en un clic.
 
 ## Livres
 

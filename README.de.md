@@ -40,6 +40,8 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [React Bits](https://reactbits.dev) - Animierte React-Komponenten, Hintergründe und Texteffekte zum direkten Einbinden, verfügbar in JS/TS- und Tailwind/CSS-Varianten.
 - [Base UI](https://base-ui.com) - Ungestylte, barrierefreie UI-Komponenten für Design-Systeme, von den Machern von Radix, Floating UI und Material UI.
 - [Park UI](https://park-ui.com) - Schön gestaltete Komponenten auf Basis von Ark UI und Panda CSS, nutzbar mit React, Solid und Vue.
+- [Animate UI](https://animate-ui.com) - Quelloffene animierte React-Komponenten auf Basis von Radix UI, Base UI und React Aria, mit CLI, um bestehenden shadcn/ui-Komponenten Bewegung hinzuzufügen.
+- [Motion](https://motion.dev) - Die quelloffene Animationsbibliothek für React, JavaScript und Vue (früher Framer Motion) mit Springs, Gesten, Layout- und Scroll-Animationen.
 
 ## Icons
 
@@ -59,6 +61,7 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [SVGL](https://svgl.app) - Eine Bibliothek mit Marken-Logos als SVG, bereit zum Kopieren, Herunterladen oder Einbinden ins Framework.
 - [Nucleoapp](https://nucleoapp.com) - 💵 Über 44k Premium-Qualität SVG-Icons, regelmäßig für UIs, Präsentationen und Druckprojekte aktualisiert.
 - [Iconoir](https://iconoir.com) - Über 1600 kostenlose, quelloffene SVG-Icons für SVG, Font, React, React Native, Flutter, Figma und Framer.
+- [Iconify](https://iconify.design) - Ein einheitliches Framework für über 200 quelloffene Icon-Sets mit mehr als 300.000 Icons, mit Sofortsuche und On-Demand-API.
 
 ## Illustrationen
 
@@ -108,6 +111,7 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [T26](https://www.t26.com) - 💵 Kaufen Sie gut gestaltete Schriften.
 - [Klim](https://klim.co.nz) - 💵 Kaufen Sie kuratierte Qualitätsschriften von unabhängigen Schriftgießereien.
 - [Pangram Pangram](https://pangrampangram.com) - 💵 Eine unabhängige Schriftgießerei mit hochwertigen Schriften, kostenlos testbar vor dem Lizenzkauf.
+- [Fontsource](https://fontsource.org) - Selbst hostbare quelloffene und variable Schriften als npm-Pakete, mit über 2000 Familien zum Durchsuchen und Ansehen.
 
 ## Farben
 
@@ -144,6 +148,9 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Canva](https://www.canva.com) - 💵 Erstellen Sie mühelos atemberaubende Designs mit Canvas Drag & Drop-Funktion und professionellen Layouts.
 - [InVision](https://www.invisionapp.com) - 💵 Digitale Produktdesign-Plattform für die weltbesten Benutzererfahrungen.
 - [Screen Studio](https://screen.studio) - 💵 macOS-Bildschirmrekorder mit automatischem Zoom und weichen Animationen für polierte Produkt-Demos.
+- [Paper](https://paper.design) - Eine Design-Arbeitsfläche auf Basis von HTML und CSS, die mit deinem Code und KI-Agenten synchron bleibt.
+- [Pika](https://pika.style) - Verpacke Screenshots direkt im Browser in schöne Hintergründe, Browserrahmen und Geräte-Mockups.
+- [tweakcn](https://tweakcn.com) - Visueller Theme-Editor und -Generator für shadcn/ui, mit Live-Vorschau und CSS-Export per Klick.
 
 ## Bücher
 
