@@ -40,6 +40,8 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [React Bits](https://reactbits.dev) - Composants React animés, arrière-plans et effets de texte prêts à l'emploi, disponibles en variantes JS/TS et Tailwind/CSS.
 - [Base UI](https://base-ui.com) - Composants UI sans styles et accessibles pour créer des design systems, par les créateurs de Radix, Floating UI et Material UI.
 - [Park UI](https://park-ui.com) - Composants magnifiquement conçus, construits avec Ark UI et Panda CSS, compatibles avec React, Solid et Vue.
+- [Kibo UI](https://www.kibo-ui.com) - Composants, blocs et motifs composables et accessibles qui étendent shadcn/ui, gratuits et open source.
+- [Motion-Primitives](https://motion-primitives.com) - Composants d'animation élégants à copier-coller pour créer des interfaces animées plus vite.
 
 ## Icônes
 
@@ -74,6 +76,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [Shapefest](https://shapefest.com) - 💵 Plus de 100K images PNG transparentes de beaux objets 3D.
 - [Blush](https://blush.design) - Illustrations personnalisables gratuites avec Plugin Figma. Créez, éditez et utilisez des illustrations dans vos designs.
 - [Open Peeps](https://www.openpeeps.com) - Une bibliothèque d'illustrations dessinées à la main pour créer des scènes de personnes. Vous pouvez les utiliser dans l'illustration de produit, marketing, bandes dessinées et plus.
+- [Open Doodles](https://www.opendoodles.com) - Un ensemble gratuit CC0 d'illustrations de personnages dessinées à la main par Pablo Stanley, modifiables dans Blush.
 
 ## Modèles
 
@@ -103,6 +106,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [Inter](https://rsms.me/inter/) - Une famille de polices variable pour interfaces texte.
 - [Fontshare](https://www.fontshare.com) - Un service de polices gratuit de l'Indian Type Foundry, avec des typographies de qualité sous licence personnelle et commerciale.
 - [Uncut](https://uncut.wtf) - Une bibliothèque sélectionnée de typographies contemporaines open source, libres de téléchargement et d'utilisation.
+- [Geist](https://vercel.com/font) - La famille de polices open source de Vercel en Sans, Serif, Mono et Pixel, pensée pour les développeurs et les designers.
 - [Labor and Wait](https://www.laborandwait.xyz) - 💵 Achetez des produits et biens de qualité, sélectionnés.
 - [I Love Typography](https://fonts.ilovetypography.com) - 💵 Achetez des polices de qualité, sélectionnées de fonderies de polices indépendantes.
 - [T26](https://www.t26.com) - 💵 Achetez des polices bien conçues.
@@ -124,6 +128,8 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [Happy Hues](https://www.happyhues.co) - Palettes de couleurs sélectionnées et présentées en contexte sur une vraie page, pour voir où va chaque couleur.
 - [Huemint](https://huemint.com) - Générateur de palettes de couleurs par apprentissage automatique pour marques, sites web et graphiques.
 - [OKLCH Color Picker](https://oklch.com) - Sélecteur et convertisseur de couleurs pour l'espace OKLCH, avec vérification du contraste et aperçu du gamut P3.
+- [Radix Colors](https://www.radix-ui.com/colors) - Un magnifique système de couleurs accessible en 12 niveaux, avec échelles claires et sombres, pour concevoir des interfaces.
+- [Mesh Gradient](https://www.meshgradient.com) - Créez de superbes dégradés en maillage uniques, basés sur des shaders, en quelques clics.
 
 ## Outils
 
@@ -135,6 +141,8 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [Haikei](https://haikei.app) - Générez des arrière-plans SVG uniques, blobs, vagues et autres ressources de design directement dans le navigateur.
 - [ray.so](https://ray.so) - Transformez des extraits de code en belles images prêtes à partager, par les créateurs de Raycast.
 - [tldraw](https://www.tldraw.com) - Un tableau blanc infini et collaboratif pour esquisser diagrammes, wireframes et idées.
+- [tweakcn](https://tweakcn.com) - Un éditeur visuel de thèmes pour shadcn/ui avec aperçu en temps réel, préréglages soignés et export Tailwind.
+- [Hero Patterns](https://heropatterns.com) - Motifs SVG répétables pour arrière-plans par Steve Schoger, aux couleurs personnalisables et avec CSS prêt à l'emploi.
 - [Rotato](https://rotato.app) - 💵 Images de maquette 3D et films en minutes.
 - [Spline](https://spline.design) - 💵 Un lieu pour concevoir et collaborer en 3D.
 - [Shuffle](https://shuffle.dev/) - 💵 Créez facilement des pages d'atterrissage, tableaux de bord et modèles e-commerce.

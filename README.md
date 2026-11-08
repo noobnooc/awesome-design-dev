@@ -40,6 +40,8 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [React Bits](https://reactbits.dev) - Animated React components, backgrounds and text effects you can drop into a project, available in JS/TS and Tailwind/CSS variants.
 - [Base UI](https://base-ui.com) - Unstyled, accessible UI components for building design systems, from the creators of Radix, Floating UI and Material UI.
 - [Park UI](https://park-ui.com) - Beautifully designed components built with Ark UI and Panda CSS that work with React, Solid and Vue.
+- [Kibo UI](https://www.kibo-ui.com) - Composable, accessible components, blocks and patterns that extend shadcn/ui, free and open source.
+- [Motion-Primitives](https://motion-primitives.com) - Beautifully designed, copy-paste motion components for building animated interfaces faster.
 
 ## Icons
 
@@ -74,6 +76,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Shapefest](https://shapefest.com) - 💵 100K+ transparent PNG images of beautiful 3D objects .
 - [Blush](https://blush.design) - Free customizable illustrations with Figma Plugin. Create, edit, and use illustrations in your designs.
 - [Open Peeps](https://www.openpeeps.com) - A hand-drawn illustration library to create scenes of people. You can use them in product illustration, marketing, comics, and more.
+- [Open Doodles](https://www.opendoodles.com) - A free CC0 set of hand-drawn illustrations of people by Pablo Stanley, editable in Blush.
 
 ## Templates
 
@@ -103,6 +106,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Inter](https://rsms.me/inter/) - A variable font family for text interfaces.
 - [Fontshare](https://www.fontshare.com) - A free font service from the Indian Type Foundry, with quality typefaces licensed for personal and commercial use.
 - [Uncut](https://uncut.wtf) - A curated library of contemporary open-source typefaces, free to download and use.
+- [Geist](https://vercel.com/font) - Vercel's open-source typeface family in Sans, Serif, Mono and Pixel, built for developers and designers.
 - [Labor and Wait](https://www.laborandwait.xyz) - 💵 Shop quality, curated goods and products.
 - [I Love Typography](https://fonts.ilovetypography.com) - 💵 Shop quality, curated fonts from indie font foundries.
 - [T26](https://www.t26.com) - 💵 Purchase well-designed fonts.
@@ -124,6 +128,8 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Happy Hues](https://www.happyhues.co) - Curated color palettes shown in context on a real page, so you can see where each color belongs.
 - [Huemint](https://huemint.com) - Machine-learning color palette generator for brands, websites and graphics.
 - [OKLCH Color Picker](https://oklch.com) - Color picker and converter for the OKLCH color space, with contrast checking and P3 gamut preview.
+- [Radix Colors](https://www.radix-ui.com/colors) - A gorgeous, accessible 12-step color system with light and dark scales for building user interfaces.
+- [Mesh Gradient](https://www.meshgradient.com) - Create beautiful, unique shader-based mesh gradients in a few clicks.
 
 ## Tools
 
@@ -135,6 +141,8 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Haikei](https://haikei.app) - Generate unique SVG backgrounds, blobs, waves and other design assets right in the browser.
 - [ray.so](https://ray.so) - Turn code snippets into beautiful images ready to share, by the makers of Raycast.
 - [tldraw](https://www.tldraw.com) - A collaborative infinite whiteboard for sketching diagrams, wireframes and ideas.
+- [tweakcn](https://tweakcn.com) - A visual theme editor for shadcn/ui with real-time preview, beautiful presets and Tailwind export.
+- [Hero Patterns](https://heropatterns.com) - Repeatable SVG background patterns by Steve Schoger, with customizable colors and ready-to-use CSS.
 - [Rotato](https://rotato.app) - 💵 3D mockup images and movies in minutes.
 - [Spline](https://spline.design) - 💵 A place to design and collaborate in 3D.
 - [Shuffle](https://shuffle.dev/) - 💵 Easily create landing pages, dashboards, and e-commerce templates.

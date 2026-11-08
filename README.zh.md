@@ -40,6 +40,8 @@
 - [React Bits](https://reactbits.dev) - 可直接放进项目的 React 动效组件、背景与文字特效，提供 JS/TS 与 Tailwind/CSS 多种版本。
 - [Base UI](https://base-ui.com) - 由 Radix、Floating UI 和 Material UI 团队打造的无样式、可访问 UI 组件，适合构建设计系统。
 - [Park UI](https://park-ui.com) - 基于 Ark UI 和 Panda CSS 构建的精美组件，支持 React、Solid 和 Vue。
+- [Kibo UI](https://www.kibo-ui.com) - 可组合、易访问的组件、区块和模式，用于扩展 shadcn/ui，免费开源。
+- [Motion-Primitives](https://motion-primitives.com) - 设计精美、可复制粘贴的动效组件，帮助你更快构建动画界面。
 
 ## 图标
 
@@ -75,6 +77,7 @@
 - [Shapefest](https://shapefest.com) - 💵 100K+ 透明 PNG 图像的美丽 3D 对象。
 - [Blush](https://blush.design) - 免费可定制插图，带 Figma 插件。在您的设计中创建、编辑和使用插图。
 - [Open Peeps](https://www.openpeeps.com) - 手绘人物插图库，用于创建人物场景。可用于产品插图、营销、漫画等。
+- [Open Doodles](https://www.opendoodles.com) - Pablo Stanley 创作的 CC0 手绘人物插画集，可在 Blush 中编辑。
 
 ## 模板
 
@@ -104,6 +107,7 @@
 - [Inter](https://rsms.me/inter/) - 一个用于文本界面的可变字体家族。
 - [Fontshare](https://www.fontshare.com) - 来自 Indian Type Foundry 的免费字体服务，提供可用于个人和商业项目的优质字体。
 - [Uncut](https://uncut.wtf) - 精选的当代开源字体库，可免费下载使用。
+- [Geist](https://vercel.com/font) - Vercel 开源字体家族，包含 Sans、Serif、Mono 和 Pixel，为开发者和设计师打造。
 - [Labor and Wait](https://www.laborandwait.xyz) - 💵 购买优质、精选的商品和产品。
 - [I Love Typography](https://fonts.ilovetypography.com) - 💵 购买优质、精选的字体，来自独立字体铸造厂。
 - [T26](https://www.t26.com) - 💵 购买设计精美的字体。
@@ -125,6 +129,8 @@
 - [Happy Hues](https://www.happyhues.co) - 在真实页面场景中展示的精选配色方案，让你直观看到每种颜色的用法。
 - [Huemint](https://huemint.com) - 使用机器学习为品牌、网站和图形生成配色方案。
 - [OKLCH Color Picker](https://oklch.com) - OKLCH 色彩空间的取色器与转换工具，支持对比度检查和 P3 色域预览。
+- [Radix Colors](https://www.radix-ui.com/colors) - 精美且易访问的 12 级色彩系统，提供浅色与深色色阶，用于构建用户界面。
+- [Mesh Gradient](https://www.meshgradient.com) - 使用着色器几步即可生成漂亮独特的网格渐变。
 
 ## 工具
 
@@ -136,6 +142,8 @@
 - [Haikei](https://haikei.app) - 直接在浏览器中生成独特的 SVG 背景、色块、波浪等设计素材。
 - [ray.so](https://ray.so) - 由 Raycast 团队出品，将代码片段转换成可直接分享的精美图片。
 - [tldraw](https://www.tldraw.com) - 用于绘制图表、线框图和创意想法的协作式无限白板。
+- [tweakcn](https://tweakcn.com) - shadcn/ui 的可视化主题编辑器，支持实时预览、精美预设和 Tailwind 导出。
+- [Hero Patterns](https://heropatterns.com) - Steve Schoger 制作的可重复 SVG 背景图案，支持自定义颜色并提供可直接使用的 CSS。
 - [Rotato](https://rotato.app) - 💵 几分钟内制作 3D 模型图像和视频。
 - [Spline](https://spline.design) - 💵 3D 设计和协作的地方。
 - [Shuffle](https://shuffle.dev/) - 💵 轻松创建登陆页面、仪表板和电子商务模板。

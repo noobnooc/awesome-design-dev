@@ -40,6 +40,8 @@ También disponible en: [English](README.md) | [中文](README.zh.md) | [França
 - [React Bits](https://reactbits.dev) - Componentes animados de React, fondos y efectos de texto listos para usar, disponibles en variantes JS/TS y Tailwind/CSS.
 - [Base UI](https://base-ui.com) - Componentes UI sin estilos y accesibles para crear sistemas de diseño, de los creadores de Radix, Floating UI y Material UI.
 - [Park UI](https://park-ui.com) - Componentes bellamente diseñados construidos con Ark UI y Panda CSS que funcionan con React, Solid y Vue.
+- [Kibo UI](https://www.kibo-ui.com) - Componentes, bloques y patrones composables y accesibles que extienden shadcn/ui, gratuitos y de código abierto.
+- [Motion-Primitives](https://motion-primitives.com) - Componentes de movimiento muy bien diseñados, para copiar y pegar, que aceleran la creación de interfaces animadas.
 
 ## Iconos
 
@@ -74,6 +76,7 @@ También disponible en: [English](README.md) | [中文](README.zh.md) | [França
 - [Shapefest](https://shapefest.com) - 💵 Más de 100K imágenes PNG transparentes de hermosos objetos 3D.
 - [Blush](https://blush.design) - Ilustraciones personalizables gratuitas con Plugin de Figma. Crea, edita y usa ilustraciones en tus diseños.
 - [Open Peeps](https://www.openpeeps.com) - Una librería de ilustraciones dibujadas a mano para crear escenas de personas. Puedes usarlas en ilustración de productos, marketing, cómics y más.
+- [Open Doodles](https://www.opendoodles.com) - Un conjunto gratuito CC0 de ilustraciones de personas dibujadas a mano por Pablo Stanley, editable en Blush.
 
 ## Plantillas
 
@@ -103,6 +106,7 @@ También disponible en: [English](README.md) | [中文](README.zh.md) | [França
 - [Inter](https://rsms.me/inter/) - Una familia de fuentes variable para interfaces de texto.
 - [Fontshare](https://www.fontshare.com) - Un servicio de fuentes gratuito de Indian Type Foundry, con tipografías de calidad licenciadas para uso personal y comercial.
 - [Uncut](https://uncut.wtf) - Una biblioteca curada de tipografías contemporáneas de código abierto, gratis para descargar y usar.
+- [Geist](https://vercel.com/font) - La familia tipográfica de código abierto de Vercel en Sans, Serif, Mono y Pixel, creada para desarrolladores y diseñadores.
 - [Labor and Wait](https://www.laborandwait.xyz) - 💵 Compra productos y bienes de calidad y curados.
 - [I Love Typography](https://fonts.ilovetypography.com) - 💵 Compra fuentes de calidad y curadas de fundiciones tipográficas independientes.
 - [T26](https://www.t26.com) - 💵 Compra fuentes bien diseñadas.
@@ -124,6 +128,8 @@ También disponible en: [English](README.md) | [中文](README.zh.md) | [França
 - [Happy Hues](https://www.happyhues.co) - Paletas de colores curadas mostradas en contexto sobre una página real, para ver dónde va cada color.
 - [Huemint](https://huemint.com) - Generador de paletas de color con aprendizaje automático para marcas, sitios web y gráficos.
 - [OKLCH Color Picker](https://oklch.com) - Selector y conversor de color para el espacio OKLCH, con verificación de contraste y vista previa de gama P3.
+- [Radix Colors](https://www.radix-ui.com/colors) - Un sistema de color accesible y precioso de 12 pasos, con escalas claras y oscuras para construir interfaces.
+- [Mesh Gradient](https://www.meshgradient.com) - Crea bellos y únicos degradados de malla basados en shaders con unos pocos clics.
 
 ## Herramientas
 
@@ -135,6 +141,8 @@ También disponible en: [English](README.md) | [中文](README.zh.md) | [França
 - [Haikei](https://haikei.app) - Genera fondos SVG únicos, blobs, ondas y otros recursos de diseño directamente en el navegador.
 - [ray.so](https://ray.so) - Convierte fragmentos de código en imágenes bonitas listas para compartir, de los creadores de Raycast.
 - [tldraw](https://www.tldraw.com) - Una pizarra infinita colaborativa para bocetar diagramas, wireframes e ideas.
+- [tweakcn](https://tweakcn.com) - Un editor visual de temas para shadcn/ui con vista previa en tiempo real, preajustes atractivos y exportación a Tailwind.
+- [Hero Patterns](https://heropatterns.com) - Patrones SVG repetibles para fondos de Steve Schoger, con colores personalizables y CSS listo para usar.
 - [Rotato](https://rotato.app) - 💵 Imágenes mockup 3D y películas en minutos.
 - [Spline](https://spline.design) - 💵 Un lugar para diseñar y colaborar en 3D.
 - [Shuffle](https://shuffle.dev/) - 💵 Crea fácilmente páginas de aterrizaje, dashboards y plantillas de e-commerce.
