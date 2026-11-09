@@ -77,6 +77,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [OpenMoji](https://openmoji.org) - Open-source emojis for designers and developers, available as SVG, PNG and fonts in color and black outline styles.
 - [Iconify](https://iconify.design) - A unified framework for 300,000+ open source vector icons from more than 200 icon sets, usable in any framework.
 - [Lordicon](https://lordicon.com) - Animated icon library with 9,700+ free icons and a larger premium set, for web, React and Figma.
+- [Oreo Doodle Icons](https://doodle.oreoui.com) - 197 free hand-drawn SVG icons that draw themselves and wiggle. MIT.
 
 ## Illustrations
 
@@ -226,3 +227,4 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Recent](https://recent.design) - A daily curation of exceptional design, websites and tools, sorted by discipline.
 - [Codrops](https://tympanus.net/codrops) - A publication for web designers and developers, with creative demos, tutorials and a curated gallery of standout sites.
 - [Cosmos](https://www.cosmos.so) - A visual discovery space to collect, organize and share design inspiration.
+- [Pixlpin](https://pixlpin.com) - A free design library curated from the internet, with real app screens, user flows and websites.

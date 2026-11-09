@@ -77,6 +77,7 @@ También disponible en: [English](README.md) | [中文](README.zh.md) | [França
 - [OpenMoji](https://openmoji.org) - Emojis de código abierto para diseñadores y desarrolladores, disponibles en SVG, PNG y fuentes, a color o en contorno negro.
 - [Iconify](https://iconify.design) - Un marco unificado con más de 300.000 iconos vectoriales de código abierto de más de 200 colecciones, utilizable en cualquier framework.
 - [Lordicon](https://lordicon.com) - Biblioteca de iconos animados con más de 9700 iconos gratuitos y un catálogo premium más amplio, para web, React y Figma.
+- [Oreo Doodle Icons](https://doodle.oreoui.com) - 197 iconos SVG gratuitos dibujados a mano que se dibujan solos y se mueven. MIT.
 
 ## Ilustraciones
 
@@ -173,6 +174,7 @@ También disponible en: [English](README.md) | [中文](README.zh.md) | [França
 - [EasyLottie](https://www.easylottie.com) - Herramientas gratuitas en el navegador para previsualizar, cambiar colores, comprimir y convertir animaciones Lottie, sin subir archivos ni registrarse.
 - [Notion Avatar Maker](https://notion-avatar.app) - Creando avatares estilo Notion.
 - [Haikei](https://haikei.app) - Genera fondos SVG únicos, blobs, ondas y otros recursos de diseño directamente en el navegador.
+- [Pic2Vector](https://pic2vector.com/) - Convertidor gratuito en el navegador de PNG/JPG/WebP a SVG por capas. El trazado se hace en local con WebAssembly (vtracer), sin subir imágenes ni crear cuenta.
 - [ray.so](https://ray.so) - Convierte fragmentos de código en imágenes bonitas listas para compartir, de los creadores de Raycast.
 - [tldraw](https://www.tldraw.com) - Una pizarra infinita colaborativa para bocetar diagramas, wireframes e ideas.
 - [Rotato](https://rotato.app) - 💵 Imágenes mockup 3D y películas en minutos.
@@ -225,3 +227,4 @@ También disponible en: [English](README.md) | [中文](README.zh.md) | [França
 - [Recent](https://recent.design) - Una curaduría diaria de diseño, sitios web y herramientas excepcionales, ordenados por disciplina.
 - [Codrops](https://tympanus.net/codrops) - Una publicación para diseñadores y desarrolladores web, con demos creativas, tutoriales y una galería curada de sitios destacados.
 - [Cosmos](https://www.cosmos.so) - Un espacio de descubrimiento visual para reunir, organizar y compartir inspiración de diseño.
+- [Pixlpin](https://pixlpin.com) - Una biblioteca de diseño gratuita recopilada de internet, con pantallas reales de apps, flujos de usuario y sitios web.
