@@ -78,6 +78,7 @@
 - [OpenMoji](https://openmoji.org) - 面向设计师和开发者的开源 emoji，提供彩色与黑白线条两种风格的 SVG、PNG 和字体格式。
 - [Iconify](https://iconify.design) - 统一的图标框架，汇集 200 多个图标集、30 万+ 开源矢量图标，可在任意前端框架中使用。
 - [Lordicon](https://lordicon.com) - 动画图标库，提供 9700+ 免费图标和更庞大的付费图标集，支持 Web、React 和 Figma。
+- [Oreo Doodle Icons](https://doodle.oreoui.com) - 197 个免费手绘 SVG 图标，会自己画出来并持续轻轻抖动。MIT 协议。
 
 ## 插图
 

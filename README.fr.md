@@ -77,6 +77,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [OpenMoji](https://openmoji.org) - Des emojis open source pour les designers et les développeurs, disponibles en SVG, PNG et polices, en couleur ou en contour noir.
 - [Iconify](https://iconify.design) - Un framework unifié réunissant plus de 300 000 icônes vectorielles open source issues de plus de 200 collections, utilisables partout.
 - [Lordicon](https://lordicon.com) - Bibliothèque d'icônes animées avec plus de 9700 icônes gratuites et un catalogue premium plus large, pour le web, React et Figma.
+- [Oreo Doodle Icons](https://doodle.oreoui.com) - 197 icônes SVG gratuites dessinées à la main, qui se tracent toutes seules et frétillent. MIT.
 
 ## Illustrations
 

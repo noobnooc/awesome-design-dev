@@ -77,6 +77,7 @@
 - [OpenMoji](https://openmoji.org) - デザイナーと開発者のためのオープンソース絵文字。カラーと黒線の 2 スタイルを SVG・PNG・フォント形式で提供。
 - [Iconify](https://iconify.design) - 200 以上のアイコンセットから 30 万以上のオープンソースベクターアイコンを統一的に扱えるフレームワーク。どのフレームワークでも利用できます。
 - [Lordicon](https://lordicon.com) - 9,700以上の無料アイコンとさらに豊富なプレミアムセットを備えたアニメーションアイコンライブラリ。Web、React、Figma に対応。
+- [Oreo Doodle Icons](https://doodle.oreoui.com) - 自分で描かれ、ゆらゆら動き続ける無料の手描き SVG アイコン 197 個。MIT。
 
 ## イラスト
 

@@ -77,6 +77,7 @@ También disponible en: [English](README.md) | [中文](README.zh.md) | [França
 - [OpenMoji](https://openmoji.org) - Emojis de código abierto para diseñadores y desarrolladores, disponibles en SVG, PNG y fuentes, a color o en contorno negro.
 - [Iconify](https://iconify.design) - Un marco unificado con más de 300.000 iconos vectoriales de código abierto de más de 200 colecciones, utilizable en cualquier framework.
 - [Lordicon](https://lordicon.com) - Biblioteca de iconos animados con más de 9700 iconos gratuitos y un catálogo premium más amplio, para web, React y Figma.
+- [Oreo Doodle Icons](https://doodle.oreoui.com) - 197 iconos SVG gratuitos dibujados a mano que se dibujan solos y se mueven. MIT.
 
 ## Ilustraciones
 
