@@ -174,6 +174,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [EasyLottie](https://www.easylottie.com) - Outils gratuits dans le navigateur pour prévisualiser, recolorer, compresser et convertir des animations Lottie, sans envoi de fichiers ni inscription.
 - [Notion Avatar Maker](https://notion-avatar.app) - Création d'avatars style Notion.
 - [Haikei](https://haikei.app) - Générez des arrière-plans SVG uniques, blobs, vagues et autres ressources de design directement dans le navigateur.
+- [Pic2Vector](https://pic2vector.com/) - Convertisseur gratuit dans le navigateur de PNG/JPG/WebP en SVG par calques. La vectorisation tourne en local avec WebAssembly (vtracer), sans envoi d'images ni compte.
 - [ray.so](https://ray.so) - Transformez des extraits de code en belles images prêtes à partager, par les créateurs de Raycast.
 - [tldraw](https://www.tldraw.com) - Un tableau blanc infini et collaboratif pour esquisser diagrammes, wireframes et idées.
 - [Rotato](https://rotato.app) - 💵 Images de maquette 3D et films en minutes.
@@ -226,3 +227,4 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [Recent](https://recent.design) - Une curation quotidienne de design, de sites web et d'outils d'exception, classés par discipline.
 - [Codrops](https://tympanus.net/codrops) - Une publication pour les designers et développeurs web, avec des démos créatives, des tutoriels et une galerie de sites remarquables.
 - [Cosmos](https://www.cosmos.so) - Un espace de découverte visuelle pour collecter, organiser et partager son inspiration.
+- [Pixlpin](https://pixlpin.com) - Une bibliothèque de design gratuite, sélectionnée sur le web, avec de vrais écrans d'apps, des parcours utilisateur et des sites.

@@ -174,6 +174,7 @@
 - [EasyLottie](https://www.easylottie.com) - Lottie アニメーションのプレビュー、色変更、圧縮、変換ができる無料のブラウザツール。アップロードや登録は不要。
 - [Notion Avatar Maker](https://notion-avatar.app) - Notion 風アバターの作成。
 - [Haikei](https://haikei.app) - ブラウザ上でユニークな SVG の背景、ブロブ、波などのデザインアセットを生成。
+- [Pic2Vector](https://pic2vector.com/) - PNG/JPG/WebP をレイヤー付き SVG に変換する無料のブラウザツール。WebAssembly（vtracer）でローカル処理し、画像のアップロードやアカウントは不要。
 - [ray.so](https://ray.so) - コードスニペットを共有しやすい美しい画像に変換。Raycast チームによるツール。
 - [tldraw](https://www.tldraw.com) - 図やワイヤーフレーム、アイデアをスケッチできる、共同編集対応の無限ホワイトボード。
 - [Rotato](https://rotato.app) - 💵 数分で 3D モックアップ画像と動画。
@@ -226,3 +227,4 @@
 - [Recent](https://recent.design) - 優れたデザイン・ウェブサイト・ツールを毎日キュレーション。分野別に整理されています。
 - [Codrops](https://tympanus.net/codrops) - ウェブデザイナーとデベロッパー向けのメディア。創造的なデモ、チュートリアル、優れたサイトの厳選ギャラリーを掲載。
 - [Cosmos](https://www.cosmos.so) - デザインのインスピレーションを集め、整理し、共有するためのビジュアル探索スペース。
+- [Pixlpin](https://pixlpin.com) - ネットから厳選した無料のデザインライブラリ。実際のアプリ画面、ユーザーフロー、ウェブサイトを収録。
