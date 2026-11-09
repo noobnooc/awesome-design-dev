@@ -43,9 +43,14 @@
 - [Ark UI](https://ark-ui.com) - 面向 React、Solid、Vue 和 Svelte 的无样式组件库，包含 45+ 个无障碍组件，可套用你自己的设计系统。
 - [Flowbite](https://flowbite.com) - 开源组件库，提供 600+ 个基于 Tailwind CSS 构建、并在 Figma 中设计的 UI 组件、区块和页面。
 - [Tremor](https://tremor.so) - 35+ 个开源 React 组件，用于构建图表和仪表盘，基于 Tailwind CSS 和 Radix UI 构建。
+- [Primer](https://primer.style) - GitHub 的设计系统，包含 React 与 CSS 组件、Octicons 图标以及品牌工具包。
 - [Material Design 3](https://m3.material.io) - Google 的开源设计系统，提供设计规范、组件以及颜色和排版令牌。
+- [UIBall Loaders](https://uiball.com/loaders) - 免费开源的加载动画与 loading 指示器，使用 HTML、CSS 和 SVG 构建，提供 React 和 Web Components 版本。
 - [Nuxt UI](https://ui.nuxt.com) - 全面的 Vue 与 Nuxt 组件库，提供 125+ 个无障碍组件，使用 Tailwind CSS 精心设计。
 - [MUI](https://mui.com) - 全面的 React UI 工具套件，既有功能完备的 Material UI 组件库，也有可直接用于生产的无样式基础组件。
+- [Kibo UI](https://www.kibo-ui.com) - 为 shadcn/ui 打造的可组合、可访问组件，包含编辑器、看板、文件上传等复杂组件。
+- [mapcn](https://www.mapcn.dev) - 免费开源的 React 地图组件，基于 MapLibre，使用 Tailwind 样式，并通过 shadcn CLI 安装。
+- [Animate UI](https://animate-ui.com) - 基于 Radix UI、Base UI 和 React Aria 构建的开源动画 React 组件，并提供 CLI 为现有 shadcn/ui 组件添加动效。
 
 ## 图标
 
@@ -68,9 +73,11 @@
 - [Iconoir](https://iconoir.com) - 1600+ 免费开源的高质量 SVG 图标，支持 SVG、Font、React、React Native、Flutter、Figma 和 Framer。
 - [3dicons](https://3dicons.co) - 1500+ 个手工制作的 3D 图标渲染图，免费开源，另有付费高级图标包。
 - [Font Awesome](https://fontawesome.com) - 经典的图标工具集，提供数千个免费图标以及更庞大的专业版图标库，支持 Web、桌面端和 Figma。
+- [Pixelarticons](https://pixelarticons.com) - 4600+ 个手工绘制的像素风图标，基于 24×24 网格，提供四种风格。
 - [Radix Icons](https://www.radix-ui.com/icons) - 由 Radix 团队打造的 15×15 精致图标集，提供 Figma、SVG 下载和 npm 三种使用方式。
 - [OpenMoji](https://openmoji.org) - 面向设计师和开发者的开源 emoji，提供彩色与黑白线条两种风格的 SVG、PNG 和字体格式。
 - [Iconify](https://iconify.design) - 统一的图标框架，汇集 200 多个图标集、30 万+ 开源矢量图标，可在任意前端框架中使用。
+- [Lordicon](https://lordicon.com) - 动画图标库，提供 9700+ 免费图标和更庞大的付费图标集，支持 Web、React 和 Figma。
 
 ## 插图
 
@@ -86,9 +93,10 @@
 - [Shapefest](https://shapefest.com) - 💵 100K+ 透明 PNG 图像的美丽 3D 对象。
 - [Blush](https://blush.design) - 免费可定制插图，带 Figma 插件。在您的设计中创建、编辑和使用插图。
 - [Open Peeps](https://www.openpeeps.com) - 手绘人物插图库，用于创建人物场景。可用于产品插图、营销、漫画等。
-- [ManyPixels](https://www.manypixels.co/gallery) - 多种现成风格的免费插图，可自定义配色并下载为 SVG 或 PNG。
 - [Open Doodles](https://www.opendoodles.com) - 一套免费开源的手绘插画，可自由换色和二次创作。
 - [illlustrations.co](https://illlustrations.co) - 开源插画套件，包含 120+ 张插画，提供 AI、SVG、PNG、EPS 和 Figma 格式，可免费用于个人和商业项目。
+- [Public Work](https://public.work) - 公共领域图像搜索引擎，收录来自大都会艺术博物馆、纽约公共图书馆等机构的 10 万+ 图像。
+- [Doodle Ipsum](https://doodleipsum.com) - 插图界的 lorem ipsum —— 通过 URL 直接生成扁平、手绘或头像风格的占位插图。
 
 ## 模板
 
@@ -129,6 +137,7 @@
 - [Klim](https://klim.co.nz) - 💵 购买优质、精选的字体，来自独立字体铸造厂。
 - [Pangram Pangram](https://pangrampangram.com) - 💵 独立字体工作室出品的高品质字体，购买授权前可免费试用。
 - [Typewolf](https://www.typewolf.com) - 追踪字体趋势的站点，提供字体清单、案例图集和排版资源，并配有真实网站范例。
+- [Fonts In Use](https://fontsinuse.com) - 独立的排版案例档案库，可按字体、载体和行业检索。
 - [Fontsource](https://fontsource.org) - 以 npm 包形式自托管开源字体，收录 2000+ 个字体家族并支持可变字体。
 - [Modern Font Stacks](https://modernfontstacks.com) - 按字体分类整理的系统字体栈——无需下载、不产生布局偏移、即时渲染。
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com) - 第一家开源字体铸造厂，提供精心制作、可自由用于任何项目的字体。
@@ -152,7 +161,9 @@
 - [OKLCH Color Picker](https://oklch.com) - OKLCH 色彩空间的取色器与转换工具，支持对比度检查和 P3 色域预览。
 - [Radix Colors](https://www.radix-ui.com/colors) - 为用户界面打造的 12 级无障碍配色系统，附带配套的深色模式色阶。
 - [UI Colors](https://uicolors.app) - Tailwind CSS 配色生成器，可在组件、仪表盘和图表中实时预览你的调色板。
+- [Khroma](https://www.khroma.co) - 根据你喜欢的颜色训练模型，持续生成可搜索和收藏的配色方案。
 - [Leonardo](https://leonardocolor.io) - Adobe 开源的配色工具，可根据目标对比度生成可访问的配色系统。
+- [Mesh Gradient](https://www.meshgradient.com) - 使用着色器几步即可生成漂亮独特的网格渐变。
 
 ## 工具
 
@@ -182,9 +193,11 @@
 - [Animista](https://animista.net) - 浏览现成的 CSS 动画，调整参数后只复制需要的那部分代码。
 - [Utopia](https://utopia.fyi) - 流式字号与间距比例计算器，在视口之间平滑插值，而非在断点处跳变。
 - [tweakcn](https://tweakcn.com) - shadcn/ui 的可视化主题编辑器 —— 实时预览下调整颜色、排版和布局，并导出为 Tailwind 配置。
+- [Wakamai Fondue](https://wakamaifondue.com) - 拖入一个字体文件，就能看清它的全部能力 —— 字形、OpenType 特性、可变轴和语言支持。
 - [Open Props](https://open-props.style) - 强化版 CSS 变量：精心打磨的设计令牌，涵盖颜色、渐变、阴影、缓动等。
 - [Hero Patterns](https://heropatterns.com) - 可重复平铺的 SVG 背景图案合集，颜色与透明度均可自定义。
 - [Checklist Design](https://www.checklist.design) - 面向网站、应用、组件与流程的最佳实践清单，帮助你在上线前逐项核对细节。
+- [Unicorn Studio](https://www.unicorn.studio) - 在浏览器中设计交互式 WebGL 图形、着色器和滚动特效，并嵌入到任意网站。
 
 ## 书籍
 

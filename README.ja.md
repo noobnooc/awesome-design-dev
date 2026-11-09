@@ -43,9 +43,14 @@
 - [Ark UI](https://ark-ui.com) - React、Solid、Vue、Svelte に対応した 45 以上のアクセシブルなヘッドレスコンポーネント。自分のデザインシステムでスタイリングできます。
 - [Flowbite](https://flowbite.com) - Tailwind CSS で構築され Figma でデザインされた 600 以上の UI コンポーネント、セクション、ページを揃えたオープンソースライブラリ。
 - [Tremor](https://tremor.so) - Tailwind CSS と Radix UI で構築された、チャートやダッシュボードを作るための 35 以上のオープンソース React コンポーネント。
+- [Primer](https://primer.style) - React と CSS のコンポーネント、Octicons、ブランドツールキットを備えた GitHub のデザインシステム。
 - [Material Design 3](https://m3.material.io) - ガイドライン、コンポーネント、カラーとタイポグラフィのトークンを備えた Google のオープンソースデザインシステム。
+- [UIBall Loaders](https://uiball.com/loaders) - HTML、CSS、SVG で作られた無料でオープンソースのローダーとスピナー。React と Web Components として利用できます。
 - [Nuxt UI](https://ui.nuxt.com) - Tailwind CSS でスタイリングされた 125 以上のアクセシブルなコンポーネントを備えた、Vue と Nuxt 向けの総合コンポーネントライブラリ。
 - [MUI](https://mui.com) - 充実した Material UI コンポーネントライブラリから、本番運用に耐えるアンスタイルドなプリミティブまでを揃えた React UI ツール群。
+- [Kibo UI](https://www.kibo-ui.com) - shadcn/ui 向けの組み合わせ可能でアクセシブルなコンポーネント。エディターやカンバンボード、ファイルアップロードなど複雑な要素も揃っています。
+- [mapcn](https://www.mapcn.dev) - MapLibre ベースで Tailwind によるスタイリング、shadcn CLI でインストールできる無料オープンソースの React 地図コンポーネント。
+- [Animate UI](https://animate-ui.com) - Radix UI、Base UI、React Aria をベースにしたオープンソースのアニメーション React コンポーネント。既存の shadcn/ui コンポーネントに動きを加える CLI も提供。
 
 ## アイコン
 
@@ -67,9 +72,11 @@
 - [Iconoir](https://iconoir.com) - 1600以上の無料オープンソース SVG アイコン。SVG、Font、React、React Native、Flutter、Figma、Framer に対応。
 - [3dicons](https://3dicons.co) - 手作業で制作された 1500 以上の 3D アイコンレンダー。無料・オープンソースで、プレミアムパックも用意されています。
 - [Font Awesome](https://fontawesome.com) - 数千の無料アイコンと、より大規模なプロ版ライブラリを備えた定番のアイコンツールキット。Web、デスクトップ、Figma に対応。
+- [Pixelarticons](https://pixelarticons.com) - 24×24 グリッド上で手作りされた 4,600 以上のピクセルアートアイコン。4 つのスタイルを用意。
 - [Radix Icons](https://www.radix-ui.com/icons) - Radix チームによる 15×15 の精緻なアイコンセット。Figma、SVG ダウンロード、npm で利用できます。
 - [OpenMoji](https://openmoji.org) - デザイナーと開発者のためのオープンソース絵文字。カラーと黒線の 2 スタイルを SVG・PNG・フォント形式で提供。
 - [Iconify](https://iconify.design) - 200 以上のアイコンセットから 30 万以上のオープンソースベクターアイコンを統一的に扱えるフレームワーク。どのフレームワークでも利用できます。
+- [Lordicon](https://lordicon.com) - 9,700以上の無料アイコンとさらに豊富なプレミアムセットを備えたアニメーションアイコンライブラリ。Web、React、Figma に対応。
 
 ## イラスト
 
@@ -85,9 +92,10 @@
 - [Shapefest](https://shapefest.com) - 💵 美しい 3D オブジェクトの 100K 以上の透明 PNG 画像。
 - [Blush](https://blush.design) - Figma プラグイン付きの無料カスタマイズ可能イラスト。デザインでイラストを作成、編集、使用できます。
 - [Open Peeps](https://www.openpeeps.com) - 人々のシーンを作成するための手描きイラストライブラリ。製品イラスト、マーケティング、コミックなどで使用できます。
-- [ManyPixels](https://www.manypixels.co/gallery) - 複数のスタイルから選べる無料イラスト集。色を変更して SVG や PNG でダウンロードできます。
 - [Open Doodles](https://www.opendoodles.com) - 色替えやリミックスが自由にできる、無料でオープンソースの手描きイラストセット。
 - [illlustrations.co](https://illlustrations.co) - AI、SVG、PNG、EPS、Figma 形式で 120 点以上を収録したオープンソースのイラストキット。個人・商用ともに無料。
+- [Public Work](https://public.work) - メトロポリタン美術館やニューヨーク公共図書館などの所蔵品から集めた 10 万点以上のパブリックドメイン画像の検索エンジン。
+- [Doodle Ipsum](https://doodleipsum.com) - イラスト版の lorem ipsum。フラット、手描き、アバターなどのスタイルのプレースホルダー画像を URL から直接生成できます。
 
 ## テンプレート
 
@@ -128,6 +136,7 @@
 - [Klim](https://klim.co.nz) - 💵 独立系フォント制作会社からの厳選品質フォントをショッピング。
 - [Pangram Pangram](https://pangrampangram.com) - 💵 高品質な書体を手がける独立系フォントファウンドリ。ライセンス購入前に無料で試用可能。
 - [Typewolf](https://www.typewolf.com) - タイポグラフィのトレンドを追うサイト。フォントリストやルックブック、実例つきの学習リソースが揃います。
+- [Fonts In Use](https://fontsinuse.com) - 書体・フォーマット・業種で検索できる、独立系のタイポグラフィ事例アーカイブ。
 - [Fontsource](https://fontsource.org) - オープンソースフォントを npm パッケージとしてセルフホスト。2000 以上のファミリーとバリアブルフォントに対応。
 - [Modern Font Stacks](https://modernfontstacks.com) - 書体分類ごとに整理されたシステムフォントスタック。ダウンロード不要、レイアウトシフトなし、即座に描画されます。
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com) - 世界初のオープンソース活字工房。丁寧に作られた書体をどんなプロジェクトでも自由に使える。
@@ -151,7 +160,9 @@
 - [OKLCH Color Picker](https://oklch.com) - OKLCH 色空間のカラーピッカー兼コンバーター。コントラストチェックと P3 色域プレビューに対応。
 - [Radix Colors](https://www.radix-ui.com/colors) - UI 向けに設計された 12 段階のアクセシブルなカラーシステム。ダークモード用のスケールも揃っています。
 - [UI Colors](https://uicolors.app) - Tailwind CSS 用のカラージェネレーター。コンポーネントやダッシュボード、グラフ上でパレットを確認できます。
+- [Khroma](https://www.khroma.co) - 好みの色を学習させ、検索・保存できるパレットを無限に生成してくれるツール。
 - [Leonardo](https://leonardocolor.io) - 目標とするコントラスト比からアクセシブルなカラーシステムを生成する、Adobe 製のオープンソースツール。
+- [Mesh Gradient](https://www.meshgradient.com) - シェーダーを使った美しくユニークなメッシュグラデーションを、数クリックで作成できます。
 
 ## ツール
 
@@ -181,9 +192,11 @@
 - [Animista](https://animista.net) - 既製の CSS アニメーションを探して調整し、必要な分だけコードをコピーできる。
 - [Utopia](https://utopia.fyi) - ブレークポイントで飛ばずにビューポート間を補間する、フルイドなタイプ・スペーススケールの計算ツール。
 - [tweakcn](https://tweakcn.com) - shadcn/ui 用のビジュアルテーマエディタ。色・タイポグラフィ・レイアウトをリアルタイムプレビューで調整し、Tailwind に書き出せます。
+- [Wakamai Fondue](https://wakamaifondue.com) - フォントをドロップするだけで、その機能をすべて確認できます。グリフ、OpenType 機能、可変軸、対応言語まで。
 - [Open Props](https://open-props.style) - 強化された CSS 変数。色・グラデーション・シャドウ・イージングなどを丁寧に設計したデザイントークン集。
 - [Hero Patterns](https://heropatterns.com) - 色と不透明度をカスタマイズできる、繰り返し使える SVG 背景パターン集。
 - [Checklist Design](https://www.checklist.design) - Web サイト・アプリ・コンポーネント・フローのベストプラクティス集。公開前に細部まで確認できる。
+- [Unicorn Studio](https://www.unicorn.studio) - インタラクティブな WebGL グラフィックやシェーダー、スクロール演出をブラウザ上で制作し、任意のサイトに埋め込めます。
 
 ## 書籍
 

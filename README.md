@@ -43,9 +43,14 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Ark UI](https://ark-ui.com) - A headless library of 45+ accessible components for React, Solid, Vue and Svelte, ready to be styled with your own design system.
 - [Flowbite](https://flowbite.com) - An open-source library of 600+ UI components, sections and pages built with Tailwind CSS and designed in Figma.
 - [Tremor](https://tremor.so) - 35+ open-source React components for building charts and dashboards, built with Tailwind CSS and Radix UI.
+- [Primer](https://primer.style) - GitHub's design system, with React and CSS components, Octicons and a brand toolkit.
 - [Material Design 3](https://m3.material.io) - Google's open-source design system, with guidelines, components and color and typography tokens.
+- [UIBall Loaders](https://uiball.com/loaders) - Free, open-source loaders and spinners built with HTML, CSS and SVG, available as React and web components.
 - [Nuxt UI](https://ui.nuxt.com) - A comprehensive Vue and Nuxt component library with 125+ accessible components styled with Tailwind CSS.
 - [MUI](https://mui.com) - A comprehensive suite of React UI tools, from the fully-loaded Material UI component library to unstyled production-ready primitives.
+- [Kibo UI](https://www.kibo-ui.com) - Composable, accessible components for shadcn/ui, including complex pieces like editors, kanban boards and file uploads.
+- [mapcn](https://www.mapcn.dev) - Free, open-source map components for React, built on MapLibre, styled with Tailwind and installed through the shadcn CLI.
+- [Animate UI](https://animate-ui.com) - Open-source animated React components built on Radix UI, Base UI and React Aria, with a CLI to add motion to existing shadcn/ui components.
 
 ## Icons
 
@@ -67,9 +72,11 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Iconoir](https://iconoir.com) - 1,600+ free, open-source, high-quality SVG icons available for SVG, Font, React, React Native, Flutter, Figma, and Framer.
 - [3dicons](https://3dicons.co) - 1,500+ hand-made 3D icon renders, free and open source, with premium packs available.
 - [Font Awesome](https://fontawesome.com) - The classic icon toolkit, with thousands of free icons plus a larger pro library, for the web, desktop and Figma.
+- [Pixelarticons](https://pixelarticons.com) - 4,600+ hand-crafted pixel art icons on a 24×24 grid, in four styles.
 - [Radix Icons](https://www.radix-ui.com/icons) - A crisp set of 15×15 icons from the Radix team, available for Figma, SVG download and npm.
 - [OpenMoji](https://openmoji.org) - Open-source emojis for designers and developers, available as SVG, PNG and fonts in color and black outline styles.
 - [Iconify](https://iconify.design) - A unified framework for 300,000+ open source vector icons from more than 200 icon sets, usable in any framework.
+- [Lordicon](https://lordicon.com) - Animated icon library with 9,700+ free icons and a larger premium set, for web, React and Figma.
 
 ## Illustrations
 
@@ -85,9 +92,10 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Shapefest](https://shapefest.com) - 💵 100K+ transparent PNG images of beautiful 3D objects .
 - [Blush](https://blush.design) - Free customizable illustrations with Figma Plugin. Create, edit, and use illustrations in your designs.
 - [Open Peeps](https://www.openpeeps.com) - A hand-drawn illustration library to create scenes of people. You can use them in product illustration, marketing, comics, and more.
-- [ManyPixels](https://www.manypixels.co/gallery) - Free illustrations in several ready-made styles, recolorable and downloadable as SVG or PNG.
 - [Open Doodles](https://www.opendoodles.com) - A free set of open-source hand-drawn illustrations you can recolor and remix.
 - [illlustrations.co](https://illlustrations.co) - An open-source illustration kit of 120+ illustrations in AI, SVG, PNG, EPS and Figma, free for personal and commercial use.
+- [Public Work](https://public.work) - A search engine for 100,000+ public domain images from institutions like The Met and the New York Public Library.
+- [Doodle Ipsum](https://doodleipsum.com) - The lorem ipsum of illustrations — generate placeholder artwork in flat, hand-drawn or avatar styles straight from a URL.
 
 ## Templates
 
@@ -128,6 +136,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Klim](https://klim.co.nz) - 💵 Shop quality, curated fonts from indie font foundries.
 - [Pangram Pangram](https://pangrampangram.com) - 💵 An independent type foundry with high-quality typefaces, free to try before you license them.
 - [Typewolf](https://www.typewolf.com) - What's trending in type: font lists, lookbooks and typography resources, illustrated with real-world examples.
+- [Fonts In Use](https://fontsinuse.com) - An independent archive of typography, indexed by typeface, format and industry.
 - [Fontsource](https://fontsource.org) - Self-host open source fonts as npm packages, with 2,000+ families and variable font support.
 - [Modern Font Stacks](https://modernfontstacks.com) - System font stacks organized by typeface classification — no downloads, no layout shifts, instant renders.
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com) - The first open-source type foundry, with well-crafted typefaces free to use in any project.
@@ -151,7 +160,9 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [OKLCH Color Picker](https://oklch.com) - Color picker and converter for the OKLCH color space, with contrast checking and P3 gamut preview.
 - [Radix Colors](https://www.radix-ui.com/colors) - A gorgeous, accessible 12-step color system for user interfaces, with matching dark mode scales.
 - [UI Colors](https://uicolors.app) - Tailwind CSS color generator that previews your palette across components, dashboards and charts.
+- [Khroma](https://www.khroma.co) - Trains a model on the colors you like, then generates endless palettes you can search and save.
 - [Leonardo](https://leonardocolor.io) - Adobe's open-source tool for generating accessible color systems from target contrast ratios.
+- [Mesh Gradient](https://www.meshgradient.com) - Create beautiful, unique shader-based mesh gradients in a few clicks.
 
 ## Tools
 
@@ -181,9 +192,11 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Animista](https://animista.net) - Browse ready-made CSS animations, tweak them and copy out only the code you need.
 - [Utopia](https://utopia.fyi) - Calculators for fluid type and space scales that interpolate between viewports instead of snapping at breakpoints.
 - [tweakcn](https://tweakcn.com) - A visual theme editor for shadcn/ui — customize colors, typography and layouts with a real-time preview, then export to Tailwind.
+- [Wakamai Fondue](https://wakamaifondue.com) - Drop in a font and find out what it can do — glyphs, OpenType features, variable axes and language support.
 - [Open Props](https://open-props.style) - Supercharged CSS variables: expertly crafted design tokens for colors, gradients, shadows, easings and more.
 - [Hero Patterns](https://heropatterns.com) - A collection of repeatable SVG background patterns, customizable in color and opacity.
 - [Checklist Design](https://www.checklist.design) - Collections of best practices for websites, apps, components and flows, so you can check every detail before shipping.
+- [Unicorn Studio](https://www.unicorn.studio) - Design interactive WebGL graphics, shaders and scroll effects in the browser and embed them in any site.
 
 ## Books
 

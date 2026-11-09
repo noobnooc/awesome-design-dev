@@ -43,9 +43,14 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Ark UI](https://ark-ui.com) - Eine Headless-Bibliothek mit über 45 barrierefreien Komponenten für React, Solid, Vue und Svelte, die du mit deinem eigenen Designsystem gestaltest.
 - [Flowbite](https://flowbite.com) - Eine Open-Source-Bibliothek mit über 600 UI-Komponenten, Sektionen und Seiten auf Basis von Tailwind CSS, entworfen in Figma.
 - [Tremor](https://tremor.so) - Über 35 Open-Source-React-Komponenten für Diagramme und Dashboards, gebaut mit Tailwind CSS und Radix UI.
+- [Primer](https://primer.style) - Das Design-System von GitHub mit React- und CSS-Komponenten, Octicons und einem Brand-Toolkit.
 - [Material Design 3](https://m3.material.io) - Das Open-Source-Design-System von Google mit Richtlinien, Komponenten sowie Farb- und Typografie-Tokens.
+- [UIBall Loaders](https://uiball.com/loaders) - Kostenlose Open-Source-Loader und Spinner aus HTML, CSS und SVG, verfügbar als React- und Web-Components.
 - [Nuxt UI](https://ui.nuxt.com) - Eine umfassende Komponentenbibliothek für Vue und Nuxt mit über 125 barrierefreien, mit Tailwind CSS gestalteten Komponenten.
 - [MUI](https://mui.com) - Eine umfassende Sammlung von React-UI-Werkzeugen, von der voll ausgestatteten Material-UI-Komponentenbibliothek bis zu ungestylten, produktionsreifen Primitiven.
+- [Kibo UI](https://www.kibo-ui.com) - Kombinierbare, barrierefreie Komponenten für shadcn/ui, inklusive komplexer Bausteine wie Editoren, Kanban-Boards und Datei-Uploads.
+- [mapcn](https://www.mapcn.dev) - Kostenlose, quelloffene Karten-Komponenten für React auf Basis von MapLibre, mit Tailwind gestaltet und per shadcn-CLI installierbar.
+- [Animate UI](https://animate-ui.com) - Quelloffene animierte React-Komponenten auf Basis von Radix UI, Base UI und React Aria, mit CLI, um bestehenden shadcn/ui-Komponenten Bewegung hinzuzufügen.
 
 ## Icons
 
@@ -67,9 +72,11 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Iconoir](https://iconoir.com) - Über 1600 kostenlose, quelloffene SVG-Icons für SVG, Font, React, React Native, Flutter, Figma und Framer.
 - [3dicons](https://3dicons.co) - Über 1500 handgefertigte 3D-Icon-Renderings, kostenlos und quelloffen, mit optionalen Premium-Paketen.
 - [Font Awesome](https://fontawesome.com) - Das klassische Icon-Toolkit mit Tausenden kostenlosen Icons und einer größeren Pro-Bibliothek – für Web, Desktop und Figma.
+- [Pixelarticons](https://pixelarticons.com) - Über 4.600 handgefertigte Pixel-Art-Icons auf einem 24×24-Raster in vier Stilen.
 - [Radix Icons](https://www.radix-ui.com/icons) - Ein klarer Satz von 15×15-Icons vom Radix-Team, verfügbar für Figma, als SVG-Download und über npm.
 - [OpenMoji](https://openmoji.org) - Open-Source-Emojis für Designer und Entwickler – als SVG, PNG und Schriftart, farbig oder als schwarze Outline.
 - [Iconify](https://iconify.design) - Ein einheitliches Framework für über 300.000 quelloffene Vektor-Icons aus mehr als 200 Icon-Sets, nutzbar in jedem Framework.
+- [Lordicon](https://lordicon.com) - Animierte Icon-Bibliothek mit über 9700 kostenlosen Icons und einem größeren Premium-Angebot, für Web, React und Figma.
 
 ## Illustrationen
 
@@ -85,9 +92,10 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Shapefest](https://shapefest.com) - 💵 Über 100K transparente PNG-Bilder schöner 3D-Objekte.
 - [Blush](https://blush.design) - Kostenlose anpassbare Illustrationen mit Figma-Plugin. Erstellen, bearbeiten und verwenden Sie Illustrationen in Ihren Designs.
 - [Open Peeps](https://www.openpeeps.com) - Eine handgezeichnete Illustrationsbibliothek zum Erstellen von Szenen mit Menschen. Sie können sie in Produktillustration, Marketing, Comics und mehr verwenden.
-- [ManyPixels](https://www.manypixels.co/gallery) - Kostenlose Illustrationen in mehreren fertigen Stilen, umfärbbar und als SVG oder PNG herunterladbar.
 - [Open Doodles](https://www.opendoodles.com) - Ein kostenloses Open-Source-Set handgezeichneter Illustrationen, die Sie umfärben und remixen können.
 - [illlustrations.co](https://illlustrations.co) - Ein Open-Source-Illustrationskit mit über 120 Illustrationen in AI, SVG, PNG, EPS und Figma – kostenlos für private und kommerzielle Nutzung.
+- [Public Work](https://public.work) - Eine Suchmaschine für über 100.000 gemeinfreie Bilder aus Institutionen wie dem Met und der New York Public Library.
+- [Doodle Ipsum](https://doodleipsum.com) - Das Lorem Ipsum der Illustrationen – Platzhaltergrafiken in flachem, handgezeichnetem oder Avatar-Stil direkt per URL erzeugen.
 
 ## Vorlagen
 
@@ -128,6 +136,7 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Klim](https://klim.co.nz) - 💵 Kaufen Sie kuratierte Qualitätsschriften von unabhängigen Schriftgießereien.
 - [Pangram Pangram](https://pangrampangram.com) - 💵 Eine unabhängige Schriftgießerei mit hochwertigen Schriften, kostenlos testbar vor dem Lizenzkauf.
 - [Typewolf](https://www.typewolf.com) - Typografie-Trends im Blick: Font-Listen, Lookbooks und Typografie-Ressourcen mit Beispielen aus der Praxis.
+- [Fonts In Use](https://fontsinuse.com) - Ein unabhängiges Typografie-Archiv, erschlossen nach Schriftart, Format und Branche.
 - [Fontsource](https://fontsource.org) - Open-Source-Schriften als npm-Pakete selbst hosten – über 2000 Familien inklusive Variable-Font-Unterstützung.
 - [Modern Font Stacks](https://modernfontstacks.com) - Nach Schriftklassifikation geordnete System-Font-Stacks – ohne Downloads, ohne Layout-Shifts, sofort gerendert.
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com) - Die erste quelloffene Schriftgießerei mit sorgfältig gestalteten Schriften, frei für jedes Projekt.
@@ -151,7 +160,9 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [OKLCH Color Picker](https://oklch.com) - Farbwähler und Konverter für den OKLCH-Farbraum, mit Kontrastprüfung und P3-Gamut-Vorschau.
 - [Radix Colors](https://www.radix-ui.com/colors) - Ein ansprechendes, barrierefreies Farbsystem mit 12 Stufen für Interfaces, inklusive passender Dark-Mode-Skalen.
 - [UI Colors](https://uicolors.app) - Tailwind-CSS-Farbgenerator, der deine Palette direkt auf Komponenten, Dashboards und Diagrammen zeigt.
+- [Khroma](https://www.khroma.co) - Trainiert ein Modell auf deine Lieblingsfarben und erzeugt daraus endlose Paletten zum Suchen und Speichern.
 - [Leonardo](https://leonardocolor.io) - Adobes quelloffenes Werkzeug, das barrierefreie Farbsysteme anhand gewünschter Kontrastverhältnisse erzeugt.
+- [Mesh Gradient](https://www.meshgradient.com) - Erstelle mit wenigen Klicks schöne, einzigartige Shader-basierte Mesh-Verläufe.
 
 ## Werkzeuge
 
@@ -181,9 +192,11 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Animista](https://animista.net) - Fertige CSS-Animationen durchstöbern, anpassen und nur den benötigten Code herauskopieren.
 - [Utopia](https://utopia.fyi) - Rechner für fluide Schrift- und Abstandsskalen, die zwischen Viewports interpolieren statt an Breakpoints zu springen.
 - [tweakcn](https://tweakcn.com) - Ein visueller Theme-Editor für shadcn/ui – Farben, Typografie und Layouts mit Echtzeitvorschau anpassen und nach Tailwind exportieren.
+- [Wakamai Fondue](https://wakamaifondue.com) - Schrift hineinziehen und sehen, was sie kann – Glyphen, OpenType-Funktionen, variable Achsen und Sprachunterstützung.
 - [Open Props](https://open-props.style) - Aufgewertete CSS-Variablen: sorgfältig gestaltete Design-Tokens für Farben, Verläufe, Schatten, Easings und mehr.
 - [Hero Patterns](https://heropatterns.com) - Eine Sammlung wiederholbarer SVG-Hintergrundmuster, in Farbe und Deckkraft anpassbar.
 - [Checklist Design](https://www.checklist.design) - Sammlungen von Best Practices für Websites, Apps, Komponenten und Flows – damit vor dem Launch jedes Detail stimmt.
+- [Unicorn Studio](https://www.unicorn.studio) - Interaktive WebGL-Grafiken, Shader und Scroll-Effekte im Browser gestalten und in jede Website einbetten.
 
 ## Bücher
 
