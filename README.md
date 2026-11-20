@@ -200,6 +200,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Hero Patterns](https://heropatterns.com) - A collection of repeatable SVG background patterns, customizable in color and opacity.
 - [Checklist Design](https://www.checklist.design) - Collections of best practices for websites, apps, components and flows, so you can check every detail before shipping.
 - [Unicorn Studio](https://www.unicorn.studio) - Design interactive WebGL graphics, shaders and scroll effects in the browser and embed them in any site.
+- [iArt](https://www.iart.ai/) - 💵 Create motion graphics from prompts, refine them through conversational edits, and export videos for logo animation, kinetic typography and explainers. Free to start.
 
 ## Books
 
