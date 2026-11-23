@@ -170,6 +170,7 @@
 
 - [Penpot](https://penpot.app) - Penpot 是基于 Web 的开源设计工具，连接设计师和开发人员之间的差距。
 - [Shots](https://shots.so) - 在几秒钟内创建惊人的模型。
+- [AppScreen](https://appscreen.pro) - 免费的浏览器端 App Store 和 Google Play 截图制作工具，支持设备边框和文案，一次导出所有商店尺寸。
 - [Rive](https://rive.app) - 设计、构建和发布用户界面的新方法
 - [Lottielab](https://www.lottielab.com) - 产品团队的动态设计工具。
 - [EasyLottie](https://www.easylottie.com) - 免费的浏览器端 Lottie 工具：预览、改色、压缩和格式转换，无需上传和注册。

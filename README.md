@@ -169,6 +169,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 
 - [Penpot](https://penpot.app) - Penpot is the web-based open-source design tool that bridges the gap between designers and developers.
 - [Shots](https://shots.so) - Create amazing mockups in seconds.
+- [AppScreen](https://appscreen.pro) - Free App Store and Google Play screenshot maker in the browser, with device frames, captions and every store size exported.
 - [Rive](https://rive.app) - A new way to design, build, and ship user interfaces
 - [Lottielab](https://www.lottielab.com) - The motion design tool for product teams.
 - [EasyLottie](https://www.easylottie.com) - Free browser tools to preview, recolor, compress and convert Lottie animations, with no upload or sign-up.
