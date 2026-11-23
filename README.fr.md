@@ -169,8 +169,10 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 
 - [Penpot](https://penpot.app) - Penpot est l'outil de design open source basé web qui fait le lien entre designers et développeurs.
 - [Shots](https://shots.so) - Créez des maquettes fantastiques en secondes.
+- [AppScreen](https://appscreen.pro) - Générateur gratuit de captures pour l'App Store et Google Play dans le navigateur, avec cadres d'appareil, légendes et export dans toutes les tailles des stores.
 - [Rive](https://rive.app) - Une nouvelle façon de concevoir, construire et expédier des interfaces utilisateur.
 - [Lottielab](https://www.lottielab.com) - L'outil de design de mouvement pour équipes produit.
+- [iArt](https://www.iart.ai/) - 💵 Créez des motion graphics à partir de prompts, affinez-les en conversant et exportez des vidéos pour des animations de logo, de la typographie cinétique et des vidéos explicatives. Gratuit pour commencer.
 - [EasyLottie](https://www.easylottie.com) - Outils gratuits dans le navigateur pour prévisualiser, recolorer, compresser et convertir des animations Lottie, sans envoi de fichiers ni inscription.
 - [Notion Avatar Maker](https://notion-avatar.app) - Création d'avatars style Notion.
 - [Haikei](https://haikei.app) - Générez des arrière-plans SVG uniques, blobs, vagues et autres ressources de design directement dans le navigateur.
@@ -228,3 +230,4 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [Codrops](https://tympanus.net/codrops) - Une publication pour les designers et développeurs web, avec des démos créatives, des tutoriels et une galerie de sites remarquables.
 - [Cosmos](https://www.cosmos.so) - Un espace de découverte visuelle pour collecter, organiser et partager son inspiration.
 - [Pixlpin](https://pixlpin.com) - Une bibliothèque de design gratuite, sélectionnée sur le web, avec de vrais écrans d'apps, des parcours utilisateur et des sites.
+- [Design Details](https://designdetails.io) - Une bibliothèque gratuite et triée sur le volet de vrais designs de sites, avec captures pleine page, sections individuelles, enregistrements des animations, ainsi que les polices et couleurs relevées.

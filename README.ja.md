@@ -169,8 +169,10 @@
 
 - [Penpot](https://penpot.app) - Penpot は、デザイナーと開発者を橋渡しする Web ベースのオープンソースデザインツール。
 - [Shots](https://shots.so) - 数秒で素晴らしいモックアップを作成。
+- [AppScreen](https://appscreen.pro) - ブラウザで使える無料の App Store・Google Play 用スクリーンショット作成ツール。デバイスフレームやキャプションに対応し、ストアの全サイズを書き出せます。
 - [Rive](https://rive.app) - ユーザーインターフェースをデザイン、構築、配信する新しい方法。
 - [Lottielab](https://www.lottielab.com) - プロダクトチーム用のモーションデザインツール。
+- [iArt](https://www.iart.ai/) - 💵 プロンプトからモーショングラフィックスを生成し、対話で調整して動画として書き出せます。ロゴアニメーション、キネティックタイポグラフィ、解説動画向け。無料で始められます。
 - [EasyLottie](https://www.easylottie.com) - Lottie アニメーションのプレビュー、色変更、圧縮、変換ができる無料のブラウザツール。アップロードや登録は不要。
 - [Notion Avatar Maker](https://notion-avatar.app) - Notion 風アバターの作成。
 - [Haikei](https://haikei.app) - ブラウザ上でユニークな SVG の背景、ブロブ、波などのデザインアセットを生成。
@@ -228,3 +230,4 @@
 - [Codrops](https://tympanus.net/codrops) - ウェブデザイナーとデベロッパー向けのメディア。創造的なデモ、チュートリアル、優れたサイトの厳選ギャラリーを掲載。
 - [Cosmos](https://www.cosmos.so) - デザインのインスピレーションを集め、整理し、共有するためのビジュアル探索スペース。
 - [Pixlpin](https://pixlpin.com) - ネットから厳選した無料のデザインライブラリ。実際のアプリ画面、ユーザーフロー、ウェブサイトを収録。
+- [Design Details](https://designdetails.io) - 実在するウェブサイトのデザインを厳選した無料ライブラリ。フルページキャプチャ、セクション単位の切り出し、モーションの録画、実測したフォントと配色を収録。

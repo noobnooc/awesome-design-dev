@@ -169,8 +169,10 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 
 - [Penpot](https://penpot.app) - Penpot ist das webbasierte Open-Source-Design-Tool, das Designer und Entwickler verbindet.
 - [Shots](https://shots.so) - Erstellen Sie erstaunliche Mockups in Sekunden.
+- [AppScreen](https://appscreen.pro) - Kostenloser Screenshot-Generator für App Store und Google Play im Browser, mit Geräterahmen, Beschriftungen und Export in allen Store-Größen.
 - [Rive](https://rive.app) - Ein neuer Weg, Benutzeroberflächen zu entwerfen, zu erstellen und zu versenden.
 - [Lottielab](https://www.lottielab.com) - Das Motion-Design-Tool für Produktteams.
+- [iArt](https://www.iart.ai/) - 💵 Motion Graphics per Prompt erstellen, im Dialog verfeinern und als Video exportieren, etwa für Logo-Animationen, kinetische Typografie und Erklärvideos. Kostenloser Einstieg.
 - [EasyLottie](https://www.easylottie.com) - Kostenlose Browser-Tools zum Anzeigen, Umfärben, Komprimieren und Konvertieren von Lottie-Animationen, ohne Upload oder Registrierung.
 - [Notion Avatar Maker](https://notion-avatar.app) - Erstellen von Notion-Style-Avataren.
 - [Haikei](https://haikei.app) - Erzeuge einzigartige SVG-Hintergründe, Blobs, Wellen und weitere Design-Assets direkt im Browser.
@@ -228,3 +230,4 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Codrops](https://tympanus.net/codrops) - Ein Magazin für Webdesigner und -entwickler mit kreativen Demos, Tutorials und einer kuratierten Galerie herausragender Websites.
 - [Cosmos](https://www.cosmos.so) - Ein Raum für visuelle Entdeckungen, um Design-Inspiration zu sammeln, zu ordnen und zu teilen.
 - [Pixlpin](https://pixlpin.com) - Eine kostenlose, aus dem Netz kuratierte Design-Bibliothek mit echten App-Screens, User Flows und Websites.
+- [Design Details](https://designdetails.io) - Eine kostenlose, handverlesene Bibliothek echter Website-Designs mit ganzseitigen Aufnahmen, einzelnen Abschnitten, Bewegungsaufnahmen sowie ausgelesenen Schriften und Farben.

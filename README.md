@@ -169,8 +169,10 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 
 - [Penpot](https://penpot.app) - Penpot is the web-based open-source design tool that bridges the gap between designers and developers.
 - [Shots](https://shots.so) - Create amazing mockups in seconds.
+- [AppScreen](https://appscreen.pro) - Free App Store and Google Play screenshot maker in the browser, with device frames, captions and every store size exported.
 - [Rive](https://rive.app) - A new way to design, build, and ship user interfaces
 - [Lottielab](https://www.lottielab.com) - The motion design tool for product teams.
+- [iArt](https://www.iart.ai/) - 💵 Create motion graphics from prompts, refine them through conversational edits, and export videos for logo animation, kinetic typography and explainers. Free to start.
 - [EasyLottie](https://www.easylottie.com) - Free browser tools to preview, recolor, compress and convert Lottie animations, with no upload or sign-up.
 - [Notion Avatar Maker](https://notion-avatar.app) - Making notion-style avatars.
 - [Haikei](https://haikei.app) - Generate unique SVG backgrounds, blobs, waves and other design assets right in the browser.
@@ -228,3 +230,4 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Codrops](https://tympanus.net/codrops) - A publication for web designers and developers, with creative demos, tutorials and a curated gallery of standout sites.
 - [Cosmos](https://www.cosmos.so) - A visual discovery space to collect, organize and share design inspiration.
 - [Pixlpin](https://pixlpin.com) - A free design library curated from the internet, with real app screens, user flows and websites.
+- [Design Details](https://designdetails.io) - A free, hand-picked library of real website designs, with full-page captures, individual sections, motion recordings and measured fonts and colours.

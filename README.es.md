@@ -169,8 +169,10 @@ También disponible en: [English](README.md) | [中文](README.zh.md) | [França
 
 - [Penpot](https://penpot.app) - Penpot es la herramienta de diseño de código abierto basada en web que conecta a diseñadores y desarrolladores.
 - [Shots](https://shots.so) - Crea mockups increíbles en segundos.
+- [AppScreen](https://appscreen.pro) - Generador gratuito de capturas para App Store y Google Play en el navegador, con marcos de dispositivo, textos y exportación en todos los tamaños de la tienda.
 - [Rive](https://rive.app) - Una nueva forma de diseñar, construir y enviar interfaces de usuario.
 - [Lottielab](https://www.lottielab.com) - La herramienta de diseño de movimiento para equipos de producto.
+- [iArt](https://www.iart.ai/) - 💵 Crea motion graphics a partir de prompts, refínalos conversando y exporta vídeos para animaciones de logotipos, tipografía cinética y vídeos explicativos. Gratis para empezar.
 - [EasyLottie](https://www.easylottie.com) - Herramientas gratuitas en el navegador para previsualizar, cambiar colores, comprimir y convertir animaciones Lottie, sin subir archivos ni registrarse.
 - [Notion Avatar Maker](https://notion-avatar.app) - Creando avatares estilo Notion.
 - [Haikei](https://haikei.app) - Genera fondos SVG únicos, blobs, ondas y otros recursos de diseño directamente en el navegador.
@@ -228,3 +230,4 @@ También disponible en: [English](README.md) | [中文](README.zh.md) | [França
 - [Codrops](https://tympanus.net/codrops) - Una publicación para diseñadores y desarrolladores web, con demos creativas, tutoriales y una galería curada de sitios destacados.
 - [Cosmos](https://www.cosmos.so) - Un espacio de descubrimiento visual para reunir, organizar y compartir inspiración de diseño.
 - [Pixlpin](https://pixlpin.com) - Una biblioteca de diseño gratuita recopilada de internet, con pantallas reales de apps, flujos de usuario y sitios web.
+- [Design Details](https://designdetails.io) - Una biblioteca gratuita y seleccionada a mano de diseños web reales, con capturas de página completa, secciones individuales, grabaciones de movimiento y las fuentes y colores de cada sitio.
