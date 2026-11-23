@@ -173,6 +173,7 @@
 - [AppScreen](https://appscreen.pro) - 免费的浏览器端 App Store 和 Google Play 截图制作工具，支持设备边框和文案，一次导出所有商店尺寸。
 - [Rive](https://rive.app) - 设计、构建和发布用户界面的新方法
 - [Lottielab](https://www.lottielab.com) - 产品团队的动态设计工具。
+- [iArt](https://www.iart.ai/) - 💵 通过提示词生成动态图形，以对话方式调整，并导出视频，适用于 Logo 动画、动态排版和讲解视频。可免费开始。
 - [EasyLottie](https://www.easylottie.com) - 免费的浏览器端 Lottie 工具：预览、改色、压缩和格式转换，无需上传和注册。
 - [Notion Avatar Maker](https://notion-avatar.app) - 制作 notion 风格头像。
 - [Haikei](https://haikei.app) - 直接在浏览器中生成独特的 SVG 背景、色块、波浪等设计素材。
@@ -230,3 +231,4 @@
 - [Codrops](https://tympanus.net/codrops) - 面向网页设计师和开发者的刊物，提供创意演示、教程以及精选的优秀网站画廊。
 - [Cosmos](https://www.cosmos.so) - 视觉发现空间，用于收集、整理并分享设计灵感。
 - [Pixlpin](https://pixlpin.com) - 免费的设计灵感库，收录来自互联网的真实应用界面、用户流程和网站。
+- [Design Details](https://designdetails.io) - 免费的精选真实网站设计库，提供整页截图、单独区块、动效录屏，以及从网站读取的字体和配色。
