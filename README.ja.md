@@ -202,6 +202,7 @@
 - [Hero Patterns](https://heropatterns.com) - 色と不透明度をカスタマイズできる、繰り返し使える SVG 背景パターン集。
 - [Checklist Design](https://www.checklist.design) - Web サイト・アプリ・コンポーネント・フローのベストプラクティス集。公開前に細部まで確認できる。
 - [Unicorn Studio](https://www.unicorn.studio) - インタラクティブな WebGL グラフィックやシェーダー、スクロール演出をブラウザ上で制作し、任意のサイトに埋め込めます。
+- [Kite](https://kite.new) - AIエージェントとチームが共有するデザインツール。エージェントはMCPで接続して編集可能なレイヤーを描画し、フレームはHTML・React・Tailwindとしてコピーできます。無料プランあり。
 
 ## 書籍
 

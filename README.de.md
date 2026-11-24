@@ -202,6 +202,7 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Hero Patterns](https://heropatterns.com) - Eine Sammlung wiederholbarer SVG-Hintergrundmuster, in Farbe und Deckkraft anpassbar.
 - [Checklist Design](https://www.checklist.design) - Sammlungen von Best Practices für Websites, Apps, Komponenten und Flows – damit vor dem Launch jedes Detail stimmt.
 - [Unicorn Studio](https://www.unicorn.studio) - Interaktive WebGL-Grafiken, Shader und Scroll-Effekte im Browser gestalten und in jede Website einbetten.
+- [Kite](https://kite.new) - Ein Design-Tool, das sich deine KI-Agenten und dein Team teilen: Agenten verbinden sich per MCP und zeichnen bearbeitbare Ebenen, Frames lassen sich als HTML, React oder Tailwind kopieren. Kostenloser Plan.
 
 ## Bücher
 
