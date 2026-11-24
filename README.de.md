@@ -164,6 +164,7 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Khroma](https://www.khroma.co) - Trainiert ein Modell auf deine Lieblingsfarben und erzeugt daraus endlose Paletten zum Suchen und Speichern.
 - [Leonardo](https://leonardocolor.io) - Adobes quelloffenes Werkzeug, das barrierefreie Farbsysteme anhand gewünschter Kontrastverhältnisse erzeugt.
 - [Mesh Gradient](https://www.meshgradient.com) - Erstelle mit wenigen Klicks schöne, einzigartige Shader-basierte Mesh-Verläufe.
+- [Image Color Picker](https://bestlatestapps.com/tools/image-color-picker/) - Klicke auf ein beliebiges Pixel eines Fotos, um den genauen HEX-, RGB- und HSL-Wert zu erhalten, und sieh die Hauptfarben des Bildes mit ihrem Anteil, direkt im Browser.
 
 ## Werkzeuge
 

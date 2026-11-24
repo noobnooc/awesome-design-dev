@@ -164,6 +164,7 @@
 - [Khroma](https://www.khroma.co) - 好みの色を学習させ、検索・保存できるパレットを無限に生成してくれるツール。
 - [Leonardo](https://leonardocolor.io) - 目標とするコントラスト比からアクセシブルなカラーシステムを生成する、Adobe 製のオープンソースツール。
 - [Mesh Gradient](https://www.meshgradient.com) - シェーダーを使った美しくユニークなメッシュグラデーションを、数クリックで作成できます。
+- [Image Color Picker](https://bestlatestapps.com/tools/image-color-picker/) - 写真の任意のピクセルをクリックすると正確な HEX・RGB・HSL が分かり、画像の主な色とその割合も表示されます。ブラウザで動作します。
 
 ## ツール
 

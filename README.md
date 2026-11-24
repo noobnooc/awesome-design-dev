@@ -164,6 +164,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Khroma](https://www.khroma.co) - Trains a model on the colors you like, then generates endless palettes you can search and save.
 - [Leonardo](https://leonardocolor.io) - Adobe's open-source tool for generating accessible color systems from target contrast ratios.
 - [Mesh Gradient](https://www.meshgradient.com) - Create beautiful, unique shader-based mesh gradients in a few clicks.
+- [Image Color Picker](https://bestlatestapps.com/tools/image-color-picker/) - Click any pixel of a photo for its exact HEX, RGB and HSL, and see the main colors in the image with their share, in the browser.
 
 ## Tools
 

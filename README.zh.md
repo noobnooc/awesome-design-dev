@@ -165,6 +165,7 @@
 - [Khroma](https://www.khroma.co) - 根据你喜欢的颜色训练模型，持续生成可搜索和收藏的配色方案。
 - [Leonardo](https://leonardocolor.io) - Adobe 开源的配色工具，可根据目标对比度生成可访问的配色系统。
 - [Mesh Gradient](https://www.meshgradient.com) - 使用着色器几步即可生成漂亮独特的网格渐变。
+- [Image Color Picker](https://bestlatestapps.com/tools/image-color-picker/) - 点击照片中的任意像素即可获取精确的 HEX、RGB 和 HSL 值，并查看图片的主要颜色及其占比，在浏览器中运行。
 
 ## 工具
 

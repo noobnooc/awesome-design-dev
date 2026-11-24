@@ -164,6 +164,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [Khroma](https://www.khroma.co) - Entraîne un modèle sur les couleurs que vous aimez, puis génère des palettes infinies à rechercher et enregistrer.
 - [Leonardo](https://leonardocolor.io) - L'outil open source d'Adobe pour générer des systèmes de couleurs accessibles à partir de ratios de contraste cibles.
 - [Mesh Gradient](https://www.meshgradient.com) - Créez de superbes dégradés en maillage uniques, basés sur des shaders, en quelques clics.
+- [Image Color Picker](https://bestlatestapps.com/tools/image-color-picker/) - Cliquez sur n'importe quel pixel d'une photo pour obtenir ses valeurs HEX, RGB et HSL exactes, et voyez les couleurs principales de l'image avec leur part, dans le navigateur.
 
 ## Outils
 
