@@ -202,6 +202,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Hero Patterns](https://heropatterns.com) - A collection of repeatable SVG background patterns, customizable in color and opacity.
 - [Checklist Design](https://www.checklist.design) - Collections of best practices for websites, apps, components and flows, so you can check every detail before shipping.
 - [Unicorn Studio](https://www.unicorn.studio) - Design interactive WebGL graphics, shaders and scroll effects in the browser and embed them in any site.
+- [WarpImage Dev Tools](https://warpimage.com/dev) - Browser-based SVG textPath, liquid glass, displacement map, and geometric text/SVG warp generators that export clean CSS and SVG code locally.
 
 ## Books
 
