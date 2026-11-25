@@ -232,3 +232,4 @@
 - [Cosmos](https://www.cosmos.so) - 视觉发现空间，用于收集、整理并分享设计灵感。
 - [Pixlpin](https://pixlpin.com) - 免费的设计灵感库，收录来自互联网的真实应用界面、用户流程和网站。
 - [Design Details](https://designdetails.io) - 免费的精选真实网站设计库，提供整页截图、单独区块、动效录屏，以及从网站读取的字体和配色。
+- [Refto Explore](https://refto.one/explore) - 免费的精选真实网站设计库，每个网站都有整页截图与历史版本、页面区块，以及描述其配色、字体和组件的 DESIGN.md 文件。

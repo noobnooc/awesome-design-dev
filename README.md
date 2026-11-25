@@ -231,3 +231,4 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Cosmos](https://www.cosmos.so) - A visual discovery space to collect, organize and share design inspiration.
 - [Pixlpin](https://pixlpin.com) - A free design library curated from the internet, with real app screens, user flows and websites.
 - [Design Details](https://designdetails.io) - A free, hand-picked library of real website designs, with full-page captures, individual sections, motion recordings and measured fonts and colours.
+- [Refto Explore](https://refto.one/explore) - A free, hand-curated gallery of real websites, each with full-page screenshots and version history, page sections and a DESIGN.md file describing its colours, type and components.
