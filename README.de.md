@@ -232,3 +232,4 @@ Auch verfügbar in: [English](README.md) | [中文](README.zh.md) | [Español](R
 - [Cosmos](https://www.cosmos.so) - Ein Raum für visuelle Entdeckungen, um Design-Inspiration zu sammeln, zu ordnen und zu teilen.
 - [Pixlpin](https://pixlpin.com) - Eine kostenlose, aus dem Netz kuratierte Design-Bibliothek mit echten App-Screens, User Flows und Websites.
 - [Design Details](https://designdetails.io) - Eine kostenlose, handverlesene Bibliothek echter Website-Designs mit ganzseitigen Aufnahmen, einzelnen Abschnitten, Bewegungsaufnahmen sowie ausgelesenen Schriften und Farben.
+- [A1 Gallery](https://www.a1.gallery) - Eine handverlesene Galerie echter, live geschalteter Websites, nach Website, Abschnitt und ganzer Seite durchsuchbar, mit den Schriften, Farben und Abständen jeder Seite.
