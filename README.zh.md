@@ -203,6 +203,7 @@
 - [Hero Patterns](https://heropatterns.com) - 可重复平铺的 SVG 背景图案合集，颜色与透明度均可自定义。
 - [Checklist Design](https://www.checklist.design) - 面向网站、应用、组件与流程的最佳实践清单，帮助你在上线前逐项核对细节。
 - [Unicorn Studio](https://www.unicorn.studio) - 在浏览器中设计交互式 WebGL 图形、着色器和滚动特效，并嵌入到任意网站。
+- [Kite](https://kite.new) - 💵 AI 代理和团队共用的设计工具：代理通过 MCP 连接并绘制可编辑图层，画板可复制为 HTML、React 或 Tailwind。提供免费方案。
 
 ## 书籍
 
@@ -232,3 +233,4 @@
 - [Cosmos](https://www.cosmos.so) - 视觉发现空间，用于收集、整理并分享设计灵感。
 - [Pixlpin](https://pixlpin.com) - 免费的设计灵感库，收录来自互联网的真实应用界面、用户流程和网站。
 - [Design Details](https://designdetails.io) - 免费的精选真实网站设计库，提供整页截图、单独区块、动效录屏，以及从网站读取的字体和配色。
+- [A1 Gallery](https://www.a1.gallery) - 精选真实网站的设计灵感库，可按网站、区块和整页浏览，并查看每个网站使用的字体、颜色和间距。

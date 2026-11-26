@@ -202,6 +202,7 @@
 - [Hero Patterns](https://heropatterns.com) - 色と不透明度をカスタマイズできる、繰り返し使える SVG 背景パターン集。
 - [Checklist Design](https://www.checklist.design) - Web サイト・アプリ・コンポーネント・フローのベストプラクティス集。公開前に細部まで確認できる。
 - [Unicorn Studio](https://www.unicorn.studio) - インタラクティブな WebGL グラフィックやシェーダー、スクロール演出をブラウザ上で制作し、任意のサイトに埋め込めます。
+- [Kite](https://kite.new) - 💵 AIエージェントとチームが共有するデザインツール。エージェントはMCPで接続して編集可能なレイヤーを描画し、フレームはHTML・React・Tailwindとしてコピーできます。無料プランあり。
 
 ## 書籍
 
@@ -231,3 +232,4 @@
 - [Cosmos](https://www.cosmos.so) - デザインのインスピレーションを集め、整理し、共有するためのビジュアル探索スペース。
 - [Pixlpin](https://pixlpin.com) - ネットから厳選した無料のデザインライブラリ。実際のアプリ画面、ユーザーフロー、ウェブサイトを収録。
 - [Design Details](https://designdetails.io) - 実在するウェブサイトのデザインを厳選した無料ライブラリ。フルページキャプチャ、セクション単位の切り出し、モーションの録画、実測したフォントと配色を収録。
+- [A1 Gallery](https://www.a1.gallery) - 実在するウェブサイトを厳選したギャラリー。サイト、セクション、フルページ単位で閲覧でき、各サイトのフォント、配色、余白を確認できる。

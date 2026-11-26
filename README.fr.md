@@ -202,6 +202,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [Hero Patterns](https://heropatterns.com) - Une collection de motifs de fond SVG répétables, personnalisables en couleur et en opacité.
 - [Checklist Design](https://www.checklist.design) - Des recueils de bonnes pratiques pour sites, applications, composants et parcours, afin de vérifier chaque détail avant la mise en ligne.
 - [Unicorn Studio](https://www.unicorn.studio) - Concevez des graphismes WebGL interactifs, des shaders et des effets de défilement dans le navigateur, puis intégrez-les à n'importe quel site.
+- [Kite](https://kite.new) - 💵 Un outil de design partagé par vos agents IA et votre équipe : les agents se connectent via MCP et dessinent des calques modifiables, et les frames se copient en HTML, React ou Tailwind. Offre gratuite.
 
 ## Livres
 
@@ -231,3 +232,4 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [Cosmos](https://www.cosmos.so) - Un espace de découverte visuelle pour collecter, organiser et partager son inspiration.
 - [Pixlpin](https://pixlpin.com) - Une bibliothèque de design gratuite, sélectionnée sur le web, avec de vrais écrans d'apps, des parcours utilisateur et des sites.
 - [Design Details](https://designdetails.io) - Une bibliothèque gratuite et triée sur le volet de vrais designs de sites, avec captures pleine page, sections individuelles, enregistrements des animations, ainsi que les polices et couleurs relevées.
+- [A1 Gallery](https://www.a1.gallery) - Une galerie triée sur le volet de vrais sites en ligne, à parcourir par site, section et page complète, avec les polices, couleurs et espacements de chacun.
