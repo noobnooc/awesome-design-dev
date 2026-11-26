@@ -202,6 +202,7 @@ Aussi disponible en : [English](README.md) | [中文](README.zh.md) | [Español]
 - [Hero Patterns](https://heropatterns.com) - Une collection de motifs de fond SVG répétables, personnalisables en couleur et en opacité.
 - [Checklist Design](https://www.checklist.design) - Des recueils de bonnes pratiques pour sites, applications, composants et parcours, afin de vérifier chaque détail avant la mise en ligne.
 - [Unicorn Studio](https://www.unicorn.studio) - Concevez des graphismes WebGL interactifs, des shaders et des effets de défilement dans le navigateur, puis intégrez-les à n'importe quel site.
+- [Kite](https://kite.new) - Un outil de design partagé par vos agents IA et votre équipe : les agents se connectent via MCP et dessinent des calques modifiables, et les frames se copient en HTML, React ou Tailwind. Offre gratuite.
 
 ## Livres
 
