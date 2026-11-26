@@ -202,7 +202,7 @@ Also available in: [中文](README.zh.md) | [Español](README.es.md) | [Françai
 - [Hero Patterns](https://heropatterns.com) - A collection of repeatable SVG background patterns, customizable in color and opacity.
 - [Checklist Design](https://www.checklist.design) - Collections of best practices for websites, apps, components and flows, so you can check every detail before shipping.
 - [Unicorn Studio](https://www.unicorn.studio) - Design interactive WebGL graphics, shaders and scroll effects in the browser and embed them in any site.
-- [Kite](https://kite.new) - A design tool your AI agents and your team share: agents connect over MCP and draw editable layers, and frames copy out as HTML, React or Tailwind. Free plan.
+- [Kite](https://kite.new) - 💵 A design tool your AI agents and your team share: agents connect over MCP and draw editable layers, and frames copy out as HTML, React or Tailwind. Free plan.
 
 ## Books
 
